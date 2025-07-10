@@ -1,152 +1,69 @@
 
-    <style>
-    .cfb-table-wrap .game-card {
-        background: #f6fbfc;
-        border: 2.5px solid #bfdbe8;
-        border-radius: 16px;
-        padding: 16px 10px 12px 10px;
-        width: 95%;
-        max-width: 800px;
-        margin: 24px auto 18px auto;
-        box-shadow: 0 6px 18px #d8eaf6;
-        font-family: 'Segoe UI', Arial, sans-serif;
-        text-align:center;
-    }
-    .cfb-table-wrap .game-card .teams {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 12px;
-        text-align: center;
-    }
-    .cfb-table-wrap .game-card .team {
-        min-width: 130px;
-        text-align: center;
-        white-space: nowrap;
-        font-size: 2.05em;
-        font-weight: 800;
-    }
-    .cfb-table-wrap .game-card .score {
-        font-size: 2.35em;
-        font-weight: bold;
-        min-width: 55px;
-        text-align: center;
-    }
-    .cfb-table-wrap .game-card .center-info {
-        flex: 1 1 auto;
-        min-width: 200px;
-        text-align: center;
-        margin: 0 5px;
-    }
-    .cfb-table-wrap .game-card .logo {
-        width: 50px;
-        text-align:center;
-    }
-    .cfb-table-wrap .table-outer {
-        width: 100%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    .cfb-table-wrap .stat-table {
-        border-collapse: separate;
-        border-spacing: 0;
-        margin: 0 auto 40px auto;
-        width: 570px;
-        max-width: 98vw;
-        font-family: 'Segoe UI', Arial, sans-serif;
-        background: #fff;
-        border: 2.5px solid #bfdbe8;
-        border-radius: 16px;
-        box-shadow: 0 6px 18px #d8eaf6;
-        overflow: hidden;
-        text-align: center;
-    }
-    .cfb-table-wrap .stat-table th, .cfb-table-wrap .stat-table td {
-        font-size: 1.11em;
-        text-align: center;
-        border: none;
-    }
-    .cfb-table-wrap .stat-table th.stat, .cfb-table-wrap .stat-table td.stat {
-        min-width: 94px;
-        max-width: 105px;
-        width: 98px;
-        background: #f2f2f3;
-        color: #111;
-        text-align: center;
-        font-weight: 500;
-    }
-    .cfb-table-wrap .stat-table td.away, .cfb-table-wrap .stat-table th.away, .cfb-table-wrap .stat-table td.home, .cfb-table-wrap .stat-table th.home {
-        width: 190px;
-        min-width: 110px;
-        max-width: 220px;
-        background: #fff;
-        font-weight: 700;
-        text-align: center;
-        font-size: 1.25em;
-        vertical-align: middle;
-    }
-    .cfb-table-wrap .stat-table .section-header {
-        background: #e6f1fc !important;
-        font-weight: 700;
-        font-size: 1.09em;
-        color: #175886;
-        text-align: center;
-        border-top: none;
-        border-bottom: none;
-        letter-spacing: 0.6px;
-    }
-    .cfb-table-wrap .stat-table tr.table-header th {
-        background: #e3edfa;
-        color: #111;
-        font-weight: 700;
-        font-size: 1.19em;
-        border: none;
-        text-align: center;
-        vertical-align: middle;
-    }
-    .cfb-table-wrap .stat-table tr {
-        border: none;
-    }
-    .cfb-table-wrap .stat-table td, .cfb-table-wrap .stat-table th {
-        border: none;
-    }
-    </style>
+    <link href="https://fonts.googleapis.com/css?family=Oswald:700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:700&display=swap" rel="stylesheet">
     <div class="cfb-table-wrap">
-    <div class="game-card">
-        <div class="teams">
-            <div class="logo"><img src="logos/264.png" style="height:45px;margin-right:10px;vertical-align:middle;border-radius:8px;"></div>
-            <div class="team away" style="color:#4B2E83;font-size:2em;font-weight:800;">
-                Washington
+    <div style="display:flex;justify-content:center;">
+      <div style="background:#fff;border:3.5px solid #1452a2;border-radius:18px;box-shadow:0 8px 40px #b9d3ea;
+          margin:24px 0 24px 0;max-width:760px;width:98vw;padding:26px 34px 18px 34px;position:relative;">
+        <div style="display:flex;align-items:center;justify-content:space-between;">
+          <!-- Away team -->
+          <div style="flex:1;text-align:center;">
+            <img src="logos/264.png" style="height:76px;width:76px;border-radius:14px;border:2.5px solid #d8d8d8;">
+            <div style="font-family:'Oswald',Arial,sans-serif;font-size:2.05em;font-weight:900;letter-spacing:0.5px; margin-top:14px;color:#4B2E83;">
+              Washington
             </div>
-            <div class="score" style="color:#4B2E83;">6</div>
-            <div class="center-info">
-                <div style="font-size:17px; color:#444; font-weight:600;">Sat, Nov 9<sup style="font-size:11px;">th</sup>, 2024</div>
-                <div style="font-size:19px; font-weight:700;">Beaver Stadium</div>
-                <div style="font-size:15px; color:#111; margin-top:1px;">
-                    <b>Big Ten</b> | Excitement: <b style='font-size:1.1em'>3.3</b>
-                </div>
-                <div style="font-size:15px; color:#666;">
-                    20:00
-                </div>
+            <div style="color:#888;font-size:1em;font-weight:500;margin-top:1px;">
+              5-5 (3-4)
             </div>
-            <div class="score" style="color:#041E42;">35</div>
-            <div class="team home" style="color:#041E42;font-size:2em;font-weight:800;">
-                Penn State
+          </div>
+          <!-- Scorebox Center -->
+          <div style="flex:1.2;min-width:195px;max-width:280px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+            <div style="background:#1452a2;color:#fff;border-radius:14px;box-shadow:0 1.5px 8px #bbdbf6;
+                padding:11px 0 5px 0; width:100%;margin-bottom:6px;">
+              <div style="display:flex;align-items:center;justify-content:space-between;width:98%;margin:0 auto;">
+                <span style="font-family:'Montserrat',Arial,sans-serif;font-size:2.4em;font-weight:900;">
+                    6
+                </span>
+                <span style="font-size:1.25em;font-family:'Montserrat',Arial,sans-serif;font-weight:900;">–</span>
+                <span style="font-family:'Montserrat',Arial,sans-serif;font-size:2.4em;font-weight:900;">
+                    35
+                </span>
+              </div>
+              <div style="font-size:1.07em;font-family:'Montserrat',Arial,sans-serif;font-weight:500;margin-top:2px;color:#fff;">
+                20:00 ET &middot; 2024-11-09
+              </div>
             </div>
-            <div class="logo"><img src="logos/213.png" style="height:45px;margin-left:10px;vertical-align:middle;border-radius:8px;"></div>
+            <div style="font-size:1.07em;color:#222;font-weight:700;letter-spacing:0.2px;">
+              Beaver Stadium
+            </div>
+            <div style="font-size:1em;color:#444;font-weight:500;">
+              <span style="font-weight:700;">Big Ten</span>
+              &nbsp;|&nbsp; Excitement: <b>3.3</b>
+            </div>
+          </div>
+          <!-- Home team -->
+          <div style="flex:1;text-align:center;">
+            <img src="logos/213.png" style="height:76px;width:76px;border-radius:14px;border:2.5px solid #d8d8d8;">
+            <div style="font-family:'Oswald',Arial,sans-serif;font-size:2.05em;font-weight:900;letter-spacing:0.5px; margin-top:14px;color:#041E42;">
+              Penn State
+            </div>
+            <div style="color:#888;font-size:1em;font-weight:500;margin-top:1px;">
+              8-1 (5-1)
+            </div>
+          </div>
         </div>
+      </div>
     </div>
     
     <div class="table-outer">
     <table class="stat-table">
         <tr class="table-header">
-            <th class="away" style="color:#4B2E83; text-align:center;">
-                <span style="font-size:1.2em; font-weight:800;">Washington</span>
+            <th class="away" style="color:#4B2E83; text-align:center; font-family:'Oswald',Arial,sans-serif; background:#fff;">
+                <span style="font-size:1.2em; font-weight:900;">Washington</span>
             </th>
             <th class="stat"></th>
-            <th class="home" style="color:#041E42; text-align:center;">
-                <span style="font-size:1.2em; font-weight:800;">Penn State</span>
+            <th class="home" style="color:#041E42; text-align:center; font-family:'Oswald',Arial,sans-serif; background:#fff;">
+                <span style="font-size:1.2em; font-weight:900;">Penn State</span>
             </th>
         </tr>
         
@@ -374,3 +291,86 @@
     </table>
     </div>
     </div>
+    <style>
+    body {
+        background: #e9f3fc;
+        margin: 0;
+        padding: 0;
+    }
+    .cfb-table-wrap .game-card {
+        background: none;
+        box-shadow: none;
+        border: none;
+    }
+    .cfb-table-wrap .table-outer {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .cfb-table-wrap .stat-table {
+        border-collapse: separate;
+        border-spacing: 0;
+        margin: 0 auto 40px auto;
+        width: 620px;
+        max-width: 98vw;
+        font-family: 'Segoe UI', Arial, sans-serif;
+        background: #fff;
+        border: 3px solid #1452a2;
+        border-radius: 18px;
+        box-shadow: 0 6px 18px #b9d3ea;
+        overflow: hidden;
+        text-align: center;
+    }
+    .cfb-table-wrap .stat-table th, .cfb-table-wrap .stat-table td {
+        font-size: 1.11em;
+        text-align: center;
+        border: none;
+    }
+    .cfb-table-wrap .stat-table th.stat, .cfb-table-wrap .stat-table td.stat {
+        min-width: 94px;
+        max-width: 105px;
+        width: 98px;
+        background: #f2f2f3;
+        color: #111;
+        text-align: center;
+        font-weight: 500;
+    }
+    .cfb-table-wrap .stat-table td.away, .cfb-table-wrap .stat-table th.away, .cfb-table-wrap .stat-table td.home, .cfb-table-wrap .stat-table th.home {
+        width: 190px;
+        min-width: 110px;
+        max-width: 220px;
+        background: #fff;
+        font-family: 'Oswald', Arial, sans-serif;
+        font-weight: 900;
+        text-align: center;
+        font-size: 1.22em;
+        vertical-align: middle;
+    }
+    .cfb-table-wrap .stat-table .section-header {
+        background: #e6f1fc !important;
+        font-weight: 700;
+        font-size: 1.09em;
+        color: #175886;
+        text-align: center;
+        border-top: none;
+        border-bottom: none;
+        letter-spacing: 0.6px;
+    }
+    .cfb-table-wrap .stat-table tr.table-header th {
+        background: #fff;
+        color: #111;
+        font-weight: 900;
+        font-size: 1.19em;
+        border: none;
+        text-align: center;
+        vertical-align: middle;
+    }
+    .cfb-table-wrap .stat-table tr {
+        border: none;
+    }
+    .cfb-table-wrap .stat-table td, .cfb-table-wrap .stat-table th {
+        border: none;
+    }
+    </style>
+    
