@@ -1,0 +1,921 @@
+Week,Start_Date,Start_Time,Venue,Completed,Neutral_Site,Conference_Game,Home_Team,Home_Pts,Home_1Q,Home_2Q,Home_3Q,Home_4Q,Away_Team,Away_Pts,Away_1Q,Away_2Q,Away_3Q,Away_4Q,Excitement
+0,"Sat, Aug. 24, 2024",12:00,Aviva Stadium,Yes,Yes,ACC,Georgia Tech,24,7,7,0,10,Florida State,21,8,6,0,7,7.8
+0,"Sat, Aug. 24, 2024",16:00,University Stadium (NM),Yes,No,Non-Conf,New Mexico,31,10,14,7,0,Montana State,35,0,14,0,21,4.9
+0,"Sat, Aug. 24, 2024",20:00,Mackay Stadium,Yes,No,Non-Conf,Nevada,24,7,10,7,0,SMU,29,0,10,3,16,7.7
+0,"Sat, Aug. 24, 2024",23:59,Clarence T.C. Ching Athletics Complex,Yes,No,Non-Conf,Hawai'i,35,14,0,7,14,Delaware State,14,0,7,7,0,5.2
+1,"Thu, Aug. 29, 2024",18:00,SHI Stadium,Yes,No,Non-Conf,Rutgers,44,7,10,14,13,Howard,7,0,7,0,0,4.7
+1,"Thu, Aug. 29, 2024",19:00,Malone Stadium,Yes,No,Non-Conf,UL Monroe,30,7,7,7,9,Jackson State,14,0,7,7,0,6.5
+1,"Thu, Aug. 29, 2024",19:00,Kelly/Shorts Stadium,Yes,No,Non-Conf,Central Michigan,66,14,28,24,0,Central Connecticut,10,7,0,3,0,3.5
+1,"Thu, Aug. 29, 2024",19:00,Doyt L. Perry Stadium,Yes,No,Non-Conf,Bowling Green,41,20,7,7,7,Fordham,17,0,3,7,7,2.6
+1,"Thu, Aug. 29, 2024",19:00,UB Stadium,Yes,No,Non-Conf,Buffalo,30,13,3,7,7,Lafayette,13,0,0,6,7,4.5
+1,"Thu, Aug. 29, 2024",19:00,Carter-Finley Stadium,Yes,No,Non-Conf,NC State,38,7,7,3,21,Western Carolina,21,14,0,7,0,7.5
+1,"Thu, Aug. 29, 2024",19:00,FBC Mortgage Stadium,Yes,No,Non-Conf,UCF,57,6,23,28,0,New Hampshire,3,0,3,0,0,3.5
+1,"Thu, Aug. 29, 2024",19:00,Allegacy Federal Credit Union Stadium,Yes,No,Non-Conf,Wake Forest,45,7,10,21,7,North Carolina A&T,13,7,3,0,3,4.0
+1,"Thu, Aug. 29, 2024",19:30,War Memorial Stadium (AR),Yes,Yes,Non-Conf,Arkansas,70,28,21,7,14,Arkansas-Pine Bluff,0,0,0,0,0,2.6
+1,"Thu, Aug. 29, 2024",19:30,Glass Bowl,Yes,No,Non-Conf,Toledo,49,21,7,14,7,Duquesne,10,7,3,0,0,3.6
+1,"Thu, Aug. 29, 2024",20:00,Huntington Bank Stadium,Yes,No,Non-Conf,Minnesota,17,0,14,0,3,North Carolina,19,0,7,6,6,8.4
+1,"Thu, Aug. 29, 2024",20:00,Yulman Stadium,Yes,No,Non-Conf,Tulane,52,7,14,14,17,SE Louisiana,0,0,0,0,0,4.0
+1,"Thu, Aug. 29, 2024",20:00,Chapman Stadium,Yes,No,Non-Conf,Tulsa,62,14,27,7,14,Northwestern State,28,14,0,0,14,4.2
+1,"Thu, Aug. 29, 2024",20:00,Folsom Field,Yes,No,Non-Conf,Colorado,31,14,3,7,7,North Dakota State,26,10,10,0,6,6.0
+1,"Thu, Aug. 29, 2024",20:00,Protective Stadium,Yes,No,Non-Conf,UAB,41,14,14,3,10,Alcorn State,3,3,0,0,0,3.3
+1,"Thu, Aug. 29, 2024",20:00,AmFirst Stadium,Yes,No,Non-Conf,Jacksonville State,27,3,7,0,17,Coastal Carolina,55,17,14,10,14,2.4
+1,"Thu, Aug. 29, 2024",20:00,Memorial Stadium,Yes,No,Non-Conf,Missouri,51,28,7,10,6,Murray State,0,0,0,0,0,2.2
+1,"Thu, Aug. 29, 2024",20:00,Children's Mercy Park,Yes,Yes,Non-Conf,Kansas,48,7,27,7,7,Lindenwood,3,0,0,0,3,3.0
+1,"Thu, Aug. 29, 2024",21:00,Rice-Eccles Stadium,Yes,No,Non-Conf,Utah,49,7,28,7,7,Southern Utah,0,0,0,0,0,2.5
+1,"Thu, Aug. 29, 2024",21:00,"Memorial Stadium (Champaign, IL)",Yes,No,Non-Conf,Illinois,45,14,17,7,7,Eastern Illinois,0,0,0,0,0,2.6
+1,"Thu, Aug. 29, 2024",22:00,CEFCU Stadium,Yes,No,Non-Conf,San José State,42,7,7,7,21,Sacramento State,24,14,3,7,0,8.7
+1,"Fri, Aug. 30, 2024",18:00,Michie Stadium,Yes,No,Non-Conf,Army,42,7,14,7,14,Lehigh,7,7,0,0,0,3.1
+1,"Fri, Aug. 30, 2024",19:00,"Memorial Stadium (Norman, OK)",Yes,No,Non-Conf,Oklahoma,51,17,17,3,14,Temple,3,0,0,3,0,2.7
+1,"Fri, Aug. 30, 2024",19:00,Spartan Stadium,Yes,No,Non-Conf,Michigan State,16,2,14,0,0,Florida Atlantic,10,0,3,7,0,6.8
+1,"Fri, Aug. 30, 2024",19:30,Wallace Wade Stadium,Yes,No,Non-Conf,Duke,26,3,7,9,7,Elon,3,0,0,0,3,4.4
+1,"Fri, Aug. 30, 2024",21:00,Camp Randall Stadium,Yes,No,Non-Conf,Wisconsin,28,0,10,3,15,Western Michigan,14,0,7,0,7,7.1
+1,"Fri, Aug. 30, 2024",22:30,Stanford Stadium,Yes,No,Non-Conf,Stanford,27,7,10,0,10,TCU,34,7,3,10,14,9.3
+1,"Sat, Aug. 31, 2024",00:00,Maverik Stadium,Yes,No,Non-Conf,Utah State,36,7,3,10,16,Robert Morris,14,0,14,0,0,6.8
+1,"Sat, Aug. 31, 2024",12:00,SECU Stadium,Yes,No,Non-Conf,Maryland,50,14,9,13,14,UConn,7,0,0,7,0,3.0
+1,"Sat, Aug. 31, 2024",12:00,Acrisure Stadium,Yes,No,Non-Conf,Pittsburgh,55,14,14,14,13,Kent State,24,7,7,10,0,4.2
+1,"Sat, Aug. 31, 2024",12:00,Ross-Ade Stadium,Yes,No,Non-Conf,Purdue,49,7,14,14,14,Indiana State,0,0,0,0,0,3.1
+1,"Sat, Aug. 31, 2024",12:00,L&N Federal Credit Union Stadium,Yes,No,Non-Conf,Louisville,62,10,28,21,3,Austin Peay,0,0,0,0,0,2.4
+1,"Sat, Aug. 31, 2024",12:00,Navy-Marine Corps Memorial Stadium,Yes,No,Non-Conf,Navy,49,6,22,7,14,Bucknell,21,7,0,7,7,3.5
+1,"Sat, Aug. 31, 2024",12:00,Milan Puskar Stadium,Yes,No,Non-Conf,West Virginia,12,0,6,0,6,Penn State,34,0,20,7,7,3.2
+1,"Sat, Aug. 31, 2024",12:00,Mercedes-Benz Stadium,Yes,Yes,Non-Conf,Georgia,34,0,6,14,14,Clemson,3,0,0,3,0,4.0
+1,"Sat, Aug. 31, 2024",12:00,Kinnick Stadium,Yes,No,Non-Conf,Iowa,40,3,3,13,21,Illinois State,0,0,0,0,0,4.3
+1,"Sat, Aug. 31, 2024",12:00,FirstBank Stadium,Yes,No,Non-Conf,Vanderbilt,34,3,14,3,7,Virginia Tech,27,0,3,10,14,7.8
+1,"Sat, Aug. 31, 2024",12:45,Neyland Stadium,Yes,No,Non-Conf,Tennessee,69,24,21,10,14,Chattanooga,3,0,0,3,0,2.1
+1,"Sat, Aug. 31, 2024",14:00,Boone Pickens Stadium,Yes,No,Non-Conf,Oklahoma State,44,10,7,21,6,South Dakota State,20,0,6,7,7,3.9
+1,"Sat, Aug. 31, 2024",14:30,Nippert Stadium,Yes,No,Non-Conf,Cincinnati,38,21,7,10,0,Towson,20,3,14,3,0,4.1
+1,"Sat, Aug. 31, 2024",15:00,Gesa Field,Yes,No,Non-Conf,Washington State,70,22,27,14,7,Portland State,30,7,10,6,7,3.0
+1,"Sat, Aug. 31, 2024",15:30,Alamodome,Yes,No,Non-Conf,UTSA,28,14,7,0,7,Kennesaw State,16,3,3,3,7,5.4
+1,"Sat, Aug. 31, 2024",15:30,Lanny and Sharon Martin Stadium,Yes,Yes,Non-Conf,Northwestern,13,3,0,7,3,Miami (OH),6,3,0,0,3,5.9
+1,"Sat, Aug. 31, 2024",15:30,Ohio Stadium,Yes,No,Non-Conf,Ohio State,52,7,10,21,14,Akron,6,3,0,3,0,4.4
+1,"Sat, Aug. 31, 2024",15:30,"Memorial Stadium (Bloomington, IN)",Yes,No,Non-Conf,Indiana,31,14,7,3,7,Florida International,7,0,7,0,0,3.7
+1,"Sat, Aug. 31, 2024",15:30,Falcon Stadium,Yes,No,Non-Conf,Air Force,21,7,7,0,7,Merrimack,6,0,0,0,6,6.1
+1,"Sat, Aug. 31, 2024",15:30,Warren McGuirk Alumni Stadium,Yes,No,Non-Conf,Massachusetts,14,0,0,7,7,Eastern Michigan,28,0,14,3,11,4.1
+1,"Sat, Aug. 31, 2024",15:30,Kidd Brewer Stadium,Yes,No,Non-Conf,App State,38,10,7,7,14,East Tennessee State,10,0,7,3,0,4.2
+1,"Sat, Aug. 31, 2024",15:30,Huskie Stadium,Yes,No,Non-Conf,Northern Illinois,54,6,28,13,7,Western Illinois,15,3,0,5,7,3.7
+1,"Sat, Aug. 31, 2024",15:30,Jack Trice Stadium,Yes,No,Non-Conf,Iowa State,21,7,7,0,7,North Dakota,3,0,3,0,0,5.4
+1,"Sat, Aug. 31, 2024",15:30,"Memorial Stadium (Lincoln, NE)",Yes,No,Non-Conf,Nebraska,40,7,23,7,3,UTEP,7,7,0,0,0,3.5
+1,"Sat, Aug. 31, 2024",15:30,Ben Hill Griffin Stadium,Yes,No,Non-Conf,Florida,17,3,7,0,7,Miami,41,7,17,14,3,2.1
+1,"Sat, Aug. 31, 2024",15:30,DKR-Texas Memorial Stadium,Yes,No,Non-Conf,Texas,52,7,24,14,7,Colorado State,0,0,0,0,0,2.8
+1,"Sat, Aug. 31, 2024",15:30,JMA Wireless Dome,Yes,No,Non-Conf,Syracuse,38,0,17,14,7,Ohio,22,6,3,7,6,4.6
+1,"Sat, Aug. 31, 2024",16:00,Allen E. Paulson Stadium,Yes,No,Non-Conf,Georgia Southern,45,0,16,14,15,Boise State,56,14,14,8,20,6.1
+1,"Sat, Aug. 31, 2024",16:15,Williams-Brice Stadium,Yes,No,Non-Conf,South Carolina,23,10,3,3,7,Old Dominion,19,7,0,9,3,9.8
+1,"Sat, Aug. 31, 2024",17:00,Joan C. Edwards Stadium,Yes,No,Non-Conf,Marshall,45,7,10,7,21,Stony Brook,3,0,0,3,0,5.2
+1,"Sat, Aug. 31, 2024",17:00,Hancock Whitney Stadium,Yes,No,Non-Conf,South Alabama,38,3,16,7,12,North Texas,52,7,7,28,10,5.7
+1,"Sat, Aug. 31, 2024",17:00,California Memorial Stadium,Yes,No,Non-Conf,California,31,7,7,10,7,UC Davis,13,6,7,0,0,4.2
+1,"Sat, Aug. 31, 2024",18:00,Williams Stadium (VA),Yes,No,Non-Conf,Liberty,41,7,10,10,14,Campbell,24,3,7,7,7,6.1
+1,"Sat, Aug. 31, 2024",18:00,Dowdy-Ficklen Stadium,Yes,No,Non-Conf,East Carolina,42,14,14,7,7,Norfolk State,3,3,0,0,0,3.0
+1,"Sat, Aug. 31, 2024",18:00,Davis Wade Stadium,Yes,No,Non-Conf,Mississippi State,56,14,21,7,14,Eastern Kentucky,7,0,7,0,0,2.5
+1,"Sat, Aug. 31, 2024",18:00,Scott Stadium,Yes,No,Non-Conf,Virginia,34,17,10,7,0,Richmond,13,0,7,3,3,2.8
+1,"Sat, Aug. 31, 2024",18:30,Reser Stadium,Yes,No,Non-Conf,Oregon State,38,7,10,14,7,Idaho State,15,9,0,6,0,5.0
+1,"Sat, Aug. 31, 2024",19:00,Veterans Memorial Stadium (AL),Yes,No,Non-Conf,Troy,26,7,7,3,9,Nevada,28,0,6,15,7,5.8
+1,"Sat, Aug. 31, 2024",19:00,Centennial Bank Stadium,Yes,No,Non-Conf,Arkansas State,34,6,7,7,14,Central Arkansas,31,0,0,10,21,7.5
+1,"Sat, Aug. 31, 2024",19:00,Bill Snyder Family Stadium,Yes,No,Non-Conf,Kansas State,41,14,3,10,14,UT Martin,6,0,3,3,0,3.6
+1,"Sat, Aug. 31, 2024",19:00,"Johnny ""Red"" Floyd Stadium",Yes,No,Non-Conf,Middle Tennessee,32,7,14,0,11,Tennessee Tech,25,0,5,6,14,5.9
+1,"Sat, Aug. 31, 2024",19:00,Vaught-Hemingway Stadium,Yes,No,Non-Conf,Ole Miss,76,24,28,21,3,Furman,0,0,0,0,0,2.4
+1,"Sat, Aug. 31, 2024",19:00,Rice Stadium,Yes,No,Non-Conf,Rice,14,0,7,7,0,Sam Houston,34,17,7,10,0,2.9
+1,"Sat, Aug. 31, 2024",19:00,TDECU Stadium,Yes,No,Non-Conf,Houston,7,0,0,0,7,UNLV,27,7,7,10,3,2.6
+1,"Sat, Aug. 31, 2024",19:00,Bryant-Denny Stadium,Yes,No,Non-Conf,Alabama,63,21,21,14,7,Western Kentucky,0,0,0,0,0,2.9
+1,"Sat, Aug. 31, 2024",19:00,McLane Stadium,Yes,No,Non-Conf,Baylor,45,21,7,7,10,Tarleton State,3,0,0,3,0,2.2
+1,"Sat, Aug. 31, 2024",19:00,Raymond James Stadium,Yes,No,Non-Conf,South Florida,48,14,17,17,0,Bethune-Cookman,3,0,3,0,0,3.4
+1,"Sat, Aug. 31, 2024",19:00,Simmons Bank Liberty Stadium,Yes,No,Non-Conf,Memphis,40,7,24,3,6,North Alabama,0,0,0,0,0,2.7
+1,"Sat, Aug. 31, 2024",19:30,Jordan-Hare Stadium,Yes,No,Non-Conf,Auburn,73,28,24,14,7,Alabama A&M,3,0,3,0,0,1.8
+1,"Sat, Aug. 31, 2024",19:30,Jones AT&T Stadium,Yes,No,Non-Conf,Texas Tech,52,22,10,7,6,Abilene Christian,51,7,14,7,17,6.8
+1,"Sat, Aug. 31, 2024",19:30,Kyle Field,Yes,No,Non-Conf,Texas A&M,13,3,3,0,7,Notre Dame,23,3,3,7,10,6.5
+1,"Sat, Aug. 31, 2024",19:30,Clarence T.C. Ching Athletics Complex,Yes,No,Non-Conf,Hawai'i,13,7,3,3,0,UCLA,16,0,0,10,6,7.9
+1,"Sat, Aug. 31, 2024",19:30,Michigan Stadium,Yes,No,Non-Conf,Michigan,30,7,3,3,17,Fresno State,10,0,3,0,7,5.3
+1,"Sat, Aug. 31, 2024",19:30,Autzen Stadium,Yes,No,Non-Conf,Oregon,24,7,7,0,10,Idaho,14,0,0,7,7,5.8
+1,"Sat, Aug. 31, 2024",19:45,Kroger Field,Yes,No,Non-Conf,Kentucky,31,7,17,7,0,Southern Miss,0,0,0,0,0,3.9
+1,"Sat, Aug. 31, 2024",20:00,Bobby Dodd Stadium,Yes,No,Non-Conf,Georgia Tech,35,7,7,14,7,Georgia State,12,0,3,9,0,4.1
+1,"Sat, Aug. 31, 2024",20:00,Snapdragon Stadium,Yes,No,Non-Conf,San Diego State,45,3,0,21,21,East Texas A&M,14,0,6,8,0,5.7
+1,"Sat, Aug. 31, 2024",20:00,LaVell Edwards Stadium,Yes,No,Non-Conf,BYU,41,14,3,14,10,Southern Illinois,13,0,6,7,0,5.4
+1,"Sat, Aug. 31, 2024",20:00,Jerry Richardson Stadium,Yes,No,Non-Conf,Charlotte,7,0,7,0,0,James Madison,30,3,6,7,14,3.9
+1,"Sat, Aug. 31, 2024",20:00,Cajun Field,Yes,No,Non-Conf,Louisiana,40,7,23,7,3,Grambling,10,0,0,7,3,2.6
+1,"Sat, Aug. 31, 2024",20:00,Bobcat Stadium (TX),Yes,No,Non-Conf,Texas State,34,15,3,3,13,Lamar,27,0,0,10,17,5.3
+1,"Sat, Aug. 31, 2024",20:00,Joe Aillet Stadium,Yes,No,Non-Conf,Louisiana Tech,25,9,6,0,10,Nicholls,17,7,3,0,7,8.2
+1,"Sat, Aug. 31, 2024",20:00,Gerald J. Ford Stadium,Yes,No,Non-Conf,SMU,59,28,14,7,10,Houston Christian,7,0,7,0,0,2.4
+1,"Sat, Aug. 31, 2024",21:00,Aggie Memorial Stadium,Yes,No,Non-Conf,New Mexico State,23,0,10,0,13,Southeast Missouri State,16,7,3,3,3,9.7
+1,"Sat, Aug. 31, 2024",22:30,Arizona Stadium,Yes,No,Non-Conf,Arizona,61,14,13,21,13,New Mexico,39,14,10,7,8,5.4
+1,"Sat, Aug. 31, 2024",22:30,Mountain America Stadium,Yes,No,Non-Conf,Arizona State,48,17,10,21,0,Wyoming,7,0,0,0,7,2.8
+1,"Sat, Aug. 31, 2024",23:00,Husky Stadium,Yes,No,Non-Conf,Washington,35,0,14,14,7,Weber State,3,0,0,3,0,4.4
+1,"Sun, Sep. 01, 2024",19:30,Allegiant Stadium,Yes,Yes,Non-Conf,LSU,20,0,10,7,3,USC,27,0,10,3,14,6.9
+1,"Mon, Sep. 02, 2024",19:30,Doak Campbell Stadium,Yes,No,ACC,Florida State,13,0,6,7,0,Boston College,28,0,14,14,0,3.1
+2,"Fri, Sep. 06, 2024",19:00,Gerald J. Ford Stadium,Yes,No,Non-Conf,SMU,15,0,9,3,3,BYU,18,7,0,8,3,8.5
+2,"Fri, Sep. 06, 2024",19:00,"Memorial Stadium (Bloomington, IN)",Yes,No,Non-Conf,Indiana,77,28,14,14,21,Western Illinois,3,0,3,0,0,2.1
+2,"Fri, Sep. 06, 2024",21:00,Lanny and Sharon Martin Stadium,Yes,Yes,Non-Conf,Northwestern,20,3,7,0,3,Duke,26,7,0,3,3,9.2
+2,"Sat, Sep. 07, 2024",12:00,JMA Wireless Dome,Yes,No,ACC,Syracuse,31,7,14,3,7,Georgia Tech,28,7,7,0,14,5.4
+2,"Sat, Sep. 07, 2024",12:00,Boone Pickens Stadium,Yes,No,Non-Conf,Oklahoma State,39,0,7,6,18,Arkansas,31,14,7,0,10,9.1
+2,"Sat, Sep. 07, 2024",12:00,Nippert Stadium,Yes,No,Non-Conf,Cincinnati,27,14,3,10,0,Pittsburgh,28,3,3,7,15,5.5
+2,"Sat, Sep. 07, 2024",12:00,Simmons Bank Liberty Stadium,Yes,No,Non-Conf,Memphis,38,7,14,10,7,Troy,17,0,7,3,7,3.7
+2,"Sat, Sep. 07, 2024",12:00,Huntington Bank Stadium,Yes,No,Non-Conf,Minnesota,48,3,14,14,17,Rhode Island,0,0,0,0,0,3.5
+2,"Sat, Sep. 07, 2024",12:00,Michigan Stadium,Yes,No,Non-Conf,Michigan,12,0,3,3,6,Texas,31,7,17,7,0,2.0
+2,"Sat, Sep. 07, 2024",12:00,FAU Stadium,Yes,No,American Athletic,Florida Atlantic,7,0,7,0,0,Army,24,14,0,3,7,3.1
+2,"Sat, Sep. 07, 2024",12:00,SHI Stadium,Yes,No,Non-Conf,Rutgers,49,7,14,14,14,Akron,17,0,3,7,7,4.2
+2,"Sat, Sep. 07, 2024",12:00,Yulman Stadium,Yes,No,Non-Conf,Tulane,27,7,13,0,7,Kansas State,34,3,7,10,14,7.0
+2,"Sat, Sep. 07, 2024",12:00,Beaver Stadium,Yes,No,Non-Conf,Penn State,34,7,13,7,7,Bowling Green,27,10,14,0,3,6.9
+2,"Sat, Sep. 07, 2024",12:00,Pratt & Whitney Stadium,Yes,No,Non-Conf,UConn,63,35,21,7,0,Merrimack,17,7,0,0,10,2.0
+2,"Sat, Sep. 07, 2024",12:45,Kyle Field,Yes,No,Non-Conf,Texas A&M,52,14,24,7,7,McNeese,10,0,0,0,10,2.0
+2,"Sat, Sep. 07, 2024",14:00,Scheumann Stadium,Yes,No,Non-Conf,Ball State,42,0,7,7,28,Missouri State,34,7,0,7,20,6.8
+2,"Sat, Sep. 07, 2024",14:00,Sanford Stadium,Yes,No,Non-Conf,Georgia,48,14,10,21,3,Tennessee Tech,3,0,0,0,3,2.6
+2,"Sat, Sep. 07, 2024",14:30,Dix Stadium,Yes,No,Non-Conf,Kent State,17,0,14,0,3,St. Francis (PA),23,10,10,3,0,4.3
+2,"Sat, Sep. 07, 2024",15:00,Allegiant Stadium,Yes,No,Non-Conf,UNLV,72,28,16,7,21,Utah Tech,14,7,0,7,0,2.2
+2,"Sat, Sep. 07, 2024",15:30,Camp Randall Stadium,Yes,No,Non-Conf,Wisconsin,27,14,3,3,7,South Dakota,13,0,3,10,0,5.5
+2,"Sat, Sep. 07, 2024",15:30,L&N Federal Credit Union Stadium,Yes,No,Non-Conf,Louisville,49,14,14,7,14,Jacksonville State,14,0,14,0,0,3.2
+2,"Sat, Sep. 07, 2024",15:30,Rice-Eccles Stadium,Yes,No,Non-Conf,Utah,23,17,6,0,0,Baylor,12,0,3,9,0,3.5
+2,"Sat, Sep. 07, 2024",15:30,Navy-Marine Corps Memorial Stadium,Yes,No,American Athletic,Navy,38,9,14,15,0,Temple,11,0,3,0,8,3.1
+2,"Sat, Sep. 07, 2024",15:30,"Alumni Stadium (Chestnut Hill, MA)",Yes,No,Non-Conf,Boston College,56,14,28,7,7,Duquesne,0,0,0,0,0,2.5
+2,"Sat, Sep. 07, 2024",15:30,Notre Dame Stadium,Yes,No,Non-Conf,Notre Dame,14,7,0,7,0,Northern Illinois,16,10,3,0,3,4.9
+2,"Sat, Sep. 07, 2024",15:30,Jordan-Hare Stadium,Yes,No,Non-Conf,Auburn,14,7,0,0,7,California,21,7,7,0,7,6.8
+2,"Sat, Sep. 07, 2024",15:30,Kenan Stadium,Yes,No,Non-Conf,North Carolina,38,14,7,10,7,Charlotte,20,3,3,7,7,3.7
+2,"Sat, Sep. 07, 2024",15:30,Husky Stadium,Yes,No,Non-Conf,Washington,30,0,21,9,0,Eastern Michigan,9,3,3,0,3,4.2
+2,"Sat, Sep. 07, 2024",15:30,Glass Bowl,Yes,No,Non-Conf,Toledo,38,7,10,7,14,Massachusetts,23,0,13,3,7,6.7
+2,"Sat, Sep. 07, 2024",15:30,War Memorial Stadium,Yes,No,Non-Conf,Wyoming,13,10,0,0,3,Idaho,17,7,10,0,0,7.4
+2,"Sat, Sep. 07, 2024",15:30,Kinnick Stadium,Yes,No,Non-Conf,Iowa,19,7,6,6,0,Iowa State,20,0,0,14,6,8.6
+2,"Sat, Sep. 07, 2024",15:30,Kroger Field,Yes,No,SEC,Kentucky,6,0,6,0,0,South Carolina,31,7,3,14,7,3.9
+2,"Sat, Sep. 07, 2024",15:30,SECU Stadium,Yes,No,Big Ten,Maryland,24,14,0,3,7,Michigan State,27,7,10,0,10,8.3
+2,"Sat, Sep. 07, 2024",16:00,Bobcat Stadium (TX),Yes,No,Non-Conf,Texas State,49,14,21,7,7,UTSA,10,3,0,7,0,3.6
+2,"Sat, Sep. 07, 2024",16:15,Vaught-Hemingway Stadium,Yes,No,Non-Conf,Ole Miss,52,17,14,14,7,Middle Tennessee,3,0,3,0,0,2.6
+2,"Sat, Sep. 07, 2024",16:30,Lane Stadium,Yes,No,Non-Conf,Virginia Tech,31,7,3,14,7,Marshall,14,0,7,7,0,7.6
+2,"Sat, Sep. 07, 2024",18:00,S.B. Ballard Stadium,Yes,No,Non-Conf,Old Dominion,14,0,7,7,0,East Carolina,20,6,0,11,3,7.3
+2,"Sat, Sep. 07, 2024",18:00,Hard Rock Stadium,Yes,No,Non-Conf,Miami,56,15,10,21,10,Florida A&M,9,3,3,3,0,2.9
+2,"Sat, Sep. 07, 2024",18:00,Milan Puskar Stadium,Yes,No,Non-Conf,West Virginia,49,14,14,14,7,UAlbany,14,0,14,0,0,3.4
+2,"Sat, Sep. 07, 2024",18:00,Bridgeforth Stadium,Yes,No,Non-Conf,James Madison,13,0,0,10,3,Gardner-Webb,6,0,3,3,0,5.9
+2,"Sat, Sep. 07, 2024",18:00,Peden Stadium,Yes,No,Non-Conf,Ohio,27,3,14,7,3,South Alabama,20,0,10,7,3,8.7
+2,"Sat, Sep. 07, 2024",18:00,Pitbull Stadium,Yes,Yes,Non-Conf,Florida International,52,7,21,8,16,Central Michigan,16,0,8,8,0,3.4
+2,"Sat, Sep. 07, 2024",18:30,FBC Mortgage Stadium,Yes,No,Non-Conf,UCF,45,14,10,14,7,Sam Houston,14,0,7,0,7,3.2
+2,"Sat, Sep. 07, 2024",19:00,Bryant-Denny Stadium,Yes,No,Non-Conf,Alabama,42,7,7,0,28,South Florida,16,3,3,7,3,8.3
+2,"Sat, Sep. 07, 2024",19:00,Memorial Stadium,Yes,No,Non-Conf,Missouri,38,3,21,7,7,Buffalo,0,0,0,0,0,3.2
+2,"Sat, Sep. 07, 2024",19:00,"Memorial Stadium (Champaign, IL)",Yes,No,Non-Conf,Illinois,23,3,10,0,10,Kansas,17,0,10,7,0,7.5
+2,"Sat, Sep. 07, 2024",19:00,Mackay Stadium,Yes,No,Non-Conf,Nevada,17,14,0,3,0,Georgia Southern,20,7,10,3,0,7.4
+2,"Sat, Sep. 07, 2024",19:00,Rice Stadium,Yes,No,Non-Conf,Rice,69,14,24,17,14,Texas Southern,7,0,0,0,7,3.3
+2,"Sat, Sep. 07, 2024",19:00,M. M. Roberts Stadium,Yes,No,Non-Conf,Southern Miss,35,7,7,7,14,SE Louisiana,10,3,7,0,0,7.8
+2,"Sat, Sep. 07, 2024",19:00,Stanford Stadium,Yes,No,Non-Conf,Stanford,41,7,7,17,10,Cal Poly,7,0,7,0,0,4.1
+2,"Sat, Sep. 07, 2024",19:00,Ben Hill Griffin Stadium,Yes,No,Non-Conf,Florida,45,7,7,14,17,Samford,7,0,0,7,0,4.0
+2,"Sat, Sep. 07, 2024",19:00,Canvas Stadium,Yes,No,Non-Conf,Colorado State,38,10,14,7,7,Northern Colorado,17,7,0,7,3,4.5
+2,"Sat, Sep. 07, 2024",19:00,Centennial Bank Stadium,Yes,No,Non-Conf,Arkansas State,28,7,0,21,0,Tulsa,24,3,14,7,0,6.4
+2,"Sat, Sep. 07, 2024",19:00,Malone Stadium,Yes,No,Non-Conf,UL Monroe,32,3,10,9,10,UAB,6,3,3,0,0,6.2
+2,"Sat, Sep. 07, 2024",19:00,Fifth Third Stadium,Yes,No,Non-Conf,Kennesaw State,10,7,0,0,3,Louisiana,34,0,20,14,0,2.8
+2,"Sat, Sep. 07, 2024",19:00,Falcon Stadium,Yes,No,Mountain West,Air Force,7,7,0,0,0,San José State,17,14,0,0,3,3.7
+2,"Sat, Sep. 07, 2024",19:00,Allegacy Federal Credit Union Stadium,Yes,No,ACC,Wake Forest,30,10,10,10,0,Virginia,31,3,14,0,14,6.5
+2,"Sat, Sep. 07, 2024",19:00,Brooks Stadium (SC),Yes,No,Non-Conf,Coastal Carolina,40,14,13,10,3,William & Mary,21,0,7,7,7,3.4
+2,"Sat, Sep. 07, 2024",19:00,Houchens Industries-L.T. Smith Stadium,Yes,No,Non-Conf,Western Kentucky,31,10,7,0,14,Eastern Kentucky,0,0,0,0,0,3.9
+2,"Sat, Sep. 07, 2024",19:00,Center Parc Stadium,Yes,No,Non-Conf,Georgia State,24,3,7,7,7,Chattanooga,21,7,0,7,7,9.4
+2,"Sat, Sep. 07, 2024",19:30,Bank of America Stadium,Yes,Yes,Non-Conf,NC State,10,0,3,7,0,Tennessee,51,7,13,17,14,2.7
+2,"Sat, Sep. 07, 2024",19:30,Tiger Stadium (LA),Yes,No,Non-Conf,LSU,44,9,14,21,0,Nicholls,21,7,7,7,0,4.6
+2,"Sat, Sep. 07, 2024",19:30,DATCU Stadium,Yes,No,Non-Conf,North Texas,35,14,7,7,7,Stephen F. Austin,20,10,7,3,0,6.9
+2,"Sat, Sep. 07, 2024",19:30,Ohio Stadium,Yes,No,Non-Conf,Ohio State,56,21,14,14,7,Western Michigan,0,0,0,0,0,2.3
+2,"Sat, Sep. 07, 2024",19:30,"Memorial Stadium (Lincoln, NE)",Yes,No,Non-Conf,Nebraska,28,14,14,0,0,Colorado,10,0,0,3,7,3.3
+2,"Sat, Sep. 07, 2024",19:30,FirstBank Stadium,Yes,No,Non-Conf,Vanderbilt,55,10,17,7,21,Alcorn State,0,0,0,0,0,2.6
+2,"Sat, Sep. 07, 2024",19:45,"Memorial Stadium (Norman, OK)",Yes,No,Non-Conf,Oklahoma,16,7,7,0,2,Houston,12,3,3,6,0,7.5
+2,"Sat, Sep. 07, 2024",20:00,Amon G. Carter Stadium,Yes,No,Non-Conf,TCU,45,10,21,7,7,Long Island University,0,0,0,0,0,3.1
+2,"Sat, Sep. 07, 2024",20:00,"Memorial Stadium (Clemson, SC)",Yes,No,Non-Conf,Clemson,66,35,21,10,0,App State,20,0,13,7,0,2.5
+2,"Sat, Sep. 07, 2024",21:00,Sun Bowl,Yes,No,Non-Conf,UTEP,24,14,3,0,7,Southern Utah,27,6,0,8,10,8.4
+2,"Sat, Sep. 07, 2024",22:00,Gesa Field,Yes,No,Non-Conf,Washington State,37,7,20,7,3,Texas Tech,16,3,7,0,6,5.2
+2,"Sat, Sep. 07, 2024",22:00,Arizona Stadium,Yes,No,Non-Conf,Arizona,22,3,3,7,9,Northern Arizona,10,0,10,0,0,6.8
+2,"Sat, Sep. 07, 2024",22:00,Autzen Stadium,Yes,No,Non-Conf,Oregon,37,7,7,13,10,Boise State,34,3,17,0,14,9.9
+2,"Sat, Sep. 07, 2024",22:00,Valley Children's Stadium,Yes,No,Non-Conf,Fresno State,46,18,7,14,7,Sacramento State,30,3,7,7,13,5.2
+2,"Sat, Sep. 07, 2024",22:15,Aggie Memorial Stadium,Yes,No,Conference USA,New Mexico State,24,10,7,0,7,Liberty,30,3,6,0,21,7.9
+2,"Sat, Sep. 07, 2024",22:30,Snapdragon Stadium,Yes,No,Non-Conf,San Diego State,0,0,0,0,0,Oregon State,21,7,0,0,14,3.9
+2,"Sat, Sep. 07, 2024",22:30,Mountain America Stadium,Yes,No,Non-Conf,Arizona State,30,10,17,3,0,Mississippi State,23,0,3,7,13,3.8
+2,"Sat, Sep. 07, 2024",23:00,Los Angeles Memorial Coliseum,Yes,No,Non-Conf,USC,48,10,17,7,14,Utah State,0,0,0,0,0,3.4
+3,"Thu, Sep. 12, 2024",19:30,Bobcat Stadium (TX),Yes,No,Non-Conf,Texas State,28,7,14,7,0,Arizona State,31,7,14,7,3,8.8
+3,"Thu, Sep. 12, 2024",19:30,Hancock Whitney Stadium,Yes,No,Non-Conf,South Alabama,87,24,28,28,7,Northwestern State,10,10,0,0,0,3.6
+3,"Fri, Sep. 13, 2024",19:00,Children's Mercy Park,Yes,Yes,Non-Conf,Kansas,20,7,10,0,3,UNLV,23,3,10,3,7,6.9
+3,"Fri, Sep. 13, 2024",20:00,Bill Snyder Family Stadium,Yes,No,Non-Conf,Kansas State,31,7,7,14,3,Arizona,7,7,0,0,0,4.5
+3,"Sat, Sep. 14, 2024",12:00,Yager Stadium,Yes,No,Non-Conf,Miami (OH),16,0,3,7,6,Cincinnati,27,3,7,7,10,4.3
+3,"Sat, Sep. 14, 2024",12:00,"Memorial Stadium (Champaign, IL)",Yes,No,Non-Conf,Illinois,30,7,6,10,7,Central Michigan,9,3,3,0,3,4.8
+3,"Sat, Sep. 14, 2024",12:00,Williams-Brice Stadium,Yes,No,SEC,South Carolina,33,7,17,0,9,LSU,36,0,16,6,14,9.8
+3,"Sat, Sep. 14, 2024",12:00,Doak Campbell Stadium,Yes,No,Non-Conf,Florida State,12,0,3,6,3,Memphis,20,3,10,7,0,4.8
+3,"Sat, Sep. 14, 2024",12:00,Michigan Stadium,Yes,No,Non-Conf,Michigan,28,7,14,0,7,Arkansas State,18,0,3,0,15,4.2
+3,"Sat, Sep. 14, 2024",12:00,Chapman Stadium,Yes,No,Non-Conf,Tulsa,10,0,0,0,10,Oklahoma State,45,7,21,10,7,1.8
+3,"Sat, Sep. 14, 2024",12:00,Carter-Finley Stadium,Yes,No,Non-Conf,NC State,30,3,3,14,10,Louisiana Tech,20,0,17,3,0,7.0
+3,"Sat, Sep. 14, 2024",12:00,Jones AT&T Stadium,Yes,No,Non-Conf,Texas Tech,66,17,35,7,7,North Texas,21,7,0,7,7,4.6
+3,"Sat, Sep. 14, 2024",12:00,Camp Randall Stadium,Yes,No,Non-Conf,Wisconsin,10,3,0,7,0,Alabama,42,7,14,14,7,2.8
+3,"Sat, Sep. 14, 2024",12:45,Memorial Stadium,Yes,No,Non-Conf,Missouri,27,3,14,7,3,Boston College,21,7,7,0,7,5.8
+3,"Sat, Sep. 14, 2024",13:00,UB Stadium,Yes,No,Non-Conf,Buffalo,34,7,3,17,7,Massachusetts,3,0,3,0,0,5.4
+3,"Sat, Sep. 14, 2024",14:00,Lincoln Financial Field,Yes,No,Non-Conf,Temple,20,3,7,7,3,Coastal Carolina,28,14,7,7,0,4.0
+3,"Sat, Sep. 14, 2024",15:30,Hard Rock Stadium,Yes,No,Non-Conf,Miami,62,10,21,10,21,Ball State,0,0,0,0,0,5.0
+3,"Sat, Sep. 14, 2024",15:30,Bobby Dodd Stadium,Yes,No,Non-Conf,Georgia Tech,59,17,21,14,7,VMI,7,0,0,0,7,2.6
+3,"Sat, Sep. 14, 2024",15:30,Spartan Stadium,Yes,No,Non-Conf,Michigan State,40,14,13,3,10,Prairie View A&M,0,0,0,0,0,4.7
+3,"Sat, Sep. 14, 2024",15:30,Peden Stadium,Yes,No,Non-Conf,Ohio,21,14,0,7,0,Morgan State,6,3,3,0,0,7.3
+3,"Sat, Sep. 14, 2024",15:30,"Memorial Stadium (Norman, OK)",Yes,No,Non-Conf,Oklahoma,34,7,14,3,10,Tulane,19,0,6,7,6,5.5
+3,"Sat, Sep. 14, 2024",15:30,Acrisure Stadium,Yes,No,Non-Conf,Pittsburgh,38,10,7,7,14,West Virginia,34,7,10,7,10,8.8
+3,"Sat, Sep. 14, 2024",15:30,Huntington Bank Stadium,Yes,No,Non-Conf,Minnesota,27,6,14,7,0,Nevada,0,0,0,0,0,5.9
+3,"Sat, Sep. 14, 2024",15:30,Lumen Field,Yes,Yes,Non-Conf,Washington,19,7,6,6,0,Washington State,24,10,7,7,0,6.8
+3,"Sat, Sep. 14, 2024",15:30,Reser Stadium,Yes,No,Non-Conf,Oregon State,14,7,7,0,0,Oregon,49,7,15,10,17,3.1
+3,"Sat, Sep. 14, 2024",15:30,Ross-Ade Stadium,Yes,No,Non-Conf,Purdue,7,0,0,7,0,Notre Dame,66,14,28,10,14,2.1
+3,"Sat, Sep. 14, 2024",15:30,Ben Hill Griffin Stadium,Yes,No,SEC,Florida,20,0,0,14,6,Texas A&M,33,10,10,13,0,3.0
+3,"Sat, Sep. 14, 2024",16:00,Kinnick Stadium,Yes,No,Non-Conf,Iowa,38,0,10,14,14,Troy,21,0,14,7,0,6.6
+3,"Sat, Sep. 14, 2024",16:00,Dowdy-Ficklen Stadium,Yes,No,Non-Conf,East Carolina,19,16,0,0,3,App State,21,0,14,7,0,8.7
+3,"Sat, Sep. 14, 2024",16:15,Razorback Stadium,Yes,No,Non-Conf,Arkansas,37,3,17,7,10,UAB,27,10,10,0,7,6.9
+3,"Sat, Sep. 14, 2024",16:30,Maverik Stadium,Yes,No,Non-Conf,Utah State,21,7,7,7,0,Utah,38,3,14,11,10,5.0
+3,"Sat, Sep. 14, 2024",18:00,FAU Stadium,Yes,No,Non-Conf,Florida Atlantic,38,7,17,14,0,Florida International,20,7,0,7,6,4.6
+3,"Sat, Sep. 14, 2024",18:00,Kenan Stadium,Yes,No,Non-Conf,North Carolina,45,0,17,0,28,North Carolina Central,10,7,3,0,0,6.0
+3,"Sat, Sep. 14, 2024",18:00,Wallace Wade Stadium,Yes,No,Non-Conf,Duke,26,7,10,0,9,UConn,21,0,7,14,0,8.9
+3,"Sat, Sep. 14, 2024",18:00,S.B. Ballard Stadium,Yes,No,Non-Conf,Old Dominion,17,0,10,0,7,Virginia Tech,37,14,0,6,17,4.5
+3,"Sat, Sep. 14, 2024",18:00,Williams Stadium (VA),Yes,No,Conference USA,Liberty,28,7,7,7,7,UTEP,10,3,0,7,0,7.2
+3,"Sat, Sep. 14, 2024",18:00,Allen E. Paulson Stadium,Yes,No,Non-Conf,Georgia Southern,42,7,14,14,7,South Carolina State,14,0,7,7,0,4.1
+3,"Sat, Sep. 14, 2024",18:00,InfoCision Stadium,Yes,No,Non-Conf,Akron,31,7,21,0,3,Colgate,20,17,0,3,0,6.4
+3,"Sat, Sep. 14, 2024",18:00,Jerry Richardson Stadium,Yes,No,Non-Conf,Charlotte,27,0,3,3,21,Gardner-Webb,26,3,14,3,6,5.3
+3,"Sat, Sep. 14, 2024",18:30,Waldo Stadium,Yes,No,Non-Conf,Western Michigan,59,14,21,14,10,Bethune-Cookman,31,0,14,7,10,2.7
+3,"Sat, Sep. 14, 2024",18:30,Allegacy Federal Credit Union Stadium,Yes,No,Non-Conf,Wake Forest,6,3,3,0,0,Ole Miss,40,20,3,7,10,3.2
+3,"Sat, Sep. 14, 2024",19:00,Elliott T. Bowers Stadium,Yes,No,Non-Conf,Sam Houston,31,7,10,7,7,Hawai'i,13,0,3,10,0,5.1
+3,"Sat, Sep. 14, 2024",19:00,M. M. Roberts Stadium,Yes,No,Non-Conf,Southern Miss,24,14,7,0,3,South Florida,49,14,14,14,7,3.8
+3,"Sat, Sep. 14, 2024",19:00,Center Parc Stadium,Yes,No,Non-Conf,Georgia State,36,3,9,10,14,Vanderbilt,32,0,10,0,22,8.5
+3,"Sat, Sep. 14, 2024",19:00,DKR-Texas Memorial Stadium,Yes,No,Non-Conf,Texas,56,14,14,14,14,UTSA,7,0,7,0,0,2.9
+3,"Sat, Sep. 14, 2024",19:00,"Johnny ""Red"" Floyd Stadium",Yes,No,Conference USA,Middle Tennessee,21,0,0,14,7,Western Kentucky,49,14,7,21,7,2.3
+3,"Sat, Sep. 14, 2024",19:00,Rynearson Stadium,Yes,No,Non-Conf,Eastern Michigan,37,14,14,3,0,Jacksonville State,34,7,13,0,11,9.6
+3,"Sat, Sep. 14, 2024",19:00,CEFCU Stadium,Yes,No,Non-Conf,San José State,31,0,17,7,7,Kennesaw State,10,3,0,7,0,4.7
+3,"Sat, Sep. 14, 2024",19:30,McLane Stadium,Yes,No,Non-Conf,Baylor,31,3,3,17,8,Air Force,3,0,3,0,0,5.2
+3,"Sat, Sep. 14, 2024",19:30,Amon G. Carter Stadium,Yes,No,Big 12,TCU,34,14,7,10,3,UCF,35,0,7,13,15,6.9
+3,"Sat, Sep. 14, 2024",19:30,Lanny and Sharon Martin Stadium,Yes,Yes,Non-Conf,Northwestern,31,7,7,10,7,Eastern Illinois,7,0,7,0,0,4.6
+3,"Sat, Sep. 14, 2024",19:30,Davis Wade Stadium,Yes,No,Non-Conf,Mississippi State,17,0,3,7,7,Toledo,41,7,21,7,6,2.4
+3,"Sat, Sep. 14, 2024",19:30,Jordan-Hare Stadium,Yes,No,Non-Conf,Auburn,45,14,3,14,14,New Mexico,19,10,3,0,6,5.2
+3,"Sat, Sep. 14, 2024",19:30,Kroger Field,Yes,No,SEC,Kentucky,12,3,3,3,3,Georgia,13,0,3,3,7,9.0
+3,"Sat, Sep. 14, 2024",19:30,Canvas Stadium,Yes,No,Non-Conf,Colorado State,9,3,0,0,6,Colorado,28,0,14,7,7,3.3
+3,"Sat, Sep. 14, 2024",19:30,Rose Bowl,Yes,No,Big Ten,UCLA,13,0,7,3,3,Indiana,42,14,7,7,14,2.6
+3,"Sat, Sep. 14, 2024",19:30,"Memorial Stadium (Lincoln, NE)",Yes,No,Non-Conf,Nebraska,34,7,14,6,7,Northern Iowa,3,3,0,0,0,3.1
+3,"Sat, Sep. 14, 2024",19:45,Neyland Stadium,Yes,No,Non-Conf,Tennessee,71,37,28,3,3,Kent State,0,0,0,0,0,2.5
+3,"Sat, Sep. 14, 2024",20:00,Scott Stadium,Yes,No,Non-Conf,Virginia,13,3,10,0,0,Maryland,27,0,7,10,10,7.1
+3,"Sat, Sep. 14, 2024",20:00,TDECU Stadium,Yes,No,Non-Conf,Houston,33,14,6,6,7,Rice,7,0,0,0,7,3.2
+3,"Sat, Sep. 14, 2024",21:00,War Memorial Stadium,Yes,No,Non-Conf,Wyoming,14,0,7,0,7,BYU,34,7,10,17,0,3.2
+3,"Sat, Sep. 14, 2024",22:30,Valley Children's Stadium,Yes,No,Non-Conf,Fresno State,48,14,17,17,0,New Mexico State,0,0,0,0,0,2.6
+3,"Sat, Sep. 14, 2024",22:30,California Memorial Stadium,Yes,No,Non-Conf,California,31,7,0,14,10,San Diego State,10,3,0,0,7,5.0
+4,"Thu, Sep. 19, 2024",19:30,Kidd Brewer Stadium,Yes,No,Sun Belt,App State,14,0,7,0,7,South Alabama,48,14,14,13,7,1.6
+4,"Fri, Sep. 20, 2024",19:30,JMA Wireless Dome,Yes,No,ACC,Syracuse,24,0,10,7,7,Stanford,26,7,6,7,6,8.6
+4,"Fri, Sep. 20, 2024",20:00,"Memorial Stadium (Lincoln, NE)",Yes,No,Big Ten,Nebraska,24,10,7,0,7,Illinois,31,7,3,7,7,7.7
+4,"Fri, Sep. 20, 2024",22:00,Gesa Field,Yes,No,Non-Conf,Washington State,54,7,17,0,22,San José State,52,10,7,21,8,10.6
+4,"Sat, Sep. 21, 2024",12:00,Kenan Stadium,Yes,No,Non-Conf,North Carolina,50,14,7,17,12,James Madison,70,25,28,7,10,3.2
+4,"Sat, Sep. 21, 2024",12:00,SECU Stadium,Yes,No,Non-Conf,Maryland,38,17,7,7,7,Villanova,20,0,0,10,10,2.7
+4,"Sat, Sep. 21, 2024",12:00,"Memorial Stadium (Bloomington, IN)",Yes,No,Non-Conf,Indiana,52,10,21,14,7,Charlotte,14,0,14,0,0,3.5
+4,"Sat, Sep. 21, 2024",12:00,"Memorial Stadium (Clemson, SC)",Yes,No,ACC,Clemson,59,28,17,14,0,NC State,35,0,7,7,21,2.0
+4,"Sat, Sep. 21, 2024",12:00,Milan Puskar Stadium,Yes,No,Big 12,West Virginia,32,7,7,3,15,Kansas,28,0,7,14,7,8.2
+4,"Sat, Sep. 21, 2024",12:00,Ohio Stadium,Yes,No,Non-Conf,Ohio State,49,7,21,14,7,Marshall,14,7,7,0,0,3.7
+4,"Sat, Sep. 21, 2024",12:00,Michie Stadium,Yes,No,American Athletic,Army,37,7,21,9,0,Rice,14,0,0,7,7,2.4
+4,"Sat, Sep. 21, 2024",12:00,Cajun Field,Yes,No,Non-Conf,Louisiana,33,7,6,13,7,Tulane,41,0,17,21,3,5.7
+4,"Sat, Sep. 21, 2024",12:00,Davis Wade Stadium,Yes,No,SEC,Mississippi State,28,7,7,7,7,Florida,45,7,21,7,10,3.9
+4,"Sat, Sep. 21, 2024",12:00,Nippert Stadium,Yes,No,Big 12,Cincinnati,34,14,10,7,3,Houston,0,0,0,0,0,2.7
+4,"Sat, Sep. 21, 2024",12:45,Kroger Field,Yes,No,Non-Conf,Kentucky,41,3,14,10,14,Ohio,6,0,0,0,6,3.2
+4,"Sat, Sep. 21, 2024",13:00,Kelly/Shorts Stadium,Yes,No,Mid-American,Central Michigan,37,0,23,0,14,Ball State,34,10,7,7,10,6.6
+4,"Sat, Sep. 21, 2024",14:00,Rynearson Stadium,Yes,No,Non-Conf,Eastern Michigan,36,10,3,16,7,St. Francis (PA),0,0,0,0,0,
+4,"Sat, Sep. 21, 2024",14:00,Jack Trice Stadium,Yes,No,Non-Conf,Iowa State,52,14,17,7,14,Arkansas State,7,0,0,0,7,5.5
+4,"Sat, Sep. 21, 2024",14:00,Brooks Stadium (SC),Yes,No,Non-Conf,Coastal Carolina,24,3,7,7,7,Virginia,43,14,13,10,6,3.3
+4,"Sat, Sep. 21, 2024",14:00,Lincoln Financial Field,Yes,No,Non-Conf,Temple,45,0,17,7,21,Utah State,29,0,21,0,8,8.5
+4,"Sat, Sep. 21, 2024",15:00,Mackay Stadium,Yes,No,Non-Conf,Nevada,49,14,7,14,14,Eastern Washington,16,0,3,0,13,3.4
+4,"Sat, Sep. 21, 2024",15:00,AmFirst Stadium,Yes,No,Non-Conf,Jacksonville State,44,14,7,23,0,Southern Miss,7,0,7,0,0,3.5
+4,"Sat, Sep. 21, 2024",15:30,Tiger Stadium (LA),Yes,No,Non-Conf,LSU,34,7,10,7,10,UCLA,17,10,7,0,0,5.8
+4,"Sat, Sep. 21, 2024",15:30,Jordan-Hare Stadium,Yes,No,SEC,Auburn,14,0,0,7,7,Arkansas,24,0,7,7,10,7.6
+4,"Sat, Sep. 21, 2024",15:30,Acrisure Stadium,Yes,No,Non-Conf,Pittsburgh,73,21,21,10,21,Youngstown State,17,0,10,7,0,2.4
+4,"Sat, Sep. 21, 2024",15:30,Alamodome,Yes,No,Non-Conf,UTSA,45,10,21,7,7,Houston Christian,7,0,7,0,0,3.3
+4,"Sat, Sep. 21, 2024",15:30,Lane Stadium,Yes,No,Non-Conf,Virginia Tech,23,0,7,0,16,Rutgers,26,14,2,7,3,4.8
+4,"Sat, Sep. 21, 2024",15:30,L&N Federal Credit Union Stadium,Yes,No,ACC,Louisville,31,7,10,7,7,Georgia Tech,19,7,7,3,2,6.2
+4,"Sat, Sep. 21, 2024",15:30,Beaver Stadium,Yes,No,Non-Conf,Penn State,56,7,21,14,14,Kent State,0,0,0,0,0,3.6
+4,"Sat, Sep. 21, 2024",15:30,Huskie Stadium,Yes,No,Mid-American,Northern Illinois,20,7,7,0,6,Buffalo,23,0,3,7,10,9.5
+4,"Sat, Sep. 21, 2024",15:30,Warren McGuirk Alumni Stadium,Yes,No,Non-Conf,Massachusetts,35,7,14,7,7,Central Connecticut,31,0,21,7,3,6.5
+4,"Sat, Sep. 21, 2024",15:30,Notre Dame Stadium,Yes,No,Non-Conf,Notre Dame,28,0,14,7,7,Miami (OH),3,0,3,0,0,6.1
+4,"Sat, Sep. 21, 2024",15:30,Navy-Marine Corps Memorial Stadium,Yes,No,American Athletic,Navy,56,7,21,7,21,Memphis,44,14,3,13,14,5.8
+4,"Sat, Sep. 21, 2024",15:30,Jones AT&T Stadium,Yes,No,Big 12,Texas Tech,30,14,3,7,6,Arizona State,22,0,10,6,6,5.9
+4,"Sat, Sep. 21, 2024",15:30,Michigan Stadium,Yes,No,Big Ten,Michigan,27,7,7,6,7,USC,24,0,3,14,7,8.8
+4,"Sat, Sep. 21, 2024",16:00,"Johnny ""Red"" Floyd Stadium",Yes,No,Non-Conf,Middle Tennessee,17,10,0,7,0,Duke,45,28,7,3,7,2.4
+4,"Sat, Sep. 21, 2024",16:00,Boone Pickens Stadium,Yes,No,Big 12,Oklahoma State,19,3,0,0,16,Utah,22,0,10,3,9,5.0
+4,"Sat, Sep. 21, 2024",16:15,Memorial Stadium,Yes,No,SEC,Missouri,30,7,3,10,0,Vanderbilt,27,7,6,7,0,9.6
+4,"Sat, Sep. 21, 2024",17:00,Canvas Stadium,Yes,No,Non-Conf,Colorado State,27,7,7,10,3,UTEP,17,0,3,7,7,5.4
+4,"Sat, Sep. 21, 2024",17:00,Gerald J. Ford Stadium,Yes,No,Non-Conf,SMU,66,17,24,18,7,TCU,42,0,21,7,14,4.3
+4,"Sat, Sep. 21, 2024",18:00,Williams Stadium (VA),Yes,No,Non-Conf,Liberty,35,0,7,14,14,East Carolina,24,14,3,7,0,6.4
+4,"Sat, Sep. 21, 2024",18:00,Pitbull Stadium,Yes,Yes,Non-Conf,Florida International,42,14,14,7,7,Monmouth,45,7,14,14,10,6.3
+4,"Sat, Sep. 21, 2024",19:00,Raymond James Stadium,Yes,No,Non-Conf,South Florida,15,9,6,0,0,Miami,50,14,8,14,14,4.3
+4,"Sat, Sep. 21, 2024",19:00,Veterans Memorial Stadium (AL),Yes,No,Non-Conf,Troy,34,7,7,7,13,Florida A&M,12,6,3,3,0,5.0
+4,"Sat, Sep. 21, 2024",19:00,Husky Stadium,Yes,No,Big Ten,Washington,24,7,10,0,7,Northwestern,5,0,2,3,0,3.6
+4,"Sat, Sep. 21, 2024",19:00,Doak Campbell Stadium,Yes,No,ACC,Florida State,14,7,0,0,7,California,9,0,6,3,0,9.9
+4,"Sat, Sep. 21, 2024",19:00,Houchens Industries-L.T. Smith Stadium,Yes,No,Non-Conf,Western Kentucky,26,0,7,5,14,Toledo,21,0,14,7,0,7.6
+4,"Sat, Sep. 21, 2024",19:00,Elliott T. Bowers Stadium,Yes,No,Conference USA,Sam Houston,31,14,7,0,10,New Mexico State,11,3,0,0,8,3.9
+4,"Sat, Sep. 21, 2024",19:00,Joe Aillet Stadium,Yes,No,Non-Conf,Louisiana Tech,20,0,7,0,13,Tulsa,23,7,3,7,3,8.3
+4,"Sat, Sep. 21, 2024",19:00,DATCU Stadium,Yes,No,Non-Conf,North Texas,44,7,20,14,3,Wyoming,17,3,14,0,0,4.0
+4,"Sat, Sep. 21, 2024",19:00,Pratt & Whitney Stadium,Yes,No,Non-Conf,UConn,48,3,14,10,21,Florida Atlantic,14,0,0,7,7,3.7
+4,"Sat, Sep. 21, 2024",19:30,Kyle Field,Yes,No,Non-Conf,Texas A&M,26,7,6,7,6,Bowling Green,20,0,3,14,3,6.5
+4,"Sat, Sep. 21, 2024",19:30,"Memorial Stadium (Norman, OK)",Yes,No,SEC,Oklahoma,15,3,0,0,12,Tennessee,25,10,9,3,3,4.1
+4,"Sat, Sep. 21, 2024",19:30,Williams-Brice Stadium,Yes,No,Non-Conf,South Carolina,50,15,7,7,21,Akron,7,0,7,0,0,4.5
+4,"Sat, Sep. 21, 2024",19:30,Huntington Bank Stadium,Yes,No,Big Ten,Minnesota,14,0,14,0,0,Iowa,31,7,0,17,7,4.8
+4,"Sat, Sep. 21, 2024",19:45,Vaught-Hemingway Stadium,Yes,No,Non-Conf,Ole Miss,52,17,7,14,14,Georgia Southern,13,0,7,3,3,3.8
+4,"Sat, Sep. 21, 2024",20:00,Folsom Field,Yes,No,Big 12,Colorado,38,7,10,7,7,Baylor,31,3,21,0,7,8.4
+4,"Sat, Sep. 21, 2024",20:00,DKR-Texas Memorial Stadium,Yes,No,Non-Conf,Texas,51,21,7,9,14,UL Monroe,3,0,3,0,0,2.9
+4,"Sat, Sep. 21, 2024",20:00,"Alumni Stadium (Chestnut Hill, MA)",Yes,No,Non-Conf,Boston College,23,0,6,10,7,Michigan State,19,3,10,3,3,8.0
+4,"Sat, Sep. 21, 2024",20:30,University Stadium (NM),Yes,No,Mountain West,New Mexico,21,3,7,0,11,Fresno State,38,8,17,3,10,3.2
+4,"Sat, Sep. 21, 2024",20:30,Reser Stadium,Yes,No,Non-Conf,Oregon State,38,7,10,7,14,Purdue,21,0,7,0,14,5.3
+4,"Sat, Sep. 21, 2024",21:45,Albertsons Stadium,Yes,No,Non-Conf,Boise State,56,7,21,14,14,Portland State,14,7,0,0,7,3.3
+4,"Sat, Sep. 21, 2024",22:30,LaVell Edwards Stadium,Yes,No,Big 12,BYU,38,0,17,14,7,Kansas State,9,3,3,3,0,4.0
+4,"Sat, Sep. 21, 2024",23:59,Clarence T.C. Ching Athletics Complex,Yes,No,Non-Conf,Hawai'i,36,15,7,7,7,Northern Iowa,7,0,7,0,0,3.2
+5,"Thu, Sep. 26, 2024",19:30,Lincoln Financial Field,Yes,No,American Athletic,Temple,14,0,0,6,8,Army,42,7,7,14,14,2.5
+5,"Fri, Sep. 27, 2024",19:30,Hard Rock Stadium,Yes,No,ACC,Miami,38,14,3,7,14,Virginia Tech,34,7,17,3,7,7.1
+5,"Fri, Sep. 27, 2024",20:00,SHI Stadium,Yes,No,Big Ten,Rutgers,21,0,14,0,7,Washington,18,3,0,7,8,5.4
+5,"Sat, Sep. 28, 2024",12:00,Michigan Stadium,Yes,No,Big Ten,Michigan,27,7,14,3,3,Minnesota,24,0,3,0,21,4.6
+5,"Sat, Sep. 28, 2024",12:00,Carter-Finley Stadium,Yes,No,Non-Conf,NC State,24,7,10,7,0,Northern Illinois,17,7,7,0,3,6.2
+5,"Sat, Sep. 28, 2024",12:00,Bill Snyder Family Stadium,Yes,No,Big 12,Kansas State,42,7,14,14,7,Oklahoma State,20,3,10,0,7,4.4
+5,"Sat, Sep. 28, 2024",12:00,McLane Stadium,Yes,No,Big 12,Baylor,28,7,7,7,7,BYU,34,21,10,3,0,4.6
+5,"Sat, Sep. 28, 2024",12:00,JMA Wireless Dome,Yes,No,Non-Conf,Syracuse,42,14,14,7,7,Holy Cross,14,0,14,0,0,4.2
+5,"Sat, Sep. 28, 2024",12:00,Protective Stadium,Yes,No,American Athletic,UAB,18,0,3,7,8,Navy,41,7,14,10,10,2.2
+5,"Sat, Sep. 28, 2024",12:00,Yulman Stadium,Yes,No,American Athletic,Tulane,45,14,17,0,14,South Florida,10,0,7,3,0,2.9
+5,"Sat, Sep. 28, 2024",12:00,Vaught-Hemingway Stadium,Yes,No,SEC,Ole Miss,17,7,0,10,0,Kentucky,20,3,7,3,7,8.6
+5,"Sat, Sep. 28, 2024",12:00,Ross-Ade Stadium,Yes,No,Big Ten,Purdue,10,0,0,3,7,Nebraska,28,0,0,7,21,4.3
+5,"Sat, Sep. 28, 2024",12:00,Pratt & Whitney Stadium,Yes,No,Non-Conf,UConn,47,10,13,14,10,Buffalo,3,0,3,0,0,3.2
+5,"Sat, Sep. 28, 2024",12:00,"Alumni Stadium (Chestnut Hill, MA)",Yes,No,Non-Conf,Boston College,21,0,7,0,14,Western Kentucky,20,7,10,3,0,5.7
+5,"Sat, Sep. 28, 2024",12:00,"Memorial Stadium (Bloomington, IN)",Yes,No,Big Ten,Indiana,42,0,14,14,14,Maryland,28,0,7,14,7,9.6
+5,"Sat, Sep. 28, 2024",13:30,Bridgeforth Stadium,Yes,No,Non-Conf,James Madison,63,22,7,20,14,Ball State,7,7,0,0,0,3.0
+5,"Sat, Sep. 28, 2024",15:00,NRG Stadium,Yes,Yes,Non-Conf,Sam Houston,40,0,21,13,6,Texas State,39,22,10,7,0,6.5
+5,"Sat, Sep. 28, 2024",15:30,Jordan-Hare Stadium,Yes,No,SEC,Auburn,21,0,14,0,7,Oklahoma,27,7,0,3,17,5.7
+5,"Sat, Sep. 28, 2024",15:30,GEHA Field at Arrowhead Stadium,Yes,Yes,Big 12,Kansas,27,14,3,7,3,TCU,38,7,14,7,10,6.5
+5,"Sat, Sep. 28, 2024",15:30,FBC Mortgage Stadium,Yes,No,Big 12,UCF,21,7,7,7,0,Colorado,48,14,13,14,7,3.6
+5,"Sat, Sep. 28, 2024",15:30,Yager Stadium,Yes,No,Non-Conf,Miami (OH),23,7,3,7,3,Massachusetts,20,7,3,0,10,7.1
+5,"Sat, Sep. 28, 2024",15:30,Allegiant Stadium,Yes,No,Mountain West,UNLV,59,14,7,10,28,Fresno State,14,0,0,7,7,3.1
+5,"Sat, Sep. 28, 2024",15:30,Notre Dame Stadium,Yes,No,Non-Conf,Notre Dame,31,21,3,0,7,Louisville,24,7,7,0,10,7.3
+5,"Sat, Sep. 28, 2024",15:30,Dix Stadium,Yes,No,Mid-American,Kent State,33,7,7,7,12,Eastern Michigan,52,7,14,17,14,4.6
+5,"Sat, Sep. 28, 2024",15:30,Kidd Brewer Stadium,No,No,Non-Conf,App State,0,0,0,0,0,Liberty,0,0,0,0,0,
+5,"Sat, Sep. 28, 2024",15:30,Peden Stadium,Yes,No,Mid-American,Ohio,30,0,14,2,14,Akron,10,3,7,0,0,7.8
+5,"Sat, Sep. 28, 2024",15:30,Center Parc Stadium,Yes,No,Sun Belt,Georgia State,21,7,0,14,0,Georgia Southern,38,14,10,7,7,4.6
+5,"Sat, Sep. 28, 2024",15:30,Allegacy Federal Credit Union Stadium,Yes,No,Non-Conf,Wake Forest,38,3,14,14,7,Louisiana,41,14,7,10,10,6.8
+5,"Sat, Sep. 28, 2024",15:30,Kelly/Shorts Stadium,Yes,No,Non-Conf,Central Michigan,22,10,3,6,3,San Diego State,21,7,14,0,0,6.3
+5,"Sat, Sep. 28, 2024",15:30,AT&T Stadium,Yes,Yes,SEC,Texas A&M,21,7,7,0,7,Arkansas,17,14,0,0,3,9.7
+5,"Sat, Sep. 28, 2024",15:30,Los Angeles Memorial Coliseum,Yes,No,Big Ten,USC,38,7,3,14,14,Wisconsin,21,7,14,0,0,6.8
+5,"Sat, Sep. 28, 2024",15:30,Joan C. Edwards Stadium,Yes,No,Non-Conf,Marshall,27,7,10,3,7,Western Michigan,20,3,0,14,3,6.7
+5,"Sat, Sep. 28, 2024",16:00,Dowdy-Ficklen Stadium,Yes,No,American Athletic,East Carolina,30,3,7,14,6,UTSA,20,10,3,0,7,8.4
+5,"Sat, Sep. 28, 2024",16:00,Wallace Wade Stadium,Yes,No,ACC,Duke,21,0,0,7,14,North Carolina,20,10,7,3,0,7.4
+5,"Sat, Sep. 28, 2024",16:15,DKR-Texas Memorial Stadium,Yes,No,SEC,Texas,35,7,7,7,14,Mississippi State,13,0,6,0,7,5.1
+5,"Sat, Sep. 28, 2024",17:00,Doyt L. Perry Stadium,Yes,No,Non-Conf,Bowling Green,27,7,7,7,6,Old Dominion,30,14,3,0,13,9.2
+5,"Sat, Sep. 28, 2024",18:00,Fifth Third Stadium,Yes,No,Non-Conf,Kennesaw State,13,0,10,0,3,UT Martin,24,0,10,14,0,4.5
+5,"Sat, Sep. 28, 2024",18:00,Pitbull Stadium,Yes,Yes,Conference USA,Florida International,17,7,0,7,3,Louisiana Tech,10,0,0,10,0,7.2
+5,"Sat, Sep. 28, 2024",18:00,FAU Stadium,Yes,No,Non-Conf,Florida Atlantic,41,10,7,10,14,Wagner,10,0,10,0,0,4.8
+5,"Sat, Sep. 28, 2024",19:00,TDECU Stadium,Yes,No,Big 12,Houston,0,0,0,0,0,Iowa State,20,3,0,7,10,4.8
+5,"Sat, Sep. 28, 2024",19:00,DATCU Stadium,Yes,No,American Athletic,North Texas,52,0,24,21,7,Tulsa,20,0,3,0,17,5.3
+5,"Sat, Sep. 28, 2024",19:00,Rice Stadium,Yes,No,American Athletic,Rice,20,0,10,0,10,Charlotte,21,0,0,14,7,8.2
+5,"Sat, Sep. 28, 2024",19:00,Veterans Memorial Stadium (AL),Yes,No,Sun Belt,Troy,9,3,3,0,3,UL Monroe,13,3,0,3,7,5.6
+5,"Sat, Sep. 28, 2024",19:00,"Memorial Stadium (Clemson, SC)",Yes,No,ACC,Clemson,40,10,7,10,13,Stanford,14,0,7,0,7,3.9
+5,"Sat, Sep. 28, 2024",19:30,Beaver Stadium,Yes,No,Big Ten,Penn State,21,7,0,7,7,Illinois,7,7,0,0,0,5.4
+5,"Sat, Sep. 28, 2024",19:30,Bryant-Denny Stadium,Yes,No,SEC,Alabama,41,21,9,3,8,Georgia,34,0,7,8,19,5.7
+5,"Sat, Sep. 28, 2024",19:30,Spartan Stadium,Yes,No,Big Ten,Michigan State,7,0,7,0,0,Ohio State,38,3,21,14,0,2.1
+5,"Sat, Sep. 28, 2024",19:30,Simmons Bank Liberty Stadium,Yes,No,Non-Conf,Memphis,24,0,14,10,0,Middle Tennessee,7,0,0,7,0,4.7
+5,"Sat, Sep. 28, 2024",19:45,Tiger Stadium (LA),Yes,No,Non-Conf,LSU,42,21,14,0,7,South Alabama,10,0,3,7,0,2.1
+5,"Sat, Sep. 28, 2024",20:00,Gerald J. Ford Stadium,Yes,No,ACC,SMU,42,7,7,14,14,Florida State,16,7,2,7,0,5.9
+5,"Sat, Sep. 28, 2024",20:00,War Memorial Stadium,Yes,No,Mountain West,Wyoming,31,7,0,14,10,Air Force,19,0,13,0,6,6.0
+5,"Sat, Sep. 28, 2024",20:00,Aggie Memorial Stadium,Yes,No,Non-Conf,New Mexico State,40,7,3,7,23,New Mexico,50,7,14,9,20,3.9
+5,"Sat, Sep. 28, 2024",20:00,Jones AT&T Stadium,Yes,No,Big 12,Texas Tech,44,10,14,10,10,Cincinnati,41,14,10,3,14,6.9
+5,"Sat, Sep. 28, 2024",22:00,Albertsons Stadium,Yes,No,Non-Conf,Boise State,45,7,10,7,21,Washington State,24,7,3,0,14,6.2
+5,"Sat, Sep. 28, 2024",22:15,Rice-Eccles Stadium,Yes,No,Big 12,Utah,10,0,3,0,7,Arizona,23,3,7,6,7,4.2
+5,"Sat, Sep. 28, 2024",23:00,Rose Bowl,Yes,No,Big Ten,UCLA,13,3,7,3,0,Oregon,34,7,21,0,6,2.7
+6,"Thu, Oct. 03, 2024",19:00,Veterans Memorial Stadium (AL),Yes,No,Sun Belt,Troy,17,0,10,7,0,Texas State,38,14,14,10,0,2.6
+6,"Thu, Oct. 03, 2024",21:00,Sun Bowl,Yes,No,Conference USA,UTEP,21,0,7,7,7,Sam Houston,41,7,10,21,3,3.5
+6,"Fri, Oct. 04, 2024",19:00,Fifth Third Stadium,Yes,No,Conference USA,Kennesaw State,24,3,14,0,7,Jacksonville State,63,7,14,21,21,3.7
+6,"Fri, Oct. 04, 2024",19:30,Amon G. Carter Stadium,Yes,No,Big 12,TCU,19,0,6,6,7,Houston,30,7,17,0,6,3.1
+6,"Fri, Oct. 04, 2024",21:00,Allegiant Stadium,Yes,No,Non-Conf,UNLV,41,0,21,10,7,Syracuse,44,14,3,14,7,7.9
+6,"Fri, Oct. 04, 2024",21:00,Autzen Stadium,Yes,No,Big Ten,Oregon,31,7,14,3,7,Michigan State,10,0,0,0,10,3.6
+6,"Sat, Oct. 05, 2024",12:00,Camp Randall Stadium,Yes,No,Big Ten,Wisconsin,52,14,7,21,10,Purdue,6,0,6,0,0,3.2
+6,"Sat, Oct. 05, 2024",12:00,Carter-Finley Stadium,Yes,No,ACC,NC State,30,3,13,7,7,Wake Forest,34,10,7,3,14,7.1
+6,"Sat, Oct. 05, 2024",12:00,Chapman Stadium,Yes,No,American Athletic,Tulsa,7,7,0,0,0,Army,49,7,14,21,7,2.6
+6,"Sat, Oct. 05, 2024",12:00,Kyle Field,Yes,No,SEC,Texas A&M,41,10,14,10,7,Missouri,10,0,0,7,3,2.4
+6,"Sat, Oct. 05, 2024",12:00,Falcon Stadium,Yes,No,Non-Conf,Air Force,7,0,7,0,0,Navy,34,14,7,6,7,1.9
+6,"Sat, Oct. 05, 2024",12:00,Beaver Stadium,Yes,No,Big Ten,Penn State,27,0,14,10,3,UCLA,11,0,3,0,8,3.3
+6,"Sat, Oct. 05, 2024",12:00,Huskie Stadium,Yes,No,Non-Conf,Northern Illinois,34,7,0,6,21,Massachusetts,20,7,6,0,7,6.4
+6,"Sat, Oct. 05, 2024",12:00,Scott Stadium,Yes,No,ACC,Virginia,24,0,6,0,18,Boston College,14,7,7,0,0,6.6
+6,"Sat, Oct. 05, 2024",12:00,Kenan Stadium,Yes,No,ACC,North Carolina,24,7,10,7,0,Pittsburgh,34,3,14,7,10,7.4
+6,"Sat, Oct. 05, 2024",12:00,L&N Federal Credit Union Stadium,Yes,No,ACC,Louisville,27,10,3,14,0,SMU,34,14,10,3,7,7.2
+6,"Sat, Oct. 05, 2024",13:00,Protective Stadium,Yes,No,American Athletic,UAB,20,6,0,0,14,Tulane,71,20,17,20,14,1.6
+6,"Sat, Oct. 05, 2024",14:00,Scheumann Stadium,Yes,No,Mid-American,Ball State,42,14,7,14,7,Western Michigan,45,21,0,10,14,5.4
+6,"Sat, Oct. 05, 2024",15:30,Pratt & Whitney Stadium,Yes,No,Non-Conf,UConn,29,3,6,7,13,Temple,20,0,7,6,7,11.4
+6,"Sat, Oct. 05, 2024",15:30,Jerry Richardson Stadium,Yes,No,American Athletic,Charlotte,55,14,17,3,21,East Carolina,24,3,7,7,7,4.3
+6,"Sat, Oct. 05, 2024",15:30,Glass Bowl,Yes,No,Mid-American,Toledo,30,14,6,3,7,Miami (OH),20,3,3,7,7,4.4
+6,"Sat, Oct. 05, 2024",15:30,Joan C. Edwards Stadium,Yes,No,Sun Belt,Marshall,52,7,21,10,14,App State,37,3,14,7,13,6.1
+6,"Sat, Oct. 05, 2024",15:30,Stanford Stadium,Yes,No,ACC,Stanford,7,0,0,7,0,Virginia Tech,31,7,7,7,10,2.3
+6,"Sat, Oct. 05, 2024",15:30,InfoCision Stadium,Yes,No,Mid-American,Akron,20,10,0,0,10,Bowling Green,27,7,10,0,10,7.5
+6,"Sat, Oct. 05, 2024",15:30,Lanny and Sharon Martin Stadium,Yes,Yes,Big Ten,Northwestern,24,0,10,7,7,Indiana,41,7,10,7,17,4.5
+6,"Sat, Oct. 05, 2024",15:30,Sanford Stadium,Yes,No,SEC,Georgia,31,7,7,7,10,Auburn,13,3,0,7,3,4.6
+6,"Sat, Oct. 05, 2024",15:30,Williams-Brice Stadium,Yes,No,SEC,South Carolina,3,0,3,0,0,Ole Miss,27,14,10,3,0,2.3
+6,"Sat, Oct. 05, 2024",15:30,Ohio Stadium,Yes,No,Big Ten,Ohio State,35,7,0,21,7,Iowa,7,0,0,0,7,3.5
+6,"Sat, Oct. 05, 2024",16:00,"Memorial Stadium (Lincoln, NE)",Yes,No,Big Ten,Nebraska,14,7,7,0,0,Rutgers,7,0,0,0,7,4.6
+6,"Sat, Oct. 05, 2024",16:00,Boone Pickens Stadium,Yes,No,Big 12,Oklahoma State,14,0,7,0,7,West Virginia,38,10,21,0,7,1.9
+6,"Sat, Oct. 05, 2024",16:15,FirstBank Stadium,Yes,No,SEC,Vanderbilt,40,13,10,7,10,Alabama,35,7,7,14,7,7.6
+6,"Sat, Oct. 05, 2024",18:30,Reser Stadium,Yes,No,Non-Conf,Oregon State,39,0,14,0,10,Colorado State,31,7,3,0,14,9.4
+6,"Sat, Oct. 05, 2024",19:00,Doak Campbell Stadium,Yes,No,ACC,Florida State,13,0,7,0,6,Clemson,29,17,6,0,6,3.5
+6,"Sat, Oct. 05, 2024",19:00,Centennial Bank Stadium,Yes,No,Sun Belt,Arkansas State,18,3,3,3,9,South Alabama,16,0,3,7,6,7.7
+6,"Sat, Oct. 05, 2024",19:00,M. M. Roberts Stadium,Yes,No,Sun Belt,Southern Miss,13,0,13,0,0,Louisiana,23,3,14,3,3,3.8
+6,"Sat, Oct. 05, 2024",19:00,Malone Stadium,Yes,No,Sun Belt,UL Monroe,21,0,14,0,7,James Madison,19,10,3,0,6,7.4
+6,"Sat, Oct. 05, 2024",19:00,Brooks Stadium (SC),Yes,No,Sun Belt,Coastal Carolina,45,7,14,14,10,Old Dominion,37,7,10,7,13,6.8
+6,"Sat, Oct. 05, 2024",19:00,Albertsons Stadium,Yes,No,Mountain West,Boise State,62,14,35,6,7,Utah State,30,3,14,7,6,3.6
+6,"Sat, Oct. 05, 2024",19:30,Razorback Stadium,Yes,No,SEC,Arkansas,19,3,0,7,9,Tennessee,14,0,0,14,0,9.4
+6,"Sat, Oct. 05, 2024",19:30,Husky Stadium,Yes,No,Big Ten,Washington,27,7,7,0,13,Michigan,17,0,10,7,0,7.7
+6,"Sat, Oct. 05, 2024",19:30,Huntington Bank Stadium,Yes,No,Big Ten,Minnesota,24,3,7,0,14,USC,17,0,10,7,0,7.3
+6,"Sat, Oct. 05, 2024",19:30,Jack Trice Stadium,Yes,No,Big 12,Iowa State,43,3,16,14,10,Baylor,21,7,7,7,0,6.6
+6,"Sat, Oct. 05, 2024",19:30,CEFCU Stadium,Yes,No,Mountain West,San José State,35,7,14,7,7,Nevada,31,7,14,7,3,7.3
+6,"Sat, Oct. 05, 2024",19:45,Ben Hill Griffin Stadium,Yes,No,Non-Conf,Florida,24,7,17,0,0,UCF,13,3,0,3,7,3.6
+6,"Sat, Oct. 05, 2024",20:00,Snapdragon Stadium,Yes,No,Mountain West,San Diego State,27,3,14,3,7,Hawai'i,24,3,7,7,7,8.1
+6,"Sat, Oct. 05, 2024",20:00,Mountain America Stadium,Yes,No,Big 12,Arizona State,35,7,7,0,21,Kansas,31,7,7,3,14,9.7
+6,"Sat, Oct. 05, 2024",20:00,Bobby Dodd Stadium,Yes,No,ACC,Georgia Tech,24,7,3,0,14,Duke,14,0,7,7,0,7.6
+6,"Sat, Oct. 05, 2024",22:30,California Memorial Stadium,Yes,No,ACC,California,38,7,14,14,3,Miami,39,7,3,8,21,5.1
+6,"Sat, Oct. 05, 2024",23:00,Arizona Stadium,Yes,No,Big 12,Arizona,22,3,0,13,6,Texas Tech,28,7,11,0,10,7.0
+7,"Tue, Oct. 08, 2024",19:00,Williams Stadium (VA),Yes,No,Conference USA,Liberty,31,3,14,0,7,Florida International,24,3,7,0,14,7.0
+7,"Wed, Oct. 09, 2024",19:30,AmFirst Stadium,Yes,No,Conference USA,Jacksonville State,54,7,26,14,7,New Mexico State,13,3,3,0,7,4.0
+7,"Thu, Oct. 10, 2024",19:30,Bridgeforth Stadium,Yes,No,Sun Belt,James Madison,39,7,22,7,3,Coastal Carolina,7,7,0,0,0,3.3
+7,"Thu, Oct. 10, 2024",20:00,Joe Aillet Stadium,Yes,No,Conference USA,Louisiana Tech,48,20,14,14,0,Middle Tennessee,21,14,0,7,0,3.6
+7,"Thu, Oct. 10, 2024",20:00,Houchens Industries-L.T. Smith Stadium,Yes,No,Conference USA,Western Kentucky,44,14,13,7,10,UTEP,17,7,0,10,0,4.3
+7,"Fri, Oct. 11, 2024",20:00,SECU Stadium,Yes,No,Big Ten,Maryland,10,0,7,0,3,Northwestern,37,7,10,0,20,3.7
+7,"Fri, Oct. 11, 2024",21:00,Maverik Stadium,Yes,No,Mountain West,Utah State,34,7,0,14,13,UNLV,50,14,27,6,3,2.1
+7,"Fri, Oct. 11, 2024",22:30,Mountain America Stadium,Yes,No,Big 12,Arizona State,27,6,7,7,7,Utah,19,6,3,7,3,6.7
+7,"Sat, Oct. 12, 2024",12:00,Kenan Stadium,Yes,No,ACC,North Carolina,34,7,7,10,10,Georgia Tech,41,7,13,7,14,6.1
+7,"Sat, Oct. 12, 2024",12:00,SHI Stadium,Yes,No,Big Ten,Rutgers,7,0,0,0,7,Wisconsin,42,14,0,14,14,2.7
+7,"Sat, Oct. 12, 2024",12:00,Kinnick Stadium,Yes,No,Big Ten,Iowa,40,7,13,3,17,Washington,16,0,10,0,6,4.5
+7,"Sat, Oct. 12, 2024",12:00,Dix Stadium,Yes,No,Mid-American,Kent State,35,0,7,7,21,Ball State,37,10,10,7,10,5.0
+7,"Sat, Oct. 12, 2024",12:00,Allegacy Federal Credit Union Stadium,Yes,No,ACC,Wake Forest,14,7,7,0,0,Clemson,49,0,28,14,7,3.2
+7,"Sat, Oct. 12, 2024",12:00,Bryant-Denny Stadium,Yes,No,SEC,Alabama,27,7,7,0,13,South Carolina,25,0,12,7,6,8.3
+7,"Sat, Oct. 12, 2024",12:00,UB Stadium,Yes,No,Mid-American,Buffalo,30,7,0,14,9,Toledo,15,0,0,7,8,5.0
+7,"Sat, Oct. 12, 2024",12:00,Warren McGuirk Alumni Stadium,Yes,No,Non-Conf,Massachusetts,3,0,3,0,0,Missouri,45,14,10,21,0,1.7
+7,"Sat, Oct. 12, 2024",12:00,Michie Stadium,Yes,No,American Athletic,Army,44,20,14,7,3,UAB,10,3,0,0,7,4.9
+7,"Sat, Oct. 12, 2024",14:00,Rynearson Stadium,Yes,No,Mid-American,Eastern Michigan,14,7,0,7,0,Miami (OH),38,7,14,0,17,3.1
+7,"Sat, Oct. 12, 2024",15:30,Canvas Stadium,Yes,No,Mountain West,Colorado State,31,7,7,7,10,San José State,24,7,7,0,10,7.1
+7,"Sat, Oct. 12, 2024",15:30,Notre Dame Stadium,Yes,No,Non-Conf,Notre Dame,49,7,14,21,7,Stanford,7,7,0,0,0,4.8
+7,"Sat, Oct. 12, 2024",15:30,War Memorial Stadium,Yes,No,Mountain West,Wyoming,24,7,7,3,7,San Diego State,27,10,7,0,10,10.4
+7,"Sat, Oct. 12, 2024",15:30,Cotton Bowl,Yes,Yes,SEC,Oklahoma,3,3,0,0,0,Texas,34,0,21,3,10,3.0
+7,"Sat, Oct. 12, 2024",15:30,Camping World Stadium,Yes,Yes,American Athletic,South Florida,3,0,3,0,0,Memphis,21,14,0,0,7,3.2
+7,"Sat, Oct. 12, 2024",15:30,Los Angeles Memorial Coliseum,Yes,No,Big Ten,USC,30,7,13,3,7,Penn State,33,3,3,14,10,8.4
+7,"Sat, Oct. 12, 2024",15:30,Scott Stadium,Yes,No,ACC,Virginia,20,7,0,6,7,Louisville,24,0,7,10,7,6.7
+7,"Sat, Oct. 12, 2024",15:30,FBC Mortgage Stadium,Yes,No,Big 12,UCF,13,0,3,7,3,Cincinnati,19,3,7,3,6,6.3
+7,"Sat, Oct. 12, 2024",15:30,Center Parc Stadium,Yes,No,Sun Belt,Georgia State,14,0,7,0,7,Old Dominion,21,7,0,7,7,6.3
+7,"Sat, Oct. 12, 2024",15:30,Waldo Stadium,Yes,No,Mid-American,Western Michigan,34,0,24,7,3,Akron,24,10,7,7,0,7.2
+7,"Sat, Oct. 12, 2024",15:30,Acrisure Stadium,Yes,No,ACC,Pittsburgh,17,7,10,0,0,California,15,6,3,0,6,7.9
+7,"Sat, Oct. 12, 2024",15:30,Doyt L. Perry Stadium,Yes,No,Mid-American,Bowling Green,7,7,0,0,0,Northern Illinois,17,3,3,0,11,6.1
+7,"Sat, Oct. 12, 2024",15:30,"Memorial Stadium (Champaign, IL)",Yes,No,Big Ten,Illinois,50,10,14,3,16,Purdue,49,0,3,17,23,5.8
+7,"Sat, Oct. 12, 2024",16:00,LaVell Edwards Stadium,Yes,No,Big 12,BYU,41,0,14,13,14,Arizona,19,7,0,3,9,6.0
+7,"Sat, Oct. 12, 2024",16:00,Kelly/Shorts Stadium,Yes,No,Mid-American,Central Michigan,25,0,0,8,17,Ohio,27,3,21,0,3,4.0
+7,"Sat, Oct. 12, 2024",16:15,Sanford Stadium,Yes,No,SEC,Georgia,41,10,17,7,7,Mississippi State,31,3,7,14,7,4.8
+7,"Sat, Oct. 12, 2024",17:00,Malone Stadium,Yes,No,Sun Belt,UL Monroe,38,7,7,3,21,Southern Miss,21,3,3,8,7,7.4
+7,"Sat, Oct. 12, 2024",19:00,Bobcat Stadium (TX),Yes,No,Sun Belt,Texas State,41,14,3,14,10,Arkansas State,9,3,6,0,0,6.4
+7,"Sat, Oct. 12, 2024",19:00,Neyland Stadium,Yes,No,SEC,Tennessee,23,0,0,10,7,Florida,17,3,0,7,7,7.3
+7,"Sat, Oct. 12, 2024",19:00,FAU Stadium,Yes,No,American Athletic,Florida Atlantic,37,7,20,7,3,North Texas,41,14,3,10,14,8.9
+7,"Sat, Oct. 12, 2024",19:00,Valley Children's Stadium,Yes,No,Non-Conf,Fresno State,17,7,0,7,3,Washington State,25,13,0,3,9,5.9
+7,"Sat, Oct. 12, 2024",19:00,Rice Stadium,Yes,No,American Athletic,Rice,29,0,9,14,6,UTSA,27,0,10,3,14,7.4
+7,"Sat, Oct. 12, 2024",19:00,University Stadium (NM),Yes,No,Mountain West,New Mexico,52,7,21,17,7,Air Force,37,3,14,0,20,3.9
+7,"Sat, Oct. 12, 2024",19:30,Mackay Stadium,Yes,No,Non-Conf,Nevada,42,7,7,7,21,Oregon State,37,7,10,7,13,6.2
+7,"Sat, Oct. 12, 2024",19:30,Autzen Stadium,Yes,No,Big Ten,Oregon,32,6,16,0,10,Ohio State,31,7,14,7,3,8.1
+7,"Sat, Oct. 12, 2024",19:30,Cajun Field,Yes,No,Sun Belt,Louisiana,34,3,14,3,14,App State,24,0,14,3,7,8.0
+7,"Sat, Oct. 12, 2024",19:30,Tiger Stadium (LA),Yes,No,SEC,LSU,29,0,13,3,7,Ole Miss,26,0,17,3,3,8.7
+7,"Sat, Oct. 12, 2024",19:45,Kroger Field,Yes,No,SEC,Kentucky,13,0,7,0,6,Vanderbilt,20,7,7,3,3,4.1
+7,"Sat, Oct. 12, 2024",20:00,Milan Puskar Stadium,Yes,No,Big 12,West Virginia,16,7,3,0,6,Iowa State,28,0,14,0,14,5.2
+7,"Sat, Oct. 12, 2024",20:00,Allen E. Paulson Stadium,Yes,No,Sun Belt,Georgia Southern,24,3,0,0,21,Marshall,23,6,10,7,0,5.5
+7,"Sat, Oct. 12, 2024",20:00,Carter-Finley Stadium,Yes,No,ACC,NC State,17,0,7,0,10,Syracuse,24,3,7,7,7,3.9
+7,"Sat, Oct. 12, 2024",21:00,Rose Bowl,Yes,No,Big Ten,UCLA,17,7,3,0,7,Minnesota,21,0,0,14,7,7.5
+7,"Sat, Oct. 12, 2024",22:15,Folsom Field,Yes,No,Big 12,Colorado,28,7,0,7,14,Kansas State,31,7,7,10,7,5.5
+7,"Sat, Oct. 12, 2024",23:00,Clarence T.C. Ching Athletics Complex,Yes,No,Mountain West,Hawai'i,7,0,7,0,0,Boise State,28,10,3,0,15,4.8
+8,"Tue, Oct. 15, 2024",19:30,Hancock Whitney Stadium,Yes,No,Sun Belt,South Alabama,25,3,16,6,0,Troy,9,0,3,0,6,4.0
+8,"Tue, Oct. 15, 2024",20:00,"Johnny ""Red"" Floyd Stadium",Yes,No,Conference USA,Middle Tennessee,14,7,0,7,0,Kennesaw State,5,2,0,0,3,6.9
+8,"Tue, Oct. 15, 2024",21:00,Aggie Memorial Stadium,Yes,No,Conference USA,New Mexico State,33,0,10,7,7,Louisiana Tech,30,0,14,0,10,9.4
+8,"Wed, Oct. 16, 2024",19:00,Elliott T. Bowers Stadium,Yes,No,Conference USA,Sam Houston,14,0,14,0,0,Western Kentucky,31,7,10,0,14,5.5
+8,"Wed, Oct. 16, 2024",21:00,Sun Bowl,Yes,No,Conference USA,UTEP,30,3,14,3,10,Florida International,21,7,7,7,0,8.2
+8,"Thu, Oct. 17, 2024",19:00,Joan C. Edwards Stadium,Yes,No,Sun Belt,Marshall,35,11,14,0,10,Georgia State,20,0,10,7,3,7.2
+8,"Thu, Oct. 17, 2024",19:30,Lane Stadium,Yes,No,ACC,Virginia Tech,42,14,14,0,14,Boston College,21,0,0,21,0,3.9
+8,"Fri, Oct. 18, 2024",19:00,Wallace Wade Stadium,Yes,No,ACC,Duke,23,7,10,3,3,Florida State,16,3,3,7,3,6.8
+8,"Fri, Oct. 18, 2024",20:00,Ross-Ade Stadium,Yes,No,Big Ten,Purdue,0,0,0,0,0,Oregon,35,14,7,0,14,1.8
+8,"Fri, Oct. 18, 2024",22:15,LaVell Edwards Stadium,Yes,No,Big 12,BYU,38,7,7,14,10,Oklahoma State,35,7,14,0,14,8.0
+8,"Fri, Oct. 18, 2024",22:30,Mackay Stadium,Yes,No,Mountain West,Nevada,21,7,14,0,0,Fresno State,24,3,14,7,0,6.5
+8,"Sat, Oct. 19, 2024",12:00,"Memorial Stadium (Bloomington, IN)",Yes,No,Big Ten,Indiana,56,7,21,14,14,Nebraska,7,0,7,0,0,5.2
+8,"Sat, Oct. 19, 2024",12:00,Michie Stadium,Yes,No,American Athletic,Army,45,7,17,14,7,East Carolina,28,0,0,7,21,2.7
+8,"Sat, Oct. 19, 2024",12:00,Nippert Stadium,Yes,No,Big 12,Cincinnati,24,10,14,0,0,Arizona State,14,7,0,7,0,5.3
+8,"Sat, Oct. 19, 2024",12:00,SHI Stadium,Yes,No,Big Ten,Rutgers,32,7,3,9,13,UCLA,35,7,14,7,7,4.6
+8,"Sat, Oct. 19, 2024",12:00,Memorial Stadium,Yes,No,SEC,Missouri,21,3,0,3,15,Auburn,17,0,3,14,0,8.0
+8,"Sat, Oct. 19, 2024",12:00,"Memorial Stadium (Clemson, SC)",Yes,No,ACC,Clemson,48,3,14,21,10,Virginia,31,3,7,0,21,4.6
+8,"Sat, Oct. 19, 2024",12:00,Brooks Stadium (SC),Yes,No,Sun Belt,Coastal Carolina,24,0,14,3,7,Louisiana,34,7,10,0,17,6.5
+8,"Sat, Oct. 19, 2024",12:00,L&N Federal Credit Union Stadium,Yes,No,ACC,Louisville,45,7,10,14,14,Miami,52,10,14,14,14,6.0
+8,"Sat, Oct. 19, 2024",12:00,Pratt & Whitney Stadium,Yes,No,Non-Conf,UConn,20,3,3,7,7,Wake Forest,23,3,10,7,3,5.4
+8,"Sat, Oct. 19, 2024",12:00,Lanny and Sharon Martin Stadium,Yes,Yes,Big Ten,Northwestern,3,0,0,3,0,Wisconsin,23,0,14,7,2,3.6
+8,"Sat, Oct. 19, 2024",12:45,"Memorial Stadium (Norman, OK)",Yes,No,SEC,Oklahoma,9,0,3,6,0,South Carolina,35,21,11,0,3,2.0
+8,"Sat, Oct. 19, 2024",14:00,Lincoln Financial Field,Yes,No,American Athletic,Temple,20,3,14,0,3,Tulsa,10,0,0,10,0,5.1
+8,"Sat, Oct. 19, 2024",14:00,Rynearson Stadium,Yes,No,Mid-American,Eastern Michigan,38,10,6,0,22,Central Michigan,34,0,14,13,7,5.9
+8,"Sat, Oct. 19, 2024",15:30,GEHA Field at Arrowhead Stadium,Yes,Yes,Big 12,Kansas,42,14,14,0,14,Houston,14,0,14,0,0,3.6
+8,"Sat, Oct. 19, 2024",15:30,Yager Stadium,Yes,No,Mid-American,Miami (OH),30,3,13,14,0,Ohio,20,0,0,6,14,4.0
+8,"Sat, Oct. 19, 2024",15:30,Yulman Stadium,Yes,No,American Athletic,Tulane,24,3,7,0,14,Rice,10,0,7,3,0,8.3
+8,"Sat, Oct. 19, 2024",15:30,Mercedes-Benz Stadium,Yes,Yes,Non-Conf,Georgia Tech,13,7,0,0,6,Notre Dame,31,0,14,7,10,3.3
+8,"Sat, Oct. 19, 2024",15:30,S.B. Ballard Stadium,Yes,No,Sun Belt,Old Dominion,24,7,7,0,10,Texas State,14,0,0,7,7,6.4
+8,"Sat, Oct. 19, 2024",15:30,Gesa Field,Yes,No,Non-Conf,Washington State,42,7,14,7,14,Hawai'i,10,3,0,7,0,3.8
+8,"Sat, Oct. 19, 2024",15:30,Doyt L. Perry Stadium,Yes,No,Mid-American,Bowling Green,27,10,10,0,7,Kent State,6,3,3,0,0,4.2
+8,"Sat, Oct. 19, 2024",15:30,Raymond James Stadium,Yes,No,American Athletic,South Florida,35,0,7,13,15,UAB,25,3,6,10,6,9.5
+8,"Sat, Oct. 19, 2024",15:30,Alamodome,Yes,No,American Athletic,UTSA,38,3,14,7,14,Florida Atlantic,24,7,10,7,0,9.4
+8,"Sat, Oct. 19, 2024",15:30,"Memorial Stadium (Champaign, IL)",Yes,No,Big Ten,Illinois,21,3,10,8,0,Michigan,7,0,7,0,0,4.8
+8,"Sat, Oct. 19, 2024",15:30,California Memorial Stadium,Yes,No,ACC,California,23,7,6,10,0,NC State,24,3,7,0,14,7.2
+8,"Sat, Oct. 19, 2024",15:30,UB Stadium,Yes,No,Mid-American,Buffalo,41,10,7,7,17,Western Michigan,48,7,21,7,13,7.7
+8,"Sat, Oct. 19, 2024",15:30,Huskie Stadium,Yes,No,Mid-American,Northern Illinois,6,3,3,0,0,Toledo,13,0,7,3,3,7.4
+8,"Sat, Oct. 19, 2024",15:30,Neyland Stadium,Yes,No,SEC,Tennessee,24,0,0,14,10,Alabama,17,0,7,3,7,10.0
+8,"Sat, Oct. 19, 2024",15:30,Navy-Marine Corps Memorial Stadium,Yes,No,American Athletic,Navy,51,24,14,13,0,Charlotte,17,0,10,7,0,2.1
+8,"Sat, Oct. 19, 2024",16:00,Maverik Stadium,Yes,No,Mountain West,Utah State,45,14,10,14,7,New Mexico,50,0,15,14,21,1.7
+8,"Sat, Oct. 19, 2024",16:00,SECU Stadium,Yes,No,Big Ten,Maryland,29,0,7,7,15,USC,28,7,14,0,7,7.4
+8,"Sat, Oct. 19, 2024",16:00,CEFCU Stadium,Yes,No,Mountain West,San José State,24,7,7,3,7,Wyoming,14,0,0,7,7,5.8
+8,"Sat, Oct. 19, 2024",16:00,Arizona Stadium,Yes,No,Big 12,Arizona,7,7,0,0,0,Colorado,34,14,14,3,3,2.6
+8,"Sat, Oct. 19, 2024",16:00,Allen E. Paulson Stadium,Yes,No,Sun Belt,Georgia Southern,28,7,14,7,0,James Madison,14,0,0,7,7,5.2
+8,"Sat, Oct. 19, 2024",16:00,Jones AT&T Stadium,Yes,No,Big 12,Texas Tech,35,7,7,7,14,Baylor,59,7,17,14,21,4.0
+8,"Sat, Oct. 19, 2024",16:15,Davis Wade Stadium,Yes,No,SEC,Mississippi State,24,7,10,0,7,Texas A&M,34,7,14,10,3,4.5
+8,"Sat, Oct. 19, 2024",19:00,FirstBank Stadium,Yes,No,Non-Conf,Vanderbilt,24,3,11,0,10,Ball State,14,7,0,7,0,7.2
+8,"Sat, Oct. 19, 2024",19:00,M. M. Roberts Stadium,Yes,No,Sun Belt,Southern Miss,28,7,14,0,7,Arkansas State,44,21,7,13,3,2.9
+8,"Sat, Oct. 19, 2024",19:00,Razorback Stadium,Yes,No,SEC,Arkansas,10,0,7,3,0,LSU,34,10,6,8,10,3.2
+8,"Sat, Oct. 19, 2024",19:30,Spartan Stadium,Yes,No,Big Ten,Michigan State,32,6,6,7,13,Iowa,20,0,0,14,6,7.4
+8,"Sat, Oct. 19, 2024",19:30,Simmons Bank Liberty Stadium,Yes,No,American Athletic,Memphis,52,14,14,7,17,North Texas,44,21,3,7,13,9.5
+8,"Sat, Oct. 19, 2024",19:30,Milan Puskar Stadium,Yes,No,Big 12,West Virginia,18,3,7,0,8,Kansas State,45,10,7,14,14,3.3
+8,"Sat, Oct. 19, 2024",19:30,Jack Trice Stadium,Yes,No,Big 12,Iowa State,38,14,0,13,11,UCF,35,7,14,7,7,6.7
+8,"Sat, Oct. 19, 2024",19:30,DKR-Texas Memorial Stadium,Yes,No,SEC,Texas,15,0,0,15,0,Georgia,30,7,16,0,7,4.0
+8,"Sat, Oct. 19, 2024",19:45,Ben Hill Griffin Stadium,Yes,No,SEC,Florida,48,3,24,7,14,Kentucky,20,0,13,7,0,4.5
+8,"Sat, Oct. 19, 2024",20:00,Falcon Stadium,Yes,No,Mountain West,Air Force,13,0,0,0,13,Colorado State,21,0,14,7,0,2.3
+8,"Sat, Oct. 19, 2024",20:00,Stanford Stadium,Yes,No,ACC,Stanford,10,0,7,3,0,SMU,40,21,10,0,9,1.9
+8,"Sat, Oct. 19, 2024",22:00,Reser Stadium,Yes,No,Non-Conf,Oregon State,25,3,14,0,8,UNLV,33,3,13,7,10,6.3
+8,"Sat, Oct. 19, 2024",22:30,Rice-Eccles Stadium,Yes,No,Big 12,Utah,7,0,0,7,0,TCU,13,0,10,3,0,5.8
+9,"Tue, Oct. 22, 2024",19:30,Pitbull Stadium,Yes,Yes,Conference USA,Florida International,7,0,0,0,7,Sam Houston,10,0,0,7,3,6.3
+9,"Tue, Oct. 22, 2024",20:00,Joe Aillet Stadium,Yes,No,Conference USA,Louisiana Tech,14,0,7,0,7,UTEP,10,7,0,3,0,8.0
+9,"Wed, Oct. 23, 2024",19:00,Fifth Third Stadium,Yes,No,Conference USA,Kennesaw State,27,7,7,7,6,Liberty,24,7,7,3,7,6.8
+9,"Wed, Oct. 23, 2024",19:30,AmFirst Stadium,Yes,No,Conference USA,Jacksonville State,42,14,0,21,7,Middle Tennessee,20,10,0,3,7,4.5
+9,"Thu, Oct. 24, 2024",19:00,S.B. Ballard Stadium,Yes,No,Sun Belt,Old Dominion,47,13,17,14,3,Georgia Southern,19,0,7,6,6,3.0
+9,"Thu, Oct. 24, 2024",19:30,Acrisure Stadium,Yes,No,ACC,Pittsburgh,41,17,14,0,10,Syracuse,13,0,0,6,7,3.1
+9,"Fri, Oct. 25, 2024",19:30,"Alumni Stadium (Chestnut Hill, MA)",Yes,No,ACC,Boston College,27,7,13,7,0,Louisville,31,0,7,10,14,6.2
+9,"Fri, Oct. 25, 2024",22:30,Allegiant Stadium,Yes,No,Mountain West,UNLV,24,10,0,14,0,Boise State,29,3,17,3,6,6.4
+9,"Fri, Oct. 25, 2024",23:00,Los Angeles Memorial Coliseum,Yes,No,Big Ten,USC,42,14,14,14,0,Rutgers,20,3,9,8,0,4.0
+9,"Sat, Oct. 26, 2024",12:00,"Memorial Stadium (Bloomington, IN)",Yes,No,Big Ten,Indiana,31,7,10,7,7,Washington,17,0,7,7,3,7.7
+9,"Sat, Oct. 26, 2024",12:00,Ohio Stadium,Yes,No,Big Ten,Ohio State,21,7,7,0,7,Nebraska,17,0,6,3,8,7.4
+9,"Sat, Oct. 26, 2024",12:00,Vaught-Hemingway Stadium,Yes,No,SEC,Ole Miss,26,7,3,13,3,Oklahoma,14,7,7,0,0,6.0
+9,"Sat, Oct. 26, 2024",12:00,DATCU Stadium,Yes,No,American Athletic,North Texas,37,3,14,7,13,Tulane,45,21,10,14,0,3.1
+9,"Sat, Oct. 26, 2024",12:00,Scott Stadium,Yes,No,ACC,Virginia,14,3,3,0,8,North Carolina,41,7,17,14,3,2.8
+9,"Sat, Oct. 26, 2024",12:00,MetLife Stadium,Yes,Yes,Non-Conf,Navy,14,0,7,7,0,Notre Dame,51,14,17,13,7,2.5
+9,"Sat, Oct. 26, 2024",12:00,Peden Stadium,Yes,No,Mid-American,Ohio,47,3,21,9,14,Buffalo,16,0,10,6,0,5.1
+9,"Sat, Oct. 26, 2024",12:00,Simmons Bank Liberty Stadium,Yes,No,American Athletic,Memphis,33,0,7,14,12,Charlotte,28,7,0,0,21,8.5
+9,"Sat, Oct. 26, 2024",12:00,Lane Stadium,Yes,No,ACC,Virginia Tech,21,0,14,7,0,Georgia Tech,6,3,3,0,0,5.3
+9,"Sat, Oct. 26, 2024",12:45,Davis Wade Stadium,Yes,No,SEC,Mississippi State,25,7,3,15,0,Arkansas,58,17,14,10,17,2.5
+9,"Sat, Oct. 26, 2024",13:00,Kidd Brewer Stadium,Yes,No,Sun Belt,App State,33,2,16,7,8,Georgia State,26,0,16,7,3,6.4
+9,"Sat, Oct. 26, 2024",14:00,Yager Stadium,Yes,No,Mid-American,Miami (OH),46,3,13,10,20,Central Michigan,7,7,0,0,0,4.4
+9,"Sat, Oct. 26, 2024",14:00,Dowdy-Ficklen Stadium,Yes,No,American Athletic,East Carolina,56,13,14,29,0,Temple,34,14,7,7,6,4.9
+9,"Sat, Oct. 26, 2024",15:30,McLane Stadium,Yes,No,Big 12,Baylor,38,3,14,7,14,Oklahoma State,28,3,14,3,8,7.7
+9,"Sat, Oct. 26, 2024",15:30,Kinnick Stadium,Yes,No,Big Ten,Iowa,40,3,9,28,0,Northwestern,14,0,7,0,7,5.1
+9,"Sat, Oct. 26, 2024",15:30,Glass Bowl,Yes,No,Mid-American,Toledo,26,7,13,6,0,Bowling Green,41,14,14,3,10,5.5
+9,"Sat, Oct. 26, 2024",15:30,Warren McGuirk Alumni Stadium,Yes,No,Non-Conf,Massachusetts,35,7,14,0,14,Wagner,7,0,0,7,0,4.5
+9,"Sat, Oct. 26, 2024",15:30,Chapman Stadium,Yes,No,American Athletic,Tulsa,46,0,7,17,22,UTSA,45,14,21,7,3,6.0
+9,"Sat, Oct. 26, 2024",15:30,Stanford Stadium,Yes,No,ACC,Stanford,24,0,17,0,7,Wake Forest,27,14,10,0,3,6.2
+9,"Sat, Oct. 26, 2024",15:30,Amon G. Carter Stadium,Yes,No,Big 12,TCU,35,14,0,7,14,Texas Tech,34,3,14,14,3,7.7
+9,"Sat, Oct. 26, 2024",15:30,Waldo Stadium,Yes,No,Mid-American,Western Michigan,52,14,24,7,7,Kent State,21,0,7,0,14,2.5
+9,"Sat, Oct. 26, 2024",15:30,Pratt & Whitney Stadium,Yes,No,Non-Conf,UConn,17,0,0,7,10,Rice,10,3,0,0,7,6.2
+9,"Sat, Oct. 26, 2024",15:30,Scheumann Stadium,Yes,No,Mid-American,Ball State,25,7,12,0,6,Northern Illinois,23,7,7,0,9,7.9
+9,"Sat, Oct. 26, 2024",15:30,FBC Mortgage Stadium,Yes,No,Big 12,UCF,24,0,10,0,14,BYU,37,7,17,10,3,2.4
+9,"Sat, Oct. 26, 2024",15:30,InfoCision Stadium,Yes,No,Mid-American,Akron,25,8,10,0,7,Eastern Michigan,21,0,0,14,7,7.8
+9,"Sat, Oct. 26, 2024",15:30,Bridgeforth Stadium,Yes,No,Sun Belt,James Madison,32,0,17,8,7,Southern Miss,15,3,6,6,0,6.3
+9,"Sat, Oct. 26, 2024",15:30,Huntington Bank Stadium,Yes,No,Big Ten,Minnesota,48,21,13,7,7,Maryland,23,0,10,0,13,2.7
+9,"Sat, Oct. 26, 2024",15:30,Bryant-Denny Stadium,Yes,No,SEC,Alabama,34,3,10,14,7,Missouri,0,0,0,0,0,3.7
+9,"Sat, Oct. 26, 2024",15:30,Autzen Stadium,Yes,No,Big Ten,Oregon,38,14,21,0,3,Illinois,9,3,0,6,0,2.7
+9,"Sat, Oct. 26, 2024",16:00,California Memorial Stadium,Yes,No,Non-Conf,California,44,14,17,10,3,Oregon State,7,0,0,0,7,4.1
+9,"Sat, Oct. 26, 2024",16:15,FirstBank Stadium,Yes,No,SEC,Vanderbilt,24,7,3,7,7,Texas,27,14,7,3,3,4.2
+9,"Sat, Oct. 26, 2024",17:00,Canvas Stadium,Yes,No,Mountain West,Colorado State,17,0,17,0,0,New Mexico,6,0,3,3,0,4.9
+9,"Sat, Oct. 26, 2024",17:00,Hancock Whitney Stadium,Yes,No,Sun Belt,South Alabama,46,7,5,20,14,UL Monroe,17,7,10,0,0,6.1
+9,"Sat, Oct. 26, 2024",19:00,Arizona Stadium,Yes,No,Big 12,Arizona,26,0,7,6,13,West Virginia,31,10,7,7,7,3.5
+9,"Sat, Oct. 26, 2024",19:00,TDECU Stadium,Yes,No,Big 12,Houston,17,0,7,0,10,Utah,14,7,0,7,0,8.3
+9,"Sat, Oct. 26, 2024",19:00,Hard Rock Stadium,Yes,No,ACC,Miami,36,7,10,6,13,Florida State,14,0,7,0,7,6.0
+9,"Sat, Oct. 26, 2024",19:00,Centennial Bank Stadium,Yes,No,Sun Belt,Arkansas State,34,13,10,3,8,Troy,31,0,3,21,7,7.7
+9,"Sat, Oct. 26, 2024",19:00,War Memorial Stadium,Yes,No,Mountain West,Wyoming,25,3,7,6,9,Utah State,27,7,10,0,10,8.0
+9,"Sat, Oct. 26, 2024",19:30,Michigan Stadium,Yes,No,Big Ten,Michigan,24,0,9,7,8,Michigan State,17,7,0,3,7,7.1
+9,"Sat, Oct. 26, 2024",19:30,Kyle Field,Yes,No,SEC,Texas A&M,38,7,0,14,17,LSU,23,10,7,0,6,6.7
+9,"Sat, Oct. 26, 2024",19:30,Camp Randall Stadium,Yes,No,Big Ten,Wisconsin,13,3,7,3,0,Penn State,28,0,7,7,14,6.5
+9,"Sat, Oct. 26, 2024",19:45,Kroger Field,Yes,No,SEC,Kentucky,10,10,0,0,0,Auburn,24,0,10,7,7,4.4
+9,"Sat, Oct. 26, 2024",20:00,Wallace Wade Stadium,Yes,No,ACC,Duke,27,7,0,6,8,SMU,28,0,14,7,0,7.2
+9,"Sat, Oct. 26, 2024",20:00,Valley Children's Stadium,Yes,No,Mountain West,Fresno State,33,3,17,7,6,San José State,10,7,0,0,3,6.4
+9,"Sat, Oct. 26, 2024",20:00,Bill Snyder Family Stadium,Yes,No,Big 12,Kansas State,29,0,16,7,6,Kansas,27,7,7,13,0,9.3
+9,"Sat, Oct. 26, 2024",22:15,Folsom Field,Yes,No,Big 12,Colorado,34,14,10,7,3,Cincinnati,23,7,7,0,9,5.0
+9,"Sat, Oct. 26, 2024",22:30,Snapdragon Stadium,Yes,No,Non-Conf,San Diego State,26,6,6,7,7,Washington State,29,7,7,0,15,7.4
+9,"Sat, Oct. 26, 2024",23:59,Clarence T.C. Ching Athletics Complex,Yes,No,Mountain West,Hawai'i,34,14,3,7,10,Nevada,13,0,0,7,6,4.7
+10,"Tue, Oct. 29, 2024",19:00,Pitbull Stadium,Yes,Yes,Conference USA,Florida International,34,0,7,13,14,New Mexico State,13,0,6,0,7,6.4
+10,"Tue, Oct. 29, 2024",19:30,Bobcat Stadium (TX),Yes,No,Sun Belt,Texas State,17,6,0,8,3,Louisiana,23,7,7,3,6,5.7
+10,"Tue, Oct. 29, 2024",20:00,Elliott T. Bowers Stadium,Yes,No,Conference USA,Sam Houston,9,2,0,7,0,Louisiana Tech,3,3,0,0,0,6.8
+10,"Wed, Oct. 30, 2024",19:00,Williams Stadium (VA),Yes,No,Conference USA,Liberty,21,7,7,0,7,Jacksonville State,31,7,7,10,7,5.5
+10,"Wed, Oct. 30, 2024",19:30,Houchens Industries-L.T. Smith Stadium,Yes,No,Conference USA,Western Kentucky,31,21,3,0,7,Kennesaw State,14,7,0,0,7,4.1
+10,"Thu, Oct. 31, 2024",19:30,Jerry Richardson Stadium,Yes,No,American Athletic,Charlotte,3,0,3,0,0,Tulane,34,3,7,10,14,2.7
+10,"Fri, Nov. 01, 2024",19:00,Pratt & Whitney Stadium,Yes,No,Non-Conf,UConn,34,10,3,7,14,Georgia State,27,0,10,3,14,6.5
+10,"Fri, Nov. 01, 2024",19:30,FAU Stadium,Yes,No,American Athletic,Florida Atlantic,21,7,7,7,0,South Florida,44,0,7,24,13,6.9
+10,"Fri, Nov. 01, 2024",20:00,Albertsons Stadium,Yes,No,Mountain West,Boise State,56,21,14,7,14,San Diego State,24,0,10,0,14,2.6
+10,"Sat, Nov. 02, 2024",12:00,Beaver Stadium,Yes,No,Big Ten,Penn State,13,10,0,3,0,Ohio State,20,7,7,3,3,5.0
+10,"Sat, Nov. 02, 2024",12:00,Razorback Stadium,Yes,No,SEC,Arkansas,31,3,7,14,7,Ole Miss,63,7,28,21,7,2.2
+10,"Sat, Nov. 02, 2024",12:00,Rynearson Stadium,Yes,No,Mid-American,Eastern Michigan,28,7,3,9,9,Toledo,29,0,7,0,22,6.6
+10,"Sat, Nov. 02, 2024",12:00,Alamodome,Yes,No,American Athletic,UTSA,44,14,10,10,10,Memphis,36,10,14,0,12,6.2
+10,"Sat, Nov. 02, 2024",12:00,Michie Stadium,Yes,No,Non-Conf,Army,20,3,3,7,7,Air Force,3,0,3,0,0,4.7
+10,"Sat, Nov. 02, 2024",12:00,"Memorial Stadium (Norman, OK)",Yes,No,Non-Conf,Oklahoma,59,7,28,14,10,Maine,14,7,0,0,7,3.2
+10,"Sat, Nov. 02, 2024",12:00,Carter-Finley Stadium,Yes,No,ACC,NC State,59,14,17,21,7,Stanford,28,7,7,7,7,3.6
+10,"Sat, Nov. 02, 2024",12:00,JMA Wireless Dome,Yes,No,ACC,Syracuse,38,0,3,15,13,Virginia Tech,31,14,0,7,10,7.0
+10,"Sat, Nov. 02, 2024",12:00,"Memorial Stadium (Champaign, IL)",Yes,No,Big Ten,Illinois,17,0,10,0,7,Minnesota,25,3,10,3,9,6.3
+10,"Sat, Nov. 02, 2024",12:00,InfoCision Stadium,Yes,No,Mid-American,Akron,30,7,0,0,23,Buffalo,41,14,10,14,3,4.8
+10,"Sat, Nov. 02, 2024",12:00,Ross-Ade Stadium,Yes,No,Big Ten,Purdue,20,3,7,3,7,Northwestern,26,10,7,0,3,7.1
+10,"Sat, Nov. 02, 2024",12:00,Hard Rock Stadium,Yes,No,ACC,Miami,53,14,3,15,21,Duke,31,7,14,7,3,6.5
+10,"Sat, Nov. 02, 2024",12:45,Jordan-Hare Stadium,Yes,No,SEC,Auburn,7,0,7,0,0,Vanderbilt,17,7,0,3,7,6.1
+10,"Sat, Nov. 02, 2024",14:30,Protective Stadium,Yes,No,American Athletic,UAB,59,21,24,14,0,Tulsa,21,0,7,7,7,2.3
+10,"Sat, Nov. 02, 2024",14:30,Kidd Brewer Stadium,Yes,No,Sun Belt,App State,28,7,7,7,7,Old Dominion,20,3,14,3,0,6.6
+10,"Sat, Nov. 02, 2024",15:30,Sun Bowl,Yes,No,Conference USA,UTEP,13,3,7,3,0,Middle Tennessee,20,3,7,3,7,8.8
+10,"Sat, Nov. 02, 2024",15:30,Michigan Stadium,Yes,No,Big Ten,Michigan,17,7,3,7,0,Oregon,38,7,21,3,7,3.3
+10,"Sat, Nov. 02, 2024",15:30,FBC Mortgage Stadium,Yes,No,Big 12,UCF,56,14,21,14,7,Arizona,12,0,6,6,0,2.9
+10,"Sat, Nov. 02, 2024",15:30,Joan C. Edwards Stadium,Yes,No,Sun Belt,Marshall,28,7,7,0,14,UL Monroe,23,7,7,0,9,6.6
+10,"Sat, Nov. 02, 2024",15:30,Doak Campbell Stadium,Yes,No,ACC,Florida State,11,3,0,8,0,North Carolina,35,0,14,14,7,3.4
+10,"Sat, Nov. 02, 2024",15:30,Boone Pickens Stadium,Yes,No,Big 12,Oklahoma State,21,0,14,0,7,Arizona State,42,7,14,7,14,3.5
+10,"Sat, Nov. 02, 2024",15:30,EverBank Stadium,Yes,Yes,SEC,Georgia,34,3,3,14,14,Florida,20,0,13,0,7,9.1
+10,"Sat, Nov. 02, 2024",15:30,Spartan Stadium,Yes,No,Big Ten,Michigan State,10,10,0,0,0,Indiana,47,0,21,12,14,3.3
+10,"Sat, Nov. 02, 2024",15:30,TDECU Stadium,Yes,No,Big 12,Houston,24,0,10,0,14,Kansas State,19,3,13,3,0,6.9
+10,"Sat, Nov. 02, 2024",15:30,Jack Trice Stadium,Yes,No,Big 12,Iowa State,22,3,10,0,9,Texas Tech,23,10,0,7,6,6.5
+10,"Sat, Nov. 02, 2024",15:30,"Memorial Stadium (Lincoln, NE)",Yes,No,Big Ten,Nebraska,20,0,7,7,6,UCLA,27,3,10,14,0,4.0
+10,"Sat, Nov. 02, 2024",16:00,University Stadium (NM),Yes,No,Mountain West,New Mexico,45,13,22,10,0,Wyoming,49,14,21,0,14,7.4
+10,"Sat, Nov. 02, 2024",16:00,Veterans Memorial Stadium (AL),Yes,No,Sun Belt,Troy,38,7,21,7,3,Coastal Carolina,24,7,0,17,0,6.1
+10,"Sat, Nov. 02, 2024",16:00,Rice Stadium,Yes,No,American Athletic,Rice,24,14,3,7,0,Navy,10,0,7,0,3,4.0
+10,"Sat, Nov. 02, 2024",16:15,Davis Wade Stadium,Yes,No,Non-Conf,Mississippi State,45,0,21,14,10,Massachusetts,20,10,0,0,10,4.1
+10,"Sat, Nov. 02, 2024",19:00,Valley Children's Stadium,Yes,No,Mountain West,Fresno State,20,7,6,7,0,Hawai'i,21,7,0,0,14,7.2
+10,"Sat, Nov. 02, 2024",19:30,Kinnick Stadium,Yes,No,Big Ten,Iowa,42,0,14,14,14,Wisconsin,10,3,0,0,7,3.8
+10,"Sat, Nov. 02, 2024",19:30,Williams-Brice Stadium,Yes,No,SEC,South Carolina,44,14,6,10,14,Texas A&M,20,3,17,0,0,5.9
+10,"Sat, Nov. 02, 2024",19:30,Husky Stadium,Yes,No,Big Ten,Washington,26,10,10,0,6,USC,21,0,7,14,0,8.1
+10,"Sat, Nov. 02, 2024",19:30,"Memorial Stadium (Clemson, SC)",Yes,No,ACC,Clemson,21,7,0,0,14,Louisville,33,3,14,9,7,4.2
+10,"Sat, Nov. 02, 2024",19:30,Hancock Whitney Stadium,Yes,No,Sun Belt,South Alabama,30,3,10,17,0,Georgia Southern,34,7,7,0,20,4.9
+10,"Sat, Nov. 02, 2024",19:45,Neyland Stadium,Yes,No,SEC,Tennessee,28,0,7,14,7,Kentucky,18,7,3,0,8,8.2
+10,"Sat, Nov. 02, 2024",20:00,McLane Stadium,Yes,No,Big 12,Baylor,37,7,6,7,17,TCU,34,7,10,10,7,8.7
+10,"Sat, Nov. 02, 2024",20:00,Mackay Stadium,Yes,No,Mountain West,Nevada,21,0,0,7,14,Colorado State,38,14,3,11,10,1.8
+10,"Sat, Nov. 02, 2024",20:00,Gerald J. Ford Stadium,Yes,No,ACC,SMU,48,7,24,3,14,Pittsburgh,25,3,0,8,14,3.6
+11,"Tue, Nov. 05, 2024",19:30,Kelly/Shorts Stadium,Yes,No,Mid-American,Central Michigan,13,0,7,0,6,Bowling Green,23,3,6,7,7,3.5
+11,"Tue, Nov. 05, 2024",20:00,Scheumann Stadium,Yes,No,Mid-American,Ball State,21,7,6,8,0,Miami (OH),27,7,14,0,6,5.8
+11,"Wed, Nov. 06, 2024",19:00,Dix Stadium,Yes,No,Mid-American,Kent State,0,0,0,0,0,Ohio,41,10,10,14,7,2.7
+11,"Wed, Nov. 06, 2024",19:00,Waldo Stadium,Yes,No,Mid-American,Western Michigan,28,7,7,7,7,Northern Illinois,42,0,21,21,0,3.6
+11,"Thu, Nov. 07, 2024",20:00,Brooks Stadium (SC),Yes,No,Sun Belt,Coastal Carolina,38,14,3,14,7,App State,24,0,10,0,14,4.5
+11,"Thu, Nov. 07, 2024",20:00,Dowdy-Ficklen Stadium,Yes,No,American Athletic,East Carolina,49,21,14,7,7,Florida Atlantic,14,0,7,0,7,2.7
+11,"Fri, Nov. 08, 2024",20:00,Allegacy Federal Credit Union Stadium,Yes,No,ACC,Wake Forest,36,7,7,7,15,California,46,10,19,7,10,6.2
+11,"Fri, Nov. 08, 2024",21:00,Rose Bowl,Yes,No,Big Ten,UCLA,20,0,17,0,3,Iowa,17,10,0,0,7,7.2
+11,"Fri, Nov. 08, 2024",21:00,Simmons Bank Liberty Stadium,Yes,No,American Athletic,Memphis,27,0,17,0,10,Rice,20,6,7,0,7,6.9
+11,"Fri, Nov. 08, 2024",22:30,Snapdragon Stadium,Yes,No,Mountain West,San Diego State,16,3,10,3,0,New Mexico,21,14,0,0,7,8.2
+11,"Sat, Nov. 09, 2024",12:00,Ohio Stadium,Yes,No,Big Ten,Ohio State,45,7,14,17,7,Purdue,0,0,0,0,0,3.1
+11,"Sat, Nov. 09, 2024",12:00,Bobby Dodd Stadium,Yes,No,ACC,Georgia Tech,28,7,7,7,7,Miami,23,10,0,6,7,6.3
+11,"Sat, Nov. 09, 2024",12:00,Raymond James Stadium,Yes,No,American Athletic,South Florida,7,0,0,0,7,Navy,28,14,7,0,7,2.5
+11,"Sat, Nov. 09, 2024",12:00,"Alumni Stadium (Chestnut Hill, MA)",Yes,No,ACC,Boston College,37,7,7,16,7,Syracuse,31,0,14,7,10,7.6
+11,"Sat, Nov. 09, 2024",12:00,SHI Stadium,Yes,No,Big Ten,Rutgers,26,7,7,0,12,Minnesota,19,9,0,7,3,8.8
+11,"Sat, Nov. 09, 2024",12:00,DKR-Texas Memorial Stadium,Yes,No,SEC,Texas,49,14,21,7,7,Florida,17,0,0,10,7,2.9
+11,"Sat, Nov. 09, 2024",12:00,Malone Stadium,Yes,No,Sun Belt,UL Monroe,17,0,0,14,3,Texas State,38,14,14,0,10,1.7
+11,"Sat, Nov. 09, 2024",12:00,Nippert Stadium,Yes,No,Big 12,Cincinnati,24,7,0,7,10,West Virginia,31,0,17,7,7,4.8
+11,"Sat, Nov. 09, 2024",13:00,"Johnny ""Red"" Floyd Stadium",Yes,No,Conference USA,Middle Tennessee,17,7,0,0,10,Liberty,37,7,20,3,7,3.0
+11,"Sat, Nov. 09, 2024",14:30,Protective Stadium,Yes,No,Non-Conf,UAB,23,3,17,3,0,UConn,31,3,0,7,21,6.3
+11,"Sat, Nov. 09, 2024",15:00,M. M. Roberts Stadium,Yes,No,Sun Belt,Southern Miss,3,0,3,0,0,Marshall,37,3,14,17,3,3.0
+11,"Sat, Nov. 09, 2024",15:30,Reser Stadium,Yes,No,Non-Conf,Oregon State,13,0,10,3,0,San José State,24,0,10,0,14,6.7
+11,"Sat, Nov. 09, 2024",15:30,Bridgeforth Stadium,Yes,No,Sun Belt,James Madison,38,14,14,10,0,Georgia State,7,0,7,0,0,3.9
+11,"Sat, Nov. 09, 2024",15:30,Lane Stadium,Yes,No,ACC,Virginia Tech,14,0,7,0,7,Clemson,24,0,0,14,10,5.7
+11,"Sat, Nov. 09, 2024",15:30,Carter-Finley Stadium,Yes,No,ACC,NC State,19,0,9,3,7,Duke,29,12,0,7,10,4.7
+11,"Sat, Nov. 09, 2024",15:30,GEHA Field at Arrowhead Stadium,Yes,Yes,Big 12,Kansas,45,14,17,7,7,Iowa State,36,7,6,7,16,4.0
+11,"Sat, Nov. 09, 2024",15:30,"Memorial Stadium (Bloomington, IN)",Yes,No,Big Ten,Indiana,20,7,10,0,3,Michigan,15,3,0,6,6,5.9
+11,"Sat, Nov. 09, 2024",15:30,Vaught-Hemingway Stadium,Yes,No,SEC,Ole Miss,28,10,6,6,6,Georgia,10,7,0,3,0,4.7
+11,"Sat, Nov. 09, 2024",15:30,DATCU Stadium,Yes,No,American Athletic,North Texas,3,3,0,0,0,Army,14,7,0,0,7,3.8
+11,"Sat, Nov. 09, 2024",16:00,Yulman Stadium,Yes,No,American Athletic,Tulane,52,7,21,14,10,Temple,6,0,0,0,6,2.8
+11,"Sat, Nov. 09, 2024",16:00,Sun Bowl,Yes,No,Conference USA,UTEP,43,7,7,7,7,Kennesaw State,35,7,0,14,7,10.9
+11,"Sat, Nov. 09, 2024",16:00,Jones AT&T Stadium,Yes,No,Big 12,Texas Tech,27,13,0,7,7,Colorado,41,0,10,21,10,5.7
+11,"Sat, Nov. 09, 2024",16:15,FirstBank Stadium,Yes,No,SEC,Vanderbilt,7,0,0,7,0,South Carolina,28,0,7,14,7,3.8
+11,"Sat, Nov. 09, 2024",16:30,Joe Aillet Stadium,Yes,No,Conference USA,Louisiana Tech,37,7,14,9,7,Jacksonville State,44,7,21,0,9,7.8
+11,"Sat, Nov. 09, 2024",17:00,Cajun Field,Yes,No,Sun Belt,Louisiana,55,10,21,17,7,Arkansas State,19,0,6,6,7,2.7
+11,"Sat, Nov. 09, 2024",18:00,Aggie Memorial Stadium,Yes,No,Conference USA,New Mexico State,28,7,0,14,7,Western Kentucky,41,14,10,7,10,3.7
+11,"Sat, Nov. 09, 2024",19:00,Mountain America Stadium,Yes,No,Big 12,Arizona State,35,7,14,7,7,UCF,31,7,10,7,7,8.8
+11,"Sat, Nov. 09, 2024",19:00,Amon G. Carter Stadium,Yes,No,Big 12,TCU,38,10,14,7,7,Oklahoma State,13,0,0,6,7,3.5
+11,"Sat, Nov. 09, 2024",19:00,Autzen Stadium,Yes,No,Big Ten,Oregon,39,7,14,8,10,Maryland,18,3,7,0,8,5.1
+11,"Sat, Nov. 09, 2024",19:00,Neyland Stadium,Yes,No,SEC,Tennessee,33,7,13,10,3,Mississippi State,14,0,7,7,0,8.3
+11,"Sat, Nov. 09, 2024",19:30,Tiger Stadium (LA),Yes,No,SEC,LSU,13,3,3,0,7,Alabama,42,14,7,7,14,3.3
+11,"Sat, Nov. 09, 2024",19:30,Notre Dame Stadium,Yes,No,Non-Conf,Notre Dame,52,7,14,10,21,Florida State,3,3,0,0,0,6.1
+11,"Sat, Nov. 09, 2024",19:45,Memorial Stadium,Yes,No,SEC,Missouri,30,0,3,7,20,Oklahoma,23,0,9,0,14,8.5
+11,"Sat, Nov. 09, 2024",20:00,Albertsons Stadium,Yes,No,Mountain West,Boise State,28,14,0,7,7,Nevada,21,7,7,0,7,6.2
+11,"Sat, Nov. 09, 2024",20:00,Acrisure Stadium,Yes,No,ACC,Pittsburgh,19,0,13,0,6,Virginia,24,0,7,14,3,7.4
+11,"Sat, Nov. 09, 2024",20:00,Beaver Stadium,Yes,No,Big Ten,Penn State,35,7,21,0,7,Washington,6,0,0,3,3,3.3
+11,"Sat, Nov. 09, 2024",21:00,Clarence T.C. Ching Athletics Complex,Yes,No,Mountain West,Hawai'i,27,7,3,10,7,UNLV,29,12,0,10,7,8.2
+11,"Sat, Nov. 09, 2024",21:45,Falcon Stadium,Yes,No,Mountain West,Air Force,36,7,10,9,10,Fresno State,28,7,14,0,7,6.2
+11,"Sat, Nov. 09, 2024",22:15,Rice-Eccles Stadium,Yes,No,Big 12,Utah,21,0,21,0,0,BYU,22,3,7,3,9,6.5
+11,"Sat, Nov. 09, 2024",22:30,Gesa Field,Yes,No,Non-Conf,Washington State,49,7,14,14,14,Utah State,28,7,0,7,14,4.7
+12,"Tue, Nov. 12, 2024",19:00,Glass Bowl,Yes,No,Mid-American,Toledo,37,7,20,7,3,Central Michigan,10,3,0,0,7,4.0
+12,"Tue, Nov. 12, 2024",19:00,UB Stadium,Yes,No,Mid-American,Buffalo,51,7,17,7,14,Ball State,48,7,21,7,10,7.9
+12,"Tue, Nov. 12, 2024",19:00,Doyt L. Perry Stadium,Yes,No,Mid-American,Bowling Green,31,3,14,14,0,Western Michigan,13,0,7,6,0,4.4
+12,"Wed, Nov. 13, 2024",19:00,Peden Stadium,Yes,No,Mid-American,Ohio,35,0,14,7,14,Eastern Michigan,10,0,7,0,3,6.4
+12,"Wed, Nov. 13, 2024",19:00,Huskie Stadium,Yes,No,Mid-American,Northern Illinois,29,17,6,0,6,Akron,16,6,10,0,0,8.1
+12,"Wed, Nov. 13, 2024",19:00,Yager Stadium,Yes,No,Mid-American,Miami (OH),34,10,7,14,3,Kent State,7,7,0,0,0,
+12,"Thu, Nov. 14, 2024",19:30,Chapman Stadium,Yes,No,American Athletic,Tulsa,31,3,14,7,7,East Carolina,38,7,10,7,14,9.1
+12,"Fri, Nov. 15, 2024",20:00,Canvas Stadium,Yes,No,Mountain West,Colorado State,24,14,3,7,0,Wyoming,10,0,3,7,0,4.2
+12,"Fri, Nov. 15, 2024",20:00,Alamodome,Yes,No,American Athletic,UTSA,48,14,13,3,18,North Texas,27,0,7,13,7,4.5
+12,"Fri, Nov. 15, 2024",21:00,Husky Stadium,Yes,No,Big Ten,Washington,31,7,7,3,14,UCLA,19,0,10,3,6,6.0
+12,"Fri, Nov. 15, 2024",22:15,Arizona Stadium,Yes,No,Big 12,Arizona,27,7,3,17,0,Houston,3,0,3,0,0,4.5
+12,"Sat, Nov. 16, 2024",12:00,Wrigley Field,Yes,Yes,Big Ten,Northwestern,7,0,7,0,0,Ohio State,31,0,21,10,0,2.8
+12,"Sat, Nov. 16, 2024",12:00,Folsom Field,Yes,No,Big 12,Colorado,49,14,7,7,21,Utah,24,3,6,7,8,5.1
+12,"Sat, Nov. 16, 2024",12:00,Acrisure Stadium,Yes,No,ACC,Pittsburgh,20,7,0,0,13,Clemson,24,7,10,0,7,5.9
+12,"Sat, Nov. 16, 2024",12:00,Warren McGuirk Alumni Stadium,Yes,No,Non-Conf,Massachusetts,34,7,13,0,8,Liberty,35,0,7,7,14,8.9
+12,"Sat, Nov. 16, 2024",12:00,Navy-Marine Corps Memorial Stadium,Yes,No,American Athletic,Navy,0,0,0,0,0,Tulane,35,7,7,7,14,2.5
+12,"Sat, Nov. 16, 2024",12:00,Houchens Industries-L.T. Smith Stadium,Yes,No,Conference USA,Western Kentucky,7,0,7,0,0,Louisiana Tech,12,3,6,0,3,6.4
+12,"Sat, Nov. 16, 2024",12:00,Razorback Stadium,Yes,No,SEC,Arkansas,10,0,0,7,3,Texas,20,7,3,3,7,5.2
+12,"Sat, Nov. 16, 2024",12:45,Jordan-Hare Stadium,Yes,No,Non-Conf,Auburn,48,10,14,14,10,UL Monroe,14,0,0,7,7,2.9
+12,"Sat, Nov. 16, 2024",13:00,Joan C. Edwards Stadium,Yes,No,Sun Belt,Marshall,31,3,14,7,7,Coastal Carolina,19,7,0,0,12,6.6
+12,"Sat, Nov. 16, 2024",13:30,Kroger Field,Yes,No,Non-Conf,Kentucky,48,14,10,10,14,Murray State,6,0,0,3,3,3.2
+12,"Sat, Nov. 16, 2024",14:00,Lincoln Financial Field,Yes,No,American Athletic,Temple,18,3,0,3,9,Florida Atlantic,15,0,7,0,8,8.0
+12,"Sat, Nov. 16, 2024",14:00,AmFirst Stadium,Yes,No,Conference USA,Jacksonville State,34,3,17,0,14,Florida International,31,3,14,7,7,9.7
+12,"Sat, Nov. 16, 2024",14:00,Bryant-Denny Stadium,Yes,No,Non-Conf,Alabama,52,14,17,7,14,Mercer,7,0,7,0,0,3.1
+12,"Sat, Nov. 16, 2024",14:30,"Memorial Stadium (Champaign, IL)",Yes,No,Big Ten,Illinois,38,14,7,3,14,Michigan State,16,6,3,7,0,5.3
+12,"Sat, Nov. 16, 2024",15:00,Fifth Third Stadium,Yes,No,Conference USA,Kennesaw State,17,0,3,7,7,Sam Houston,23,0,3,7,7,7.3
+12,"Sat, Nov. 16, 2024",15:00,Maverik Stadium,Yes,No,Mountain West,Utah State,55,17,7,21,10,Hawai'i,10,0,3,0,7,3.0
+12,"Sat, Nov. 16, 2024",15:00,California Memorial Stadium,Yes,No,ACC,California,25,0,7,7,11,Syracuse,33,6,21,3,3,2.3
+12,"Sat, Nov. 16, 2024",15:30,Ben Hill Griffin Stadium,Yes,No,SEC,Florida,27,7,3,3,14,LSU,16,0,10,3,3,7.8
+12,"Sat, Nov. 16, 2024",15:30,Falcon Stadium,Yes,No,Non-Conf,Air Force,28,7,7,0,14,Oregon State,0,0,0,0,0,3.9
+12,"Sat, Nov. 16, 2024",15:30,Notre Dame Stadium,Yes,No,Non-Conf,Notre Dame,35,7,21,7,0,Virginia,14,0,0,7,7,6.0
+12,"Sat, Nov. 16, 2024",15:30,Ross-Ade Stadium,Yes,No,Big Ten,Purdue,10,0,3,0,7,Penn State,49,14,7,21,7,1.8
+12,"Sat, Nov. 16, 2024",15:30,Stanford Stadium,Yes,No,ACC,Stanford,38,10,3,8,17,Louisville,35,7,14,7,7,5.0
+12,"Sat, Nov. 16, 2024",15:30,Gerald J. Ford Stadium,Yes,No,ACC,SMU,38,10,10,11,7,Boston College,28,0,14,7,7,7.8
+12,"Sat, Nov. 16, 2024",15:30,Jerry Richardson Stadium,Yes,No,American Athletic,Charlotte,24,7,3,7,7,South Florida,59,7,7,31,14,4.4
+12,"Sat, Nov. 16, 2024",16:00,Milan Puskar Stadium,Yes,No,Big 12,West Virginia,35,7,21,0,7,Baylor,49,14,21,0,14,5.3
+12,"Sat, Nov. 16, 2024",16:00,S.B. Ballard Stadium,Yes,No,Sun Belt,Old Dominion,32,7,17,0,8,James Madison,35,7,14,7,7,8.4
+12,"Sat, Nov. 16, 2024",16:00,Los Angeles Memorial Coliseum,Yes,No,Big Ten,USC,28,7,7,7,7,Nebraska,20,7,7,6,0,7.8
+12,"Sat, Nov. 16, 2024",16:00,Allen E. Paulson Stadium,Yes,No,Sun Belt,Georgia Southern,20,7,3,7,3,Troy,28,0,7,7,14,6.4
+12,"Sat, Nov. 16, 2024",16:15,Williams-Brice Stadium,Yes,No,SEC,South Carolina,34,7,14,0,13,Missouri,30,6,0,6,18,6.4
+12,"Sat, Nov. 16, 2024",17:00,Center Parc Stadium,Yes,No,Sun Belt,Georgia State,20,7,0,7,6,Arkansas State,27,7,0,10,10,6.9
+12,"Sat, Nov. 16, 2024",18:00,SECU Stadium,Yes,No,Big Ten,Maryland,17,3,7,7,0,Rutgers,31,0,14,7,10,5.6
+12,"Sat, Nov. 16, 2024",19:00,CEFCU Stadium,Yes,No,Mountain West,San José State,21,7,7,7,0,Boise State,42,0,14,14,14,4.7
+12,"Sat, Nov. 16, 2024",19:00,Cajun Field,Yes,No,Sun Belt,Louisiana,22,0,3,3,16,South Alabama,24,7,17,0,0,3.7
+12,"Sat, Nov. 16, 2024",19:00,Bobcat Stadium (TX),Yes,No,Sun Belt,Texas State,58,21,13,17,7,Southern Miss,3,0,3,0,0,3.0
+12,"Sat, Nov. 16, 2024",19:00,Bill Snyder Family Stadium,Yes,No,Big 12,Kansas State,14,0,0,6,8,Arizona State,24,7,14,3,0,2.9
+12,"Sat, Nov. 16, 2024",19:30,Camp Randall Stadium,Yes,No,Big Ten,Wisconsin,13,0,10,3,0,Oregon,16,6,0,0,10,9.2
+12,"Sat, Nov. 16, 2024",19:30,Sanford Stadium,Yes,No,SEC,Georgia,31,0,17,7,7,Tennessee,17,10,7,0,0,6.9
+12,"Sat, Nov. 16, 2024",19:45,Kyle Field,Yes,No,Non-Conf,Texas A&M,38,17,7,7,7,New Mexico State,3,0,0,0,3,2.7
+12,"Sat, Nov. 16, 2024",20:00,Jack Trice Stadium,Yes,No,Big 12,Iowa State,34,7,3,10,14,Cincinnati,17,7,3,0,7,7.6
+12,"Sat, Nov. 16, 2024",20:00,Kenan Stadium,Yes,No,ACC,North Carolina,31,0,10,14,7,Wake Forest,24,3,0,14,7,9.2
+12,"Sat, Nov. 16, 2024",20:00,Simmons Bank Liberty Stadium,Yes,No,American Athletic,Memphis,53,11,7,7,28,UAB,18,0,8,3,7,4.4
+12,"Sat, Nov. 16, 2024",21:30,University Stadium (NM),Yes,No,Non-Conf,New Mexico,38,7,7,14,10,Washington State,35,14,14,0,7,8.4
+12,"Sat, Nov. 16, 2024",22:15,LaVell Edwards Stadium,Yes,No,Big 12,BYU,13,0,10,3,0,Kansas,17,7,3,0,7,4.9
+12,"Sat, Nov. 16, 2024",22:30,Allegiant Stadium,Yes,No,Mountain West,UNLV,41,7,21,10,3,San Diego State,20,0,6,7,7,3.2
+13,"Tue, Nov. 19, 2024",19:00,Dix Stadium,Yes,No,Mid-American,Kent State,17,7,3,0,7,Akron,38,10,13,15,0,2.9
+13,"Tue, Nov. 19, 2024",19:30,Kelly/Shorts Stadium,Yes,No,Mid-American,Central Michigan,16,7,6,0,3,Western Michigan,14,0,0,7,7,7.6
+13,"Tue, Nov. 19, 2024",20:00,Yager Stadium,Yes,No,Mid-American,Miami (OH),20,7,10,0,3,Northern Illinois,9,0,3,0,6,5.1
+13,"Wed, Nov. 20, 2024",19:00,Rynearson Stadium,Yes,No,Mid-American,Eastern Michigan,20,0,0,13,7,Buffalo,37,8,9,6,14,3.3
+13,"Wed, Nov. 20, 2024",19:00,Glass Bowl,Yes,No,Mid-American,Toledo,7,0,7,0,0,Ohio,24,0,0,7,17,5.9
+13,"Thu, Nov. 21, 2024",19:30,Bobby Dodd Stadium,Yes,No,ACC,Georgia Tech,30,7,6,3,14,NC State,29,7,0,0,22,8.0
+13,"Fri, Nov. 22, 2024",19:00,Alamodome,Yes,No,American Athletic,UTSA,51,7,21,10,13,Temple,27,3,14,7,3,4.9
+13,"Fri, Nov. 22, 2024",20:00,Spartan Stadium,Yes,No,Big Ten,Michigan State,24,7,17,0,0,Purdue,17,3,0,7,7,5.8
+13,"Fri, Nov. 22, 2024",22:00,CEFCU Stadium,Yes,No,Mountain West,San José State,16,0,16,0,0,UNLV,27,3,7,10,7,6.9
+13,"Sat, Nov. 23, 2024",12:00,AmFirst Stadium,Yes,No,Conference USA,Jacksonville State,21,7,7,0,7,Sam Houston,11,0,3,8,0,5.6
+13,"Sat, Nov. 23, 2024",12:00,SECU Stadium,Yes,No,Big Ten,Maryland,13,0,0,6,7,Iowa,29,3,10,6,10,3.9
+13,"Sat, Nov. 23, 2024",12:00,Ohio Stadium,Yes,No,Big Ten,Ohio State,38,0,14,14,10,Indiana,15,7,0,0,8,3.6
+13,"Sat, Nov. 23, 2024",12:00,Ben Hill Griffin Stadium,Yes,No,SEC,Florida,24,0,14,3,7,Ole Miss,17,0,14,3,0,8.5
+13,"Sat, Nov. 23, 2024",12:00,Scott Stadium,Yes,No,ACC,Virginia,7,0,0,0,7,SMU,33,7,10,3,13,2.5
+13,"Sat, Nov. 23, 2024",12:00,JMA Wireless Dome,Yes,No,Non-Conf,Syracuse,31,7,14,3,7,UConn,24,7,7,3,7,6.4
+13,"Sat, Nov. 23, 2024",12:00,Hard Rock Stadium,Yes,No,ACC,Miami,42,10,10,0,22,Wake Forest,14,7,7,0,0,7.5
+13,"Sat, Nov. 23, 2024",12:00,SHI Stadium,Yes,No,Big Ten,Rutgers,31,3,14,0,14,Illinois,38,0,9,6,23,9.5
+13,"Sat, Nov. 23, 2024",12:00,"Alumni Stadium (Chestnut Hill, MA)",Yes,No,ACC,Boston College,41,3,21,3,14,North Carolina,21,0,7,0,14,4.4
+13,"Sat, Nov. 23, 2024",12:45,Sanford Stadium,Yes,No,Non-Conf,Georgia,59,7,21,17,14,Massachusetts,21,7,7,7,0,3.5
+13,"Sat, Nov. 23, 2024",13:00,Neyland Stadium,Yes,No,Non-Conf,Tennessee,56,0,28,21,7,UTEP,0,0,0,0,0,5.7
+13,"Sat, Nov. 23, 2024",13:00,Williams Stadium (VA),Yes,No,Conference USA,Liberty,38,0,21,7,10,Western Kentucky,21,0,7,14,0,6.9
+13,"Sat, Nov. 23, 2024",13:30,Doak Campbell Stadium,Yes,No,Non-Conf,Florida State,41,0,17,14,10,Charleston Southern,7,0,0,0,7,4.4
+13,"Sat, Nov. 23, 2024",14:00,Protective Stadium,Yes,No,American Athletic,UAB,40,14,13,0,13,Rice,14,14,0,0,0,5.4
+13,"Sat, Nov. 23, 2024",14:00,Scheumann Stadium,Yes,No,Mid-American,Ball State,13,0,7,0,6,Bowling Green,38,7,3,18,10,3.7
+13,"Sat, Nov. 23, 2024",14:30,Kidd Brewer Stadium,Yes,No,Sun Belt,App State,34,0,24,7,3,James Madison,20,7,10,3,0,6.1
+13,"Sat, Nov. 23, 2024",14:30,"Johnny ""Red"" Floyd Stadium",Yes,No,Conference USA,Middle Tennessee,21,0,7,7,7,New Mexico State,36,10,3,13,10,4.8
+13,"Sat, Nov. 23, 2024",15:00,FAU Stadium,Yes,No,American Athletic,Florida Atlantic,27,3,7,10,7,Charlotte,39,10,6,10,13,6.2
+13,"Sat, Nov. 23, 2024",15:00,Fifth Third Stadium,Yes,No,Conference USA,Kennesaw State,27,3,14,0,10,Florida International,26,0,20,6,0,7.7
+13,"Sat, Nov. 23, 2024",15:00,Amon G. Carter Stadium,Yes,No,Big 12,TCU,49,14,7,14,14,Arizona,28,7,6,0,15,4.8
+13,"Sat, Nov. 23, 2024",15:00,Centennial Bank Stadium,Yes,No,Sun Belt,Arkansas State,28,7,7,7,7,UL Monroe,21,7,0,7,7,6.5
+13,"Sat, Nov. 23, 2024",15:00,M. M. Roberts Stadium,Yes,No,Sun Belt,Southern Miss,14,8,3,0,3,South Alabama,35,0,14,14,7,4.3
+13,"Sat, Nov. 23, 2024",15:30,Brooks Stadium (SC),Yes,No,Sun Belt,Coastal Carolina,6,3,0,3,0,Georgia Southern,26,10,3,0,13,5.2
+13,"Sat, Nov. 23, 2024",15:30,DKR-Texas Memorial Stadium,Yes,No,SEC,Texas,31,7,17,0,7,Kentucky,14,0,7,7,0,5.1
+13,"Sat, Nov. 23, 2024",15:30,Maverik Stadium,Yes,No,Mountain West,Utah State,41,0,14,7,20,San Diego State,20,3,10,0,7,6.2
+13,"Sat, Nov. 23, 2024",15:30,Raymond James Stadium,Yes,No,American Athletic,South Florida,63,28,14,7,14,Tulsa,30,0,7,0,23,2.6
+13,"Sat, Nov. 23, 2024",15:30,GEHA Field at Arrowhead Stadium,Yes,Yes,Big 12,Kansas,37,10,13,7,7,Colorado,21,0,14,7,0,5.0
+13,"Sat, Nov. 23, 2024",15:30,"Memorial Stadium (Lincoln, NE)",Yes,No,Big Ten,Nebraska,44,7,17,10,10,Wisconsin,25,7,3,7,8,4.2
+13,"Sat, Nov. 23, 2024",15:30,"Memorial Stadium (Clemson, SC)",Yes,No,Non-Conf,Clemson,51,14,21,10,6,The Citadel,14,0,0,7,7,2.4
+13,"Sat, Nov. 23, 2024",15:30,Milan Puskar Stadium,Yes,No,Big 12,West Virginia,31,14,7,7,3,UCF,21,0,7,7,7,4.4
+13,"Sat, Nov. 23, 2024",15:30,Mountain America Stadium,Yes,No,Big 12,Arizona State,28,7,14,7,0,BYU,23,0,3,14,6,5.3
+13,"Sat, Nov. 23, 2024",15:30,California Memorial Stadium,Yes,No,ACC,California,24,0,7,3,14,Stanford,21,14,0,7,0,4.8
+13,"Sat, Nov. 23, 2024",15:30,Michigan Stadium,Yes,No,Big Ten,Michigan,50,10,7,14,19,Northwestern,6,0,6,0,0,3.5
+13,"Sat, Nov. 23, 2024",15:30,Boone Pickens Stadium,Yes,No,Big 12,Oklahoma State,48,7,7,14,20,Texas Tech,56,14,7,14,21,7.5
+13,"Sat, Nov. 23, 2024",15:30,Huntington Bank Stadium,Yes,No,Big Ten,Minnesota,25,7,12,3,3,Penn State,26,0,16,7,3,6.0
+13,"Sat, Nov. 23, 2024",15:30,DATCU Stadium,Yes,No,American Athletic,North Texas,28,14,7,7,0,East Carolina,40,0,7,24,9,5.8
+13,"Sat, Nov. 23, 2024",16:00,Williams-Brice Stadium,Yes,No,Non-Conf,South Carolina,56,7,14,14,21,Wofford,12,3,6,0,3,5.1
+13,"Sat, Nov. 23, 2024",16:00,L&N Federal Credit Union Stadium,Yes,No,ACC,Louisville,37,10,17,10,0,Pittsburgh,9,0,0,7,2,3.2
+13,"Sat, Nov. 23, 2024",16:00,Razorback Stadium,Yes,No,Non-Conf,Arkansas,35,0,14,7,14,Louisiana Tech,14,0,0,7,7,6.4
+13,"Sat, Nov. 23, 2024",16:15,Davis Wade Stadium,Yes,No,SEC,Mississippi State,20,10,3,7,0,Missouri,39,14,14,3,8,3.5
+13,"Sat, Nov. 23, 2024",17:00,Cajun Field,Yes,No,Sun Belt,Louisiana,51,7,27,3,14,Troy,30,14,0,8,8,4.7
+13,"Sat, Nov. 23, 2024",19:00,TDECU Stadium,Yes,No,Big 12,Houston,10,7,0,0,3,Baylor,20,7,10,0,3,5.0
+13,"Sat, Nov. 23, 2024",19:00,Reser Stadium,Yes,No,Pac-12,Oregon State,41,7,14,10,10,Washington State,38,7,10,7,14,7.7
+13,"Sat, Nov. 23, 2024",19:00,Bobcat Stadium (TX),Yes,No,Sun Belt,Texas State,44,14,7,0,23,Georgia State,52,14,24,7,7,3.7
+13,"Sat, Nov. 23, 2024",19:00,War Memorial Stadium,Yes,No,Mountain West,Wyoming,13,3,7,0,3,Boise State,17,7,3,0,7,7.6
+13,"Sat, Nov. 23, 2024",19:00,Yankee Stadium,Yes,Yes,Non-Conf,Notre Dame,49,14,14,14,7,Army,14,0,7,0,7,2.6
+13,"Sat, Nov. 23, 2024",19:30,S.B. Ballard Stadium,Yes,No,Sun Belt,Old Dominion,35,0,7,21,7,Marshall,42,3,14,10,15,7.0
+13,"Sat, Nov. 23, 2024",19:30,Jordan-Hare Stadium,Yes,No,SEC,Auburn,43,14,7,7,3,Texas A&M,41,0,7,14,10,9.2
+13,"Sat, Nov. 23, 2024",19:30,"Memorial Stadium (Norman, OK)",Yes,No,SEC,Oklahoma,24,0,10,14,0,Alabama,3,3,0,0,0,4.2
+13,"Sat, Nov. 23, 2024",19:30,Rice-Eccles Stadium,Yes,No,Big 12,Utah,28,3,10,0,15,Iowa State,31,7,10,7,7,6.3
+13,"Sat, Nov. 23, 2024",19:45,Tiger Stadium (LA),Yes,No,SEC,LSU,24,7,7,7,3,Vanderbilt,17,7,0,3,7,4.9
+13,"Sat, Nov. 23, 2024",20:00,Wallace Wade Stadium,Yes,No,ACC,Duke,31,14,7,10,0,Virginia Tech,28,7,10,0,11,8.3
+13,"Sat, Nov. 23, 2024",20:00,Bill Snyder Family Stadium,Yes,No,Big 12,Kansas State,41,10,17,0,14,Cincinnati,15,0,3,6,6,3.0
+13,"Sat, Nov. 23, 2024",22:30,Rose Bowl,Yes,No,Big Ten,UCLA,13,3,0,10,0,USC,19,3,6,0,10,6.0
+13,"Sat, Nov. 23, 2024",22:30,Valley Children's Stadium,Yes,No,Mountain West,Fresno State,28,7,21,0,0,Colorado State,22,7,0,7,8,5.6
+13,"Sat, Nov. 23, 2024",22:30,Mackay Stadium,Yes,No,Mountain West,Nevada,19,0,6,6,7,Air Force,22,0,7,0,15,6.9
+14,"Tue, Nov. 26, 2024",19:00,UB Stadium,Yes,No,Mid-American,Buffalo,43,13,13,7,10,Kent State,7,0,0,7,0,3.1
+14,"Tue, Nov. 26, 2024",19:00,InfoCision Stadium,Yes,No,Mid-American,Akron,21,7,0,0,7,Toledo,14,0,0,0,14,7.1
+14,"Thu, Nov. 28, 2024",19:30,Yulman Stadium,Yes,No,American Athletic,Tulane,24,10,0,0,14,Memphis,34,7,10,7,10,4.2
+14,"Fri, Nov. 29, 2024",12:00,Folsom Field,Yes,No,Big 12,Colorado,52,21,0,17,14,Oklahoma State,0,0,0,0,0,2.7
+14,"Fri, Nov. 29, 2024",12:00,Doyt L. Perry Stadium,Yes,No,Mid-American,Bowling Green,12,0,5,0,7,Miami (OH),28,7,7,0,14,3.9
+14,"Fri, Nov. 29, 2024",12:00,Albertsons Stadium,Yes,No,Non-Conf,Boise State,34,14,7,6,7,Oregon State,18,0,7,3,8,4.5
+14,"Fri, Nov. 29, 2024",12:00,Peden Stadium,Yes,No,Mid-American,Ohio,42,14,7,14,7,Ball State,21,0,7,7,7,5.7
+14,"Fri, Nov. 29, 2024",12:00,Camp Randall Stadium,Yes,No,Big Ten,Wisconsin,7,0,0,7,0,Minnesota,24,7,7,7,3,3.3
+14,"Fri, Nov. 29, 2024",12:00,Dowdy-Ficklen Stadium,Yes,No,American Athletic,East Carolina,20,0,3,0,17,Navy,34,0,0,14,20,5.6
+14,"Fri, Nov. 29, 2024",15:30,Elliott T. Bowers Stadium,Yes,No,Conference USA,Sam Houston,20,3,14,3,0,Liberty,18,2,7,0,9,5.6
+14,"Fri, Nov. 29, 2024",15:30,Canvas Stadium,Yes,No,Mountain West,Colorado State,42,0,13,0,29,Utah State,37,13,3,14,7,8.2
+14,"Fri, Nov. 29, 2024",15:30,Vaught-Hemingway Stadium,Yes,No,SEC,Ole Miss,26,10,7,3,6,Mississippi State,14,14,0,0,0,6.8
+14,"Fri, Nov. 29, 2024",15:30,Hancock Whitney Stadium,Yes,No,Sun Belt,South Alabama,38,14,14,7,3,Texas State,45,14,7,10,14,6.3
+14,"Fri, Nov. 29, 2024",16:00,CEFCU Stadium,Yes,No,Non-Conf,San José State,34,0,17,10,7,Stanford,31,3,7,7,14,7.0
+14,"Fri, Nov. 29, 2024",19:30,Sanford Stadium,Yes,No,Non-Conf,Georgia,44,0,0,6,21,Georgia Tech,42,3,14,0,10,5.6
+14,"Fri, Nov. 29, 2024",19:30,Kinnick Stadium,Yes,No,Big Ten,Iowa,13,0,0,3,10,Nebraska,10,3,7,0,0,6.8
+14,"Fri, Nov. 29, 2024",20:00,FBC Mortgage Stadium,Yes,No,Big 12,UCF,14,0,7,0,7,Utah,28,3,10,0,15,5.4
+14,"Sat, Nov. 30, 2024",12:00,Wrigley Field,Yes,Yes,Big Ten,Northwestern,28,10,0,10,8,Illinois,38,7,7,14,10,4.3
+14,"Sat, Nov. 30, 2024",12:00,McLane Stadium,Yes,No,Big 12,Baylor,45,14,7,21,3,Kansas,17,7,3,7,0,3.8
+14,"Sat, Nov. 30, 2024",12:00,Jones AT&T Stadium,Yes,No,Big 12,Texas Tech,52,6,29,7,10,West Virginia,15,3,0,6,6,2.9
+14,"Sat, Nov. 30, 2024",12:00,Allegacy Federal Credit Union Stadium,Yes,No,ACC,Wake Forest,17,0,10,7,0,Duke,23,0,3,7,13,8.2
+14,"Sat, Nov. 30, 2024",12:00,Warren McGuirk Alumni Stadium,Yes,No,FBS Independents,Massachusetts,42,14,14,0,14,UConn,47,14,13,6,14,6.5
+14,"Sat, Nov. 30, 2024",12:00,Kroger Field,Yes,No,Non-Conf,Kentucky,14,0,0,7,7,Louisville,41,7,13,14,7,2.8
+14,"Sat, Nov. 30, 2024",12:00,Michie Stadium,Yes,No,American Athletic,Army,29,7,6,3,13,UTSA,24,7,3,7,7,7.9
+14,"Sat, Nov. 30, 2024",12:00,Ohio Stadium,Yes,No,Big Ten,Ohio State,10,3,7,0,0,Michigan,13,0,10,0,3,5.9
+14,"Sat, Nov. 30, 2024",12:00,FirstBank Stadium,Yes,No,SEC,Vanderbilt,23,17,0,0,6,Tennessee,36,7,17,9,3,3.9
+14,"Sat, Nov. 30, 2024",12:00,Malone Stadium,Yes,No,Sun Belt,UL Monroe,23,3,10,3,7,Louisiana,37,6,7,7,17,5.7
+14,"Sat, Nov. 30, 2024",12:00,"Memorial Stadium (Clemson, SC)",Yes,No,Non-Conf,Clemson,14,0,7,7,0,South Carolina,17,0,7,0,10,7.3
+14,"Sat, Nov. 30, 2024",12:00,Lincoln Financial Field,Yes,No,American Athletic,Temple,17,3,14,0,0,North Texas,24,17,7,0,0,6.4
+14,"Sat, Nov. 30, 2024",13:30,Waldo Stadium,Yes,No,Mid-American,Western Michigan,26,0,16,7,3,Eastern Michigan,18,0,0,15,3,6.2
+14,"Sat, Nov. 30, 2024",14:00,Pitbull Stadium,Yes,Yes,Conference USA,Florida International,35,14,14,0,7,Middle Tennessee,24,0,17,0,7,5.1
+14,"Sat, Nov. 30, 2024",14:00,Rice Stadium,Yes,No,American Athletic,Rice,35,17,10,8,0,South Florida,28,7,0,7,14,5.1
+14,"Sat, Nov. 30, 2024",14:00,Veterans Memorial Stadium (AL),Yes,No,Sun Belt,Troy,52,10,7,14,21,Southern Miss,20,8,0,6,6,5.5
+14,"Sat, Nov. 30, 2024",14:00,Center Parc Stadium,Yes,No,Sun Belt,Georgia State,27,0,10,9,8,Coastal Carolina,48,7,10,14,17,4.1
+14,"Sat, Nov. 30, 2024",15:00,"Alumni Stadium (Chestnut Hill, MA)",Yes,No,ACC,Boston College,34,6,14,7,7,Pittsburgh,23,0,10,7,6,6.5
+14,"Sat, Nov. 30, 2024",15:00,Centennial Bank Stadium,Yes,No,Sun Belt,Arkansas State,32,7,7,15,3,Old Dominion,40,14,7,19,0,4.1
+14,"Sat, Nov. 30, 2024",15:30,Jerry Richardson Stadium,Yes,No,American Athletic,Charlotte,29,7,6,6,10,UAB,27,0,14,0,13,8.5
+14,"Sat, Nov. 30, 2024",15:30,Los Angeles Memorial Coliseum,Yes,No,Non-Conf,USC,35,0,14,7,14,Notre Dame,49,7,7,21,14,6.4
+14,"Sat, Nov. 30, 2024",15:30,Memorial Stadium,Yes,No,SEC,Missouri,28,7,0,3,18,Arkansas,21,0,7,7,7,8.1
+14,"Sat, Nov. 30, 2024",15:30,Bryant-Denny Stadium,Yes,No,SEC,Alabama,28,7,7,14,0,Auburn,14,0,6,8,0,4.3
+14,"Sat, Nov. 30, 2024",15:30,Beaver Stadium,Yes,No,Big Ten,Penn State,44,3,28,0,13,Maryland,7,7,0,0,0,3.4
+14,"Sat, Nov. 30, 2024",15:30,Huskie Stadium,Yes,No,Mid-American,Northern Illinois,24,19,2,3,0,Central Michigan,16,0,16,0,0,5.8
+14,"Sat, Nov. 30, 2024",15:30,Kenan Stadium,Yes,No,ACC,North Carolina,30,0,6,14,10,NC State,35,7,0,6,22,7.8
+14,"Sat, Nov. 30, 2024",15:30,Spartan Stadium,Yes,No,Big Ten,Michigan State,14,7,0,0,7,Rutgers,41,10,13,8,10,2.5
+14,"Sat, Nov. 30, 2024",15:30,Arizona Stadium,Yes,No,Big 12,Arizona,7,0,0,7,0,Arizona State,49,14,21,0,14,1.5
+14,"Sat, Nov. 30, 2024",15:30,Chapman Stadium,Yes,No,American Athletic,Tulsa,16,2,7,7,0,Florida Atlantic,63,7,35,14,7,2.2
+14,"Sat, Nov. 30, 2024",15:30,Gerald J. Ford Stadium,Yes,No,ACC,SMU,38,14,7,0,17,California,6,0,0,3,3,3.1
+14,"Sat, Nov. 30, 2024",15:30,Rose Bowl,Yes,No,Non-Conf,UCLA,20,3,3,7,7,Fresno State,13,0,10,0,3,8.3
+14,"Sat, Nov. 30, 2024",15:30,JMA Wireless Dome,Yes,No,ACC,Syracuse,42,0,14,21,7,Miami,38,14,7,7,10,7.7
+14,"Sat, Nov. 30, 2024",16:00,Aggie Memorial Stadium,Yes,No,Conference USA,New Mexico State,35,17,7,0,11,UTEP,42,7,7,14,14,6.2
+14,"Sat, Nov. 30, 2024",16:00,Joe Aillet Stadium,Yes,No,Conference USA,Louisiana Tech,33,7,10,9,7,Kennesaw State,0,0,0,0,0,3.3
+14,"Sat, Nov. 30, 2024",16:00,Houchens Industries-L.T. Smith Stadium,Yes,No,Conference USA,Western Kentucky,19,7,3,3,6,Jacksonville State,17,3,7,0,7,9.0
+14,"Sat, Nov. 30, 2024",18:00,Allen E. Paulson Stadium,Yes,No,Sun Belt,Georgia Southern,29,8,7,0,14,App State,20,0,6,7,7,7.4
+14,"Sat, Nov. 30, 2024",18:00,Nippert Stadium,Yes,No,Big 12,Cincinnati,13,0,7,0,6,TCU,20,7,13,0,0,3.9
+14,"Sat, Nov. 30, 2024",18:30,Gesa Field,Yes,No,Non-Conf,Washington State,14,7,7,0,0,Wyoming,15,3,3,3,6,6.7
+14,"Sat, Nov. 30, 2024",19:00,"Memorial Stadium (Bloomington, IN)",Yes,No,Big Ten,Indiana,66,7,21,17,21,Purdue,0,0,0,0,0,3.6
+14,"Sat, Nov. 30, 2024",19:00,Doak Campbell Stadium,Yes,No,Non-Conf,Florida State,11,0,0,3,8,Florida,31,7,7,3,14,3.8
+14,"Sat, Nov. 30, 2024",19:00,Tiger Stadium (LA),Yes,No,SEC,LSU,37,7,17,7,6,Oklahoma,17,7,10,0,0,5.4
+14,"Sat, Nov. 30, 2024",19:30,Kyle Field,Yes,No,SEC,Texas A&M,7,0,0,7,0,Texas,17,7,10,0,0,3.3
+14,"Sat, Nov. 30, 2024",19:30,Jack Trice Stadium,Yes,No,Big 12,Iowa State,29,7,17,0,5,Kansas State,21,7,7,7,0,8.8
+14,"Sat, Nov. 30, 2024",19:30,Autzen Stadium,Yes,No,Big Ten,Oregon,49,7,21,7,14,Washington,21,3,11,0,7,3.5
+14,"Sat, Nov. 30, 2024",20:00,Allegiant Stadium,Yes,No,Mountain West,UNLV,38,10,14,7,7,Nevada,14,7,0,0,7,4.1
+14,"Sat, Nov. 30, 2024",20:00,Lane Stadium,Yes,No,ACC,Virginia Tech,37,10,10,10,7,Virginia,17,0,3,8,6,3.7
+14,"Sat, Nov. 30, 2024",20:00,Bridgeforth Stadium,Yes,No,Sun Belt,James Madison,33,14,3,0,7,Marshall,35,0,0,17,7,5.8
+14,"Sat, Nov. 30, 2024",22:15,LaVell Edwards Stadium,Yes,No,Big 12,BYU,30,7,14,3,6,Houston,18,7,3,0,8,6.3
+14,"Sat, Nov. 30, 2024",22:30,Snapdragon Stadium,Yes,No,Mountain West,San Diego State,20,7,7,0,6,Air Force,31,14,3,14,0,3.8
+14,"Sat, Nov. 30, 2024",23:00,Clarence T.C. Ching Athletics Complex,Yes,No,Mountain West,Hawai'i,38,7,14,10,7,New Mexico,30,0,9,7,14,6.2
+15,"Fri, Dec. 06, 2024",19:00,AmFirst Stadium,Yes,No,Conference USA,Jacksonville State,52,14,14,10,14,Western Kentucky,12,3,3,6,0,4.3
+15,"Fri, Dec. 06, 2024",20:00,Albertsons Stadium,Yes,No,Mountain West,Boise State,21,7,14,0,0,UNLV,7,0,0,0,7,5.2
+15,"Fri, Dec. 06, 2024",20:00,Michie Stadium,Yes,No,American Athletic,Army,35,7,14,7,7,Tulane,14,0,7,0,7,2.8
+15,"Sat, Dec. 07, 2024",12:00,AT&T Stadium,Yes,Yes,Big 12,Arizona State,45,10,14,21,0,Iowa State,19,7,3,0,9,3.7
+15,"Sat, Dec. 07, 2024",12:00,Ford Field,Yes,Yes,Mid-American,Miami (OH),3,3,0,0,0,Ohio,38,7,14,10,7,2.2
+15,"Sat, Dec. 07, 2024",16:00,Mercedes-Benz Stadium,Yes,Yes,SEC,Texas,19,3,3,0,10,Georgia,22,0,3,10,3,9.1
+15,"Sat, Dec. 07, 2024",19:30,Cajun Field,Yes,No,Sun Belt,Louisiana,3,3,0,0,0,Marshall,31,7,10,7,7,2.9
+15,"Sat, Dec. 07, 2024",20:00,Bank of America Stadium,Yes,Yes,ACC,SMU,31,7,0,7,17,Clemson,34,21,3,7,3,6.7
+15,"Sat, Dec. 07, 2024",20:00,Lucas Oil Stadium,Yes,Yes,Big Ten,Oregon,45,14,17,7,7,Penn State,37,10,14,0,13,6.1
+16,"Sat, Dec. 14, 2024",15:00,Northwest Stadium,Yes,Yes,American Athletic,Army,13,0,7,3,3,Navy,31,7,7,7,10,3.3
+Post-Season,"Sat, Dec. 14, 2024",21:00,Cramton Bowl,Yes,Yes,Non-Conf,Western Michigan,23,7,6,0,10,South Alabama,30,0,16,7,7,4.5
+Post-Season,"Tue, Dec. 17, 2024",21:00,Toyota Stadium,Yes,Yes,Non-Conf,West Virginia,37,0,17,6,14,Memphis,42,7,21,7,7,3.8
+Post-Season,"Wed, Dec. 18, 2024",17:30,FAU Stadium,Yes,Yes,Non-Conf,James Madison,27,7,0,10,10,Western Kentucky,17,0,14,0,3,7.1
+Post-Season,"Wed, Dec. 18, 2024",21:00,SoFi Stadium,Yes,Yes,Non-Conf,UNLV,24,7,7,7,3,California,13,10,3,0,0,7.1
+Post-Season,"Thu, Dec. 19, 2024",19:00,Caesars Superdome,Yes,Yes,Non-Conf,Sam Houston,31,7,14,0,10,Georgia Southern,26,0,10,9,7,6.6
+Post-Season,"Fri, Dec. 20, 2024",12:00,Camping World Stadium,Yes,Yes,Non-Conf,Jacksonville State,27,7,0,7,13,Ohio,30,14,13,0,3,4.5
+Post-Season,"Fri, Dec. 20, 2024",15:30,Raymond James Stadium,Yes,Yes,Non-Conf,Florida,33,3,3,10,17,Tulane,8,0,0,0,8,4.8
+Post-Season,"Fri, Dec. 20, 2024",20:00,Notre Dame Stadium,Yes,No,Non-Conf,Notre Dame,27,7,10,3,7,Indiana,17,0,3,0,14,4.0
+Post-Season,"Sat, Dec. 21, 2024",12:00,Beaver Stadium,Yes,No,Non-Conf,Penn State,38,7,21,3,7,SMU,10,0,0,3,7,3.7
+Post-Season,"Sat, Dec. 21, 2024",16:00,DKR-Texas Memorial Stadium,Yes,No,Non-Conf,Texas,38,7,21,3,7,Clemson,24,7,3,7,7,4.2
+Post-Season,"Sat, Dec. 21, 2024",20:00,Ohio Stadium,Yes,No,Non-Conf,Ohio State,42,21,0,14,7,Tennessee,17,0,10,0,7,3.1
+Post-Season,"Mon, Dec. 23, 2024",11:00,Brooks Stadium (SC),Yes,No,Non-Conf,UTSA,44,0,21,6,17,Coastal Carolina,15,0,0,0,15,2.5
+Post-Season,"Mon, Dec. 23, 2024",14:30,Albertsons Stadium,Yes,Yes,Non-Conf,Fresno State,20,13,0,0,0,Northern Illinois,28,3,0,10,0,8.7
+Post-Season,"Tue, Dec. 24, 2024",20:00,Clarence T.C. Ching Athletics Complex,Yes,Yes,Non-Conf,San José State,39,0,10,10,7,South Florida,41,7,14,0,6,9.7
+Post-Season,"Thu, Dec. 26, 2024",14:00,Ford Field,Yes,Yes,Non-Conf,Toledo,48,6,14,0,10,Pittsburgh,46,2,10,11,7,11.7
+Post-Season,"Thu, Dec. 26, 2024",17:30,Chase Field,Yes,Yes,Non-Conf,Kansas State,44,3,14,12,15,Rutgers,41,7,20,7,7,7.1
+Post-Season,"Thu, Dec. 26, 2024",21:00,Hancock Whitney Stadium,Yes,Yes,Non-Conf,Bowling Green,31,7,14,3,7,Arkansas State,38,17,7,7,7,5.7
+Post-Season,"Fri, Dec. 27, 2024",12:00,Amon G. Carter Stadium,Yes,Yes,Non-Conf,Navy,21,0,7,7,7,Oklahoma,20,14,0,0,6,7.1
+Post-Season,"Fri, Dec. 27, 2024",15:30,Protective Stadium,Yes,Yes,Non-Conf,Vanderbilt,35,7,7,7,14,Georgia Tech,27,0,10,3,14,6.3
+Post-Season,"Fri, Dec. 27, 2024",19:00,Simmons Bank Liberty Stadium,Yes,Yes,Non-Conf,Arkansas,39,21,3,10,5,Texas Tech,26,3,16,0,7,4.7
+Post-Season,"Fri, Dec. 27, 2024",20:00,Snapdragon Stadium,Yes,Yes,Non-Conf,Washington State,35,21,0,7,7,Syracuse,52,14,21,7,10,3.6
+Post-Season,"Fri, Dec. 27, 2024",22:30,Allegiant Stadium,Yes,Yes,Non-Conf,USC,35,0,7,7,21,Texas A&M,31,7,0,17,7,9.1
+Post-Season,"Sat, Dec. 28, 2024",11:00,Fenway Park,Yes,Yes,Non-Conf,North Carolina,14,7,0,0,7,UConn,27,10,14,3,0,3.1
+Post-Season,"Sat, Dec. 28, 2024",12:00,Yankee Stadium,Yes,Yes,Non-Conf,Nebraska,20,0,13,7,0,Boston College,15,0,2,0,13,4.8
+Post-Season,"Sat, Dec. 28, 2024",14:15,University Stadium (NM),Yes,Yes,Non-Conf,TCU,34,14,13,7,0,Louisiana,3,0,0,0,3,2.5
+Post-Season,"Sat, Dec. 28, 2024",15:30,Camping World Stadium,Yes,Yes,Non-Conf,Miami,41,14,17,7,3,Iowa State,42,21,7,7,7,7.3
+Post-Season,"Sat, Dec. 28, 2024",16:30,Arizona Stadium,Yes,Yes,Non-Conf,Colorado State,17,3,0,7,7,Miami (OH),43,6,3,20,14,3.7
+Post-Season,"Sat, Dec. 28, 2024",17:45,Navy-Marine Corps Memorial Stadium,Yes,Yes,Non-Conf,NC State,21,0,7,0,14,East Carolina,26,7,6,7,6,7.0
+Post-Season,"Sat, Dec. 28, 2024",19:30,Alamodome,Yes,Yes,Big 12,Colorado,14,0,0,7,7,BYU,36,10,10,7,9,2.4
+Post-Season,"Sat, Dec. 28, 2024",21:15,Independence Stadium,Yes,Yes,Non-Conf,Army,27,14,7,0,6,Louisiana Tech,6,0,3,3,0,2.8
+Post-Season,"Mon, Dec. 30, 2024",14:30,Nissan Stadium,Yes,Yes,Non-Conf,Missouri,27,7,7,7,6,Iowa,24,14,7,3,0,7.5
+Post-Season,"Tue, Dec. 31, 2024",12:00,Raymond James Stadium,Yes,Yes,Non-Conf,Michigan,19,16,0,0,3,Alabama,13,0,10,0,3,6.8
+Post-Season,"Tue, Dec. 31, 2024",14:00,Sun Bowl,Yes,Yes,Non-Conf,Washington,34,7,14,0,13,Louisville,35,14,7,14,0,5.3
+Post-Season,"Tue, Dec. 31, 2024",15:00,Camping World Stadium,Yes,Yes,Non-Conf,Illinois,21,7,0,7,7,South Carolina,17,3,0,7,7,7.5
+Post-Season,"Tue, Dec. 31, 2024",15:30,NRG Stadium,Yes,Yes,Non-Conf,LSU,44,14,20,0,10,Baylor,31,0,17,7,7,4.1
+Post-Season,"Tue, Dec. 31, 2024",19:30,State Farm Stadium,Yes,Yes,Non-Conf,Boise State,14,0,7,7,0,Penn State,31,14,3,7,7,5.0
+Post-Season,"Wed, Jan. 01, 2025",13:00,Mercedes-Benz Stadium,Yes,Yes,Non-Conf,Arizona State,31,3,0,5,16,Texas,39,14,3,0,7,7.1
+Post-Season,"Wed, Jan. 01, 2025",17:00,Rose Bowl,Yes,Yes,Big Ten,Oregon,21,0,8,7,6,Ohio State,41,14,20,7,0,1.9
+Post-Season,"Thu, Jan. 02, 2025",16:00,Caesars Superdome,Yes,Yes,Non-Conf,Georgia,10,0,3,7,0,Notre Dame,23,0,13,7,3,4.7
+Post-Season,"Thu, Jan. 02, 2025",20:00,EverBank Stadium,Yes,Yes,Non-Conf,Ole Miss,52,14,10,14,14,Duke,20,0,7,0,13,3.4
+Post-Season,"Fri, Jan. 03, 2025",16:00,Gerald J. Ford Stadium,Yes,Yes,Non-Conf,Texas State,30,6,10,7,7,North Texas,28,7,7,0,14,8.3
+Post-Season,"Fri, Jan. 03, 2025",19:30,Bank of America Stadium,Yes,Yes,Non-Conf,Virginia Tech,10,7,3,0,0,Minnesota,24,0,21,0,3,3.7
+Post-Season,"Sat, Jan. 04, 2025",11:00,Thomas A. Robinson National Stadium,Yes,Yes,Non-Conf,Liberty,7,0,0,0,7,Buffalo,26,6,3,7,10,3.8
+Post-Season,"Thu, Jan. 09, 2025",19:30,Hard Rock Stadium,Yes,Yes,Non-Conf,Penn State,24,0,10,0,14,Notre Dame,27,0,3,7,17,8.5
+Post-Season,"Fri, Jan. 10, 2025",19:30,AT&T Stadium,Yes,Yes,Non-Conf,Texas,14,0,7,7,0,Ohio State,28,7,7,0,14,6.2
+Post-Season,"Mon, Jan. 20, 2025",19:30,Mercedes-Benz Stadium,Yes,Yes,Non-Conf,Notre Dame,23,7,0,8,8,Ohio State,34,0,21,10,3,2.8
