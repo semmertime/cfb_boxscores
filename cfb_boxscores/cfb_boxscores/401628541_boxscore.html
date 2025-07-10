@@ -1,0 +1,376 @@
+
+    <style>
+    .cfb-table-wrap .game-card {
+        background: #f6fbfc;
+        border: 2.5px solid #bfdbe8;
+        border-radius: 16px;
+        padding: 16px 10px 12px 10px;
+        width: 95%;
+        max-width: 800px;
+        margin: 24px auto 18px auto;
+        box-shadow: 0 6px 18px #d8eaf6;
+        font-family: 'Segoe UI', Arial, sans-serif;
+        text-align:center;
+    }
+    .cfb-table-wrap .game-card .teams {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+        text-align: center;
+    }
+    .cfb-table-wrap .game-card .team {
+        min-width: 130px;
+        text-align: center;
+        white-space: nowrap;
+        font-size: 2.05em;
+        font-weight: 800;
+    }
+    .cfb-table-wrap .game-card .score {
+        font-size: 2.35em;
+        font-weight: bold;
+        min-width: 55px;
+        text-align: center;
+    }
+    .cfb-table-wrap .game-card .center-info {
+        flex: 1 1 auto;
+        min-width: 200px;
+        text-align: center;
+        margin: 0 5px;
+    }
+    .cfb-table-wrap .game-card .logo {
+        width: 50px;
+        text-align:center;
+    }
+    .cfb-table-wrap .table-outer {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .cfb-table-wrap .stat-table {
+        border-collapse: separate;
+        border-spacing: 0;
+        margin: 0 auto 40px auto;
+        width: 570px;
+        max-width: 98vw;
+        font-family: 'Segoe UI', Arial, sans-serif;
+        background: #fff;
+        border: 2.5px solid #bfdbe8;
+        border-radius: 16px;
+        box-shadow: 0 6px 18px #d8eaf6;
+        overflow: hidden;
+        text-align: center;
+    }
+    .cfb-table-wrap .stat-table th, .cfb-table-wrap .stat-table td {
+        font-size: 1.11em;
+        text-align: center;
+        border: none;
+    }
+    .cfb-table-wrap .stat-table th.stat, .cfb-table-wrap .stat-table td.stat {
+        min-width: 94px;
+        max-width: 105px;
+        width: 98px;
+        background: #f2f2f3;
+        color: #111;
+        text-align: center;
+        font-weight: 500;
+    }
+    .cfb-table-wrap .stat-table td.away, .cfb-table-wrap .stat-table th.away, .cfb-table-wrap .stat-table td.home, .cfb-table-wrap .stat-table th.home {
+        width: 190px;
+        min-width: 110px;
+        max-width: 220px;
+        background: #fff;
+        font-weight: 700;
+        text-align: center;
+        font-size: 1.25em;
+        vertical-align: middle;
+    }
+    .cfb-table-wrap .stat-table .section-header {
+        background: #e6f1fc !important;
+        font-weight: 700;
+        font-size: 1.09em;
+        color: #175886;
+        text-align: center;
+        border-top: none;
+        border-bottom: none;
+        letter-spacing: 0.6px;
+    }
+    .cfb-table-wrap .stat-table tr.table-header th {
+        background: #e3edfa;
+        color: #111;
+        font-weight: 700;
+        font-size: 1.19em;
+        border: none;
+        text-align: center;
+        vertical-align: middle;
+    }
+    .cfb-table-wrap .stat-table tr {
+        border: none;
+    }
+    .cfb-table-wrap .stat-table td, .cfb-table-wrap .stat-table th {
+        border: none;
+    }
+    </style>
+    <div class="cfb-table-wrap">
+    <div class="game-card">
+        <div class="teams">
+            <div class="logo"><img src="logos/130.png" style="height:45px;margin-right:10px;vertical-align:middle;border-radius:8px;"></div>
+            <div class="team away" style="color:#00274C;font-size:2em;font-weight:800;">
+                Michigan
+            </div>
+            <div class="score" style="color:#00274C;">15</div>
+            <div class="center-info">
+                <div style="font-size:17px; color:#444; font-weight:600;">Sat, Nov 9<sup style="font-size:11px;">th</sup>, 2024</div>
+                <div style="font-size:19px; font-weight:700;">Memorial Stadium (Bloomington, IN)</div>
+                <div style="font-size:15px; color:#111; margin-top:1px;">
+                    <b>Big Ten</b> | Excitement: <b style='font-size:1.1em'>5.9</b>
+                </div>
+                <div style="font-size:15px; color:#666;">
+                    15:30
+                </div>
+            </div>
+            <div class="score" style="color:#990000;">20</div>
+            <div class="team home" style="color:#990000;font-size:2em;font-weight:800;">
+                Indiana
+            </div>
+            <div class="logo"><img src="logos/84.png" style="height:45px;margin-left:10px;vertical-align:middle;border-radius:8px;"></div>
+        </div>
+    </div>
+    
+    <div class="table-outer">
+    <table class="stat-table">
+        <tr class="table-header">
+            <th class="away" style="color:#00274C; text-align:center;">
+                <span style="font-size:1.2em; font-weight:800;">Michigan</span>
+            </th>
+            <th class="stat"></th>
+            <th class="home" style="color:#990000; text-align:center;">
+                <span style="font-size:1.2em; font-weight:800;">Indiana</span>
+            </th>
+        </tr>
+        
+        <tr class="section-header"><td colspan="3">Offense</td></tr>
+        
+        
+        <tr>
+            <td class="away">16-32</td>
+            <td class="stat">Completion Attempts</td>
+            <td class="home">17-28</td>
+        </tr>
+        
+        <tr>
+            <td class="away">0</td>
+            <td class="stat">Passing TDs</td>
+            <td class="home">2</td>
+        </tr>
+        
+        <tr>
+            <td class="away">137</td>
+            <td class="stat">Net Passing Yards</td>
+            <td class="home">206</td>
+        </tr>
+        
+        <tr>
+            <td class="away">34</td>
+            <td class="stat">Rushing Attempts</td>
+            <td class="home">28</td>
+        </tr>
+        
+        <tr>
+            <td class="away">69</td>
+            <td class="stat">Rushing Yards</td>
+            <td class="home">40</td>
+        </tr>
+        
+        <tr>
+            <td class="away">1</td>
+            <td class="stat">Rushing TDs</td>
+            <td class="home">0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">2.0</td>
+            <td class="stat">Yards Per Rush</td>
+            <td class="home">1.4</td>
+        </tr>
+        
+        <tr>
+            <td class="away">16</td>
+            <td class="stat">First Downs</td>
+            <td class="home">14</td>
+        </tr>
+        
+        <tr>
+            <td class="away">5-15</td>
+            <td class="stat">Third Down Eff.</td>
+            <td class="home">4-11</td>
+        </tr>
+        
+        <tr>
+            <td class="away">1-2</td>
+            <td class="stat">Fourth Down Eff.</td>
+            <td class="home">0-1</td>
+        </tr>
+        
+        <tr>
+            <td class="away">206</td>
+            <td class="stat">Total Yards</td>
+            <td class="home">246</td>
+        </tr>
+        
+        <tr>
+            <td class="away">15.0</td>
+            <td class="stat">Points</td>
+            <td class="home">20.0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">33:08</td>
+            <td class="stat">Possession Time</td>
+            <td class="home">26:52</td>
+        </tr>
+        
+        <tr>
+            <td class="away">2.0</td>
+            <td class="stat">Total Fumbles</td>
+            <td class="home">1.0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">1</td>
+            <td class="stat">Fumbles Lost</td>
+            <td class="home">0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">1</td>
+            <td class="stat">Turnovers</td>
+            <td class="home">1</td>
+        </tr>
+        
+        <tr>
+            <td class="away">3-30</td>
+            <td class="stat">Total Penalties Yards</td>
+            <td class="home">5-54</td>
+        </tr>
+        
+        
+        <tr class="section-header"><td colspan="3">Defense</td></tr>
+        
+        
+        <tr>
+            <td class="away">4.0</td>
+            <td class="stat">Sacks</td>
+            <td class="home">0.0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">33.0</td>
+            <td class="stat">Tackles</td>
+            <td class="home">26.0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">8.0</td>
+            <td class="stat">Tackles For Loss</td>
+            <td class="home">4.0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">0</td>
+            <td class="stat">Interceptions</td>
+            <td class="home">1</td>
+        </tr>
+        
+        <tr>
+            <td class="away">4.0</td>
+            <td class="stat">Passes Deflected</td>
+            <td class="home">8.0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">0.0</td>
+            <td class="stat">Interception TDs</td>
+            <td class="home">-</td>
+        </tr>
+        
+        <tr>
+            <td class="away">1.0</td>
+            <td class="stat">Interception Yards</td>
+            <td class="home">-</td>
+        </tr>
+        
+        <tr>
+            <td class="away">0.0</td>
+            <td class="stat">QB Hurries</td>
+            <td class="home">3.0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">0.0</td>
+            <td class="stat">Defensive TDs</td>
+            <td class="home">0.0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">0</td>
+            <td class="stat">Fumbles Recovered</td>
+            <td class="home">1</td>
+        </tr>
+        
+        <tr>
+            <td class="away">1.0</td>
+            <td class="stat">Passes Intercepted</td>
+            <td class="home">-</td>
+        </tr>
+        
+        
+        <tr class="section-header"><td colspan="3">Special Teams</td></tr>
+        
+        
+        <tr>
+            <td class="away">9.0</td>
+            <td class="stat">Kicking Points</td>
+            <td class="home">8.0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">100.0</td>
+            <td class="stat">Kick Return Yards</td>
+            <td class="home">-</td>
+        </tr>
+        
+        <tr>
+            <td class="away">4.0</td>
+            <td class="stat">Kick Returns</td>
+            <td class="home">-</td>
+        </tr>
+        
+        <tr>
+            <td class="away">0.0</td>
+            <td class="stat">Kick Return TDs</td>
+            <td class="home">-</td>
+        </tr>
+        
+        <tr>
+            <td class="away">0.0</td>
+            <td class="stat">Punt Return Yards</td>
+            <td class="home">49.0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">1.0</td>
+            <td class="stat">Punt Returns</td>
+            <td class="home">3.0</td>
+        </tr>
+        
+        <tr>
+            <td class="away">0.0</td>
+            <td class="stat">Punt Return TDs</td>
+            <td class="home">0.0</td>
+        </tr>
+        
+    </table>
+    </div>
+    </div>
